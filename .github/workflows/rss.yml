@@ -1,75 +1,161 @@
-      - name: Send digest to DingTalk
-        env:
-          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
-        run: |
-          python <<EOF
-          import os, json, datetime, subprocess, urllib.request
+name: Update RSS Feeds
 
-          webhook = os.environ.get("DINGTALK_WEBHOOK")
-          if not webhook:
-              raise SystemExit("DINGTALK_WEBHOOK 未配置，请在仓库 Settings → Secrets 里添加")
+on:
+  # 每天 21:00（北京时间）执行
+  schedule:
+    - cron: "0 13 * * *"
+  workflow_dispatch:
 
-          # 调用 GitHub 官方翻译 API
-          def translate_to_cn(text):
-              try:
-                  result = subprocess.check_output(
-                      [
-                          "gh", "api",
-                          "https://api.github.com/markdown",
-                          "-f", f"text=Translate to Chinese:\n{text}"
-                      ],
-                      text=True
-                  )
-                  # GitHub Markdown API 返回 HTML，需要简单清洗一下
-                  result = result.replace("<p>", "").replace("</p>", "").strip()
-                  return result
-              except Exception as e:
-                  return f"(翻译失败){text}"
+jobs:
+  update:
+    runs-on: ubuntu-latest
 
-          # 读取刚才生成的 feeds.json
-          with open("feeds.json", "r", encoding="utf-8") as f:
-              data = json.load(f)
+    steps:
+    # -----------------------
+    # 1) 拉取仓库
+    # -----------------------
+    - name: Checkout repo
+      uses: actions/checkout@v3
 
-          items = data[:12]  # 前 12 条更适合钉钉
+    # -----------------------
+    # 2) Python 环境
+    # -----------------------
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
 
-          now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
-          ts = now.strftime("%Y-%m-%d %H:%M")
+    - name: Install dependencies
+      run: |
+        pip install feedparser requests googletrans==4.0.0-rc1
 
-          lines = []
-          lines.append(f"### 🌍 热点全球科技媒体日报（{ts} 北京时间）\\n\\n")
-          lines.append("- 来源：TechCrunch / The Verge / Engadget / Wired / IGN / Bloomberg 等\\n")
-          lines.append(f"- 今日抓取：{len(items)} 条\\n\\n")
+    # -----------------------
+    # 3) 抓取 RSS
+    # -----------------------
+    - name: Fetch RSS & Generate feeds.json
+      run: |
+        python <<EOF
+        import feedparser, json, requests, time
 
-          for i, item in enumerate(items, 1):
-              title = item.get("title") or ""
-              plat = item.get("platform") or "未知来源"
-              url = item.get("url") or ""
+        rss_list = [
+            ("TechCrunch", "https://techcrunch.com/feed/"),
+            ("The Verge", "https://www.theverge.com/rss/index.xml"),
+            ("Engadget", "https://www.engadget.com/rss.xml"),
+            ("Wired", "https://www.wired.com/feed/rss"),
+            ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index/"),
+            ("Tom's Guide", "https://www.tomsguide.com/feeds/all"),
+            ("Polygon", "https://www.polygon.com/rss/index.xml"),
+            ("IGN", "https://www.ign.com/rss"),
+            ("GameSpot", "https://www.gamespot.com/feeds/mashup/"),
+            ("Bloomberg Tech", "https://feeds.bloomberg.com/technology/news.rss"),
+            ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/"),
+            ("MIT Tech Review", "https://www.technologyreview.com/feed/")
+        ]
 
-              # 翻译标题
-              zh_title = translate_to_cn(title)
+        all_items = []
 
-              lines.append(f"{i}. **[{plat}]** {zh_title}\\n")
-              lines.append(f"🔗 {url}\\n\\n")
+        for name, url in rss_list:
+            try:
+                feed = feedparser.parse(url)
+                for e in feed.entries[:20]:
+                    all_items.append({
+                        "title": e.get("title", ""),
+                        "url": e.get("link", ""),
+                        "platform": name,
+                        "summary": e.get("summary", "")[:300],
+                        "published": e.get("published", "")
+                    })
+            except Exception as err:
+                print("❌ RSS 解析错误:", name, url, err)
 
-          text = "".join(lines)
+        with open("feeds.json", "w", encoding="utf-8") as f:
+            json.dump(all_items, f, ensure_ascii=False, indent=2)
 
-          if len(text) > 19000:
-              text = text[:19000] + "\\n...(内容过长已截断)"
+        print("✔ RSS 抓取完成，写入 feeds.json，共", len(all_items), "条")
+        EOF
 
-          payload = {
-              "msgtype": "markdown",
-              "markdown": {
-                  "title": "热点全球科技媒体日报",
-                  "text": text
-              }
-          }
+    # -----------------------
+    # 4) 推送到钉钉
+    # -----------------------
+    - name: Send digest to DingTalk
+      env:
+        DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+      run: |
+        python <<EOF
+        import os, json, datetime, urllib.request
+        from googletrans import Translator
 
-          data_bytes = json.dumps(payload).encode("utf-8")
-          req = urllib.request.Request(
-              webhook,
-              data=data_bytes,
-              headers={"Content-Type": "application/json"}
-          )
-          with urllib.request.urlopen(req) as resp:
-              print("DingTalk response:", resp.read().decode("utf-8"))
-          EOF
+        webhook = os.environ.get("DINGTALK_WEBHOOK")
+        if not webhook or not webhook.startswith("http"):
+            raise SystemExit("❌ ERROR: DINGTALK_WEBHOOK 未配置或格式错误")
+
+        # 读取数据
+        with open("feeds.json", "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        # 热点关键词（支持中英文）
+        hot_keywords = [
+            "AI", "人工智能", "芯片", "半导体", "量子", "自动驾驶",
+            "生成式", "OpenAI", "马斯克", "特斯拉", "苹果", "华为",
+            "Meta", "Google", "NVIDIA", "GPT", "Robot", "无人机"
+        ]
+
+        def is_hot(title, summary):
+            t = (title + " " + summary).lower()
+            return any(kw.lower() in t for kw in hot_keywords)
+
+        hot_items = [item for item in data if is_hot(item["title"], item["summary"])]
+
+        # 没有热点则 fallback
+        items = hot_items[:15] if hot_items else data[:15]
+
+        translator = Translator()
+
+        def to_zh(text):
+            try:
+                return translator.translate(text, dest="zh-cn").text
+            except:
+                return text  # 失败时保留英文
+
+        now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
+        ts = now.strftime("%Y-%m-%d %H:%M")
+
+        lines = []
+        lines.append(f"### 🌍 热点科技媒体日报（{ts}）\\n")
+
+        if hot_items:
+            lines.append(f"共抓取 {len(data)} 条，其中热点 {len(hot_items)} 条\\n\\n")
+        else:
+            lines.append(f"共抓取 {len(data)} 条（无热点，展示最新 15 条）\\n\\n")
+
+        for i, item in enumerate(items, 1):
+            title_cn = to_zh(item["title"])
+            lines.append(f"**{i}. [{item['platform']}] {title_cn}**\\n")
+            lines.append(f"{item['url']}\\n\\n")
+
+        text = "".join(lines)
+
+        payload = {
+            "msgtype": "markdown",
+            "markdown": {"title": "热点科技媒体日报", "text": text}
+        }
+
+        req = urllib.request.Request(
+            webhook,
+            data=json.dumps(payload).encode(),
+            headers={"Content-Type": "application/json"}
+        )
+        with urllib.request.urlopen(req) as resp:
+            print("钉钉响应:", resp.read().decode())
+        EOF
+
+    # -----------------------
+    # 5) 自动提交
+    # -----------------------
+    - name: Commit updates
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add feeds.json
+        git commit -m "Update RSS feeds" || echo "No changes"
+        git push

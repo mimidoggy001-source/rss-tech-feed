@@ -102,64 +102,77 @@ jobs:
 
         translator = Translator()
 
-        # -----------------------
-        # 关键词体系（强 / 中 / 弱 权重）
-        # -----------------------
+        # =====================================================
+        #   🔥 新权重体系（你最新要求）
+        # =====================================================
 
-        # 强权重（游戏掌机 + GPU）
+        # 🟥 S 级（最高权重：消费电子 / 手机 / 平板 / 显示器 / 芯片）
+        S_keywords = [
+            "apple", "iphone", "ipad", "macbook", "airpods",
+            "samsung", "galaxy",
+            "google pixel", "pixel",
+            "qualcomm", "snapdragon", "mediatek",
+            "laptop", "notebook", "ultrabook",
+            "tablet", "android", "windows",
+            "monitor", "display",
+            "usb-c", "charger", "bluetooth", "headphones",
+        ]
+
+        # 🟧 A 级（高权重：3C 电子设备 / 计算硬件）
         A_keywords = [
+            "ssd", "gpu", "rtx", "nvidia",
+            "intel", "amd",
+            "router", "wifi",
+            "type-c hub", "dock", "accessories",
+            "battery", "wireless", "camera",
+        ]
+
+        # 🟨 B 级（中权重：游戏设备）
+        B_keywords = [
             "steam deck", "rog ally", "legion go",
             "nintendo switch", "switch 2",
-            "ps5", "playstation", "xbox series",
-            "gaming handheld", "portable gaming",
-            "gpu", "rtx", "radeon", "ssd",
-            "monitor", "display",
+            "playstation", "ps5",
+            "xbox", "gaming handheld",
         ]
 
-        # 中权重（消费电子）
-        B_keywords = [
-            "iphone", "macbook", "ipad", "airpods",
-            "snapdragon", "mediatek", "qualcomm",
-            "huawei", "xiaomi", "oppo", "vivo",
-            "samsung galaxy",
-        ]
-
-        # 弱权重（避免 AI 过度触发）
+        # 🟩 C 级（弱权重：泛科技）
         C_keywords = [
-            "ai", "artificial intelligence", "google", "meta",
-            "tesla", "musk", "cloud", "chip", "data center",
-            "security", "robot",
+            "ai", "artificial intelligence",
+            "cloud", "robot", "musk", "tesla",
+            "meta", "openai", "security",
         ]
 
+        # 计算分数
         def calc_score(text):
             t = text.lower()
             score = 0
-            score += sum(5 for k in A_keywords if k in t)
+            score += sum(6 for k in S_keywords if k in t)
+            score += sum(4 for k in A_keywords if k in t)
             score += sum(2 for k in B_keywords if k in t)
             score += sum(1 for k in C_keywords if k in t)
             return score
 
         # -----------------------
-        # 读取合并后的 RSS
+        # 读取数据
         # -----------------------
         with open("feeds.json", "r", encoding="utf-8") as f:
             items = json.load(f)
 
         # -----------------------
-        # 内容排序
+        # 计算排序得分
         # -----------------------
         for item in items:
             text = item["title"] + " " + item["summary"]
             item["score"] = calc_score(text)
 
-        # 按分数从高到低排序
+        # 分数从高到低排序
         items_sorted = sorted(items, key=lambda x: x["score"], reverse=True)
 
         # 取前 20 条
         items_final = items_sorted[:20]
 
         # -----------------------
-        # 中译（标题翻译）
+        # 标题翻译
         # -----------------------
         def to_zh(text):
             try:
@@ -179,7 +192,6 @@ jobs:
             lines.append(f"{i}. **[{item['platform']}] {zh}**\\n")
             lines.append(f"{item['url']}\\n\\n")
 
-        # 钉钉内容
         payload = {
             "msgtype": "markdown",
             "markdown": {
@@ -193,7 +205,6 @@ jobs:
             data=json.dumps(payload).encode(),
             headers={"Content-Type": "application/json"}
         )
-
         with urllib.request.urlopen(req) as resp:
             print("钉钉响应:", resp.read().decode())
         EOF

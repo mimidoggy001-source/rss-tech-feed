@@ -1,8 +1,9 @@
 name: Update RSS Feeds
 
 on:
+  # 每天 21:00（13:00 UTC）更新一次，如果你想改频率，改这一行 cron 即可
   schedule:
-    - cron: "0 * * * *"   # 每小时更新
+    - cron: "0 13 * * *"
   workflow_dispatch:
 
 jobs:
@@ -56,6 +57,63 @@ jobs:
 
           with open("feeds.json", "w", encoding="utf-8") as f:
               json.dump(all_items, f, ensure_ascii=False, indent=2)
+          EOF
+
+      - name: Send digest to DingTalk
+        env:
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+        run: |
+          python <<EOF
+          import os, json, datetime, urllib.request
+
+          webhook = os.environ.get("DINGTALK_WEBHOOK")
+          if not webhook:
+              raise SystemExit("DINGTALK_WEBHOOK 未配置，请在仓库 Settings → Secrets 里添加")
+
+          # 读取刚才生成的 feeds.json
+          with open("feeds.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          # 取前 15 条，防止消息太长
+          items = data[:15]
+
+          # 北京时间
+          now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
+          ts = now.strftime("%Y-%m-%d %H:%M")
+
+          lines = []
+          lines.append(f"### 🌍 全球科技媒体日报（{ts} 北京时间）\\n\\n")
+          lines.append("- 来源：TechCrunch / The Verge / Engadget / Wired / IGN / Bloomberg 等\\n")
+          lines.append(f"- 本次抓取：{len(items)} 条\\n\\n")
+
+          for i, item in enumerate(items, 1):
+              title = (item.get("title") or "").replace("\\n", " ").strip()
+              plat = item.get("platform") or "未知来源"
+              url = item.get("url") or ""
+              lines.append(f"{i}. **[{plat}]** {title}\\n\\n    {url}\\n\\n")
+
+          text = "".join(lines)
+
+          # 钉钉单条消息长度有上限，超了就截断一下
+          if len(text) > 19000:
+              text = text[:19000] + "\\n\\n...(内容已截断)"
+
+          payload = {
+              "msgtype": "markdown",
+              "markdown": {
+                  "title": "全球科技媒体日报",
+                  "text": text
+              }
+          }
+
+          data_bytes = json.dumps(payload).encode("utf-8")
+          req = urllib.request.Request(
+              webhook,
+              data=data_bytes,
+              headers={"Content-Type": "application/json"}
+          )
+          with urllib.request.urlopen(req) as resp:
+              print("DingTalk response:", resp.read().decode("utf-8"))
           EOF
 
       - name: Commit updates

@@ -1,12 +1,10 @@
 name: Update RSS Feeds
 
 on:
+  # 每天 21:00（13:00 UTC）更新一次，如果你想改频率，改这一行 cron 即可
   schedule:
-    - cron: "0 */8 * * *"  # 每 8 小时自动运行一次（可改）
+    - cron: "0 13 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   update:
@@ -19,71 +17,112 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          pip install feedparser requests
+        run: pip install feedparser
 
       - name: Generate feeds.json
         run: |
           python <<EOF
-          import feedparser
-          import json
+          import feedparser, json
 
-          # 你放在 feeds.json 的 RSS 列表
-          with open("feeds.json", "r", encoding="utf-8") as f:
-              feed_list = json.load(f)
+          rss_list = [
+            ("TechCrunch", "https://techcrunch.com/feed/"),
+            ("The Verge", "https://www.theverge.com/rss/index.xml"),
+            ("Engadget", "https://www.engadget.com/rss.xml"),
+            ("Wired", "https://www.wired.com/feed/rss"),
+            ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index/"),
+            ("Tom's Guide", "https://www.tomsguide.com/feeds/all"),
+            ("Polygon", "https://www.polygon.com/rss/index.xml"),
+            ("IGN", "https://www.ign.com/rss"),
+            ("GameSpot", "https://www.gamespot.com/feeds/mashup/"),
+            ("Bloomberg Tech", "https://feeds.bloomberg.com/technology/news.rss"),
+            ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/"),
+            ("MIT Tech Review", "https://www.technologyreview.com/feed/")
+          ]
 
-          items = []
-          for feed in feed_list:
-              parsed = feedparser.parse(feed["url"])
-              for entry in parsed.entries[:5]:  # 每源取 5 条
-                  items.append({
-                      "title": entry.title,
-                      "link": entry.link
+          all_items = []
+
+          for name, url in rss_list:
+              feed = feedparser.parse(url)
+              for e in feed.entries[:20]:
+                  all_items.append({
+                      "title": e.get("title", ""),
+                      "url": e.get("link", ""),
+                      "platform": name,
+                      "published": e.get("published", ""),
+                      "summary": e.get("summary", "")[:200]
                   })
 
-          # 保存结果
-          with open("feeds_output.json", "w", encoding="utf-8") as f:
-              json.dump(items, f, ensure_ascii=False, indent=2)
+          with open("feeds.json", "w", encoding="utf-8") as f:
+              json.dump(all_items, f, ensure_ascii=False, indent=2)
           EOF
 
       - name: Send digest to DingTalk
         env:
-          DINGTALK_WEBHOOK_URL: ${{ secrets.DINGTALK_WEBHOOK_URL }}
+          # 用你现在这个 Secret 名：DINGTALK_WEBHOOK
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
         run: |
           python <<EOF
-          import json
-          import requests
+          import os, json, datetime, urllib.request
 
-          with open("feeds_output.json", "r", encoding="utf-8") as f:
-              feeds = json.load(f)
+          webhook = os.environ.get("DINGTALK_WEBHOOK")
+          if not webhook:
+              raise SystemExit("DINGTALK_WEBHOOK 未配置，请在仓库 Settings → Secrets 里添加")
 
-          # ⚠ 必须包含你钉钉机器人的关键词：热点
-          content = "【热点 RSS 日报】\n\n"
-          
-          for item in feeds[:15]:  # 最多发 15 条，避免消息太长
-              content += f"- {item['title']}\n  {item['link']}\n\n"
+          # 读取刚才生成的 feeds.json
+          with open("feeds.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          # 取前 15 条，防止消息太长
+          items = data[:15]
+
+          # 北京时间
+          now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
+          ts = now.strftime("%Y-%m-%d %H:%M")
+
+          lines = []
+          # 这里加上你的关键词「热点」
+          lines.append(f"### 🌍 热点全球科技媒体日报（{ts} 北京时间）\\n\\n")
+          lines.append("- 来源：TechCrunch / The Verge / Engadget / Wired / IGN / Bloomberg 等\\n")
+          lines.append(f"- 本次抓取：{len(items)} 条\\n\\n")
+
+          for i, item in enumerate(items, 1):
+              title = (item.get("title") or "").replace("\\n", " ").strip()
+              plat = item.get("platform") or "未知来源"
+              url = item.get("url") or ""
+              lines.append(f"{i}. **[{plat}]** {title}\\n\\n    {url}\\n\\n")
+
+          text = "".join(lines)
+
+          # 钉钉单条消息长度有上限，超了就截断一下
+          if len(text) > 19000:
+              text = text[:19000] + "\\n\\n...(内容已截断)"
 
           payload = {
-              "msgtype": "text",
-              "text": {"content": content}
+              "msgtype": "markdown",
+              "markdown": {
+                  # 标题里也带上「热点」，双保险
+                  "title": "热点全球科技媒体日报",
+                  "text": text
+              }
           }
 
-          r = requests.post("${DINGTALK_WEBHOOK_URL}", json=payload)
-          print("DingTalk response:", r.text)
+          data_bytes = json.dumps(payload).encode("utf-8")
+          req = urllib.request.Request(
+              webhook,
+              data=data_bytes,
+              headers={"Content-Type": "application/json"}
+          )
+          with urllib.request.urlopen(req) as resp:
+              print("DingTalk response:", resp.read().decode("utf-8"))
           EOF
 
       - name: Commit updates
-      # 是否要把 feeds_output.json 推回仓库？如果不想保存可以删掉这个 step
         run: |
-          git config --global user.name "github-actions[bot]"
           git config --global user.email "actions@github.com"
-          if git diff --quiet; then
-            echo "No changes to commit"
-          else
-            git add .
-            git commit -m "Update RSS feeds"
-            git push
-          fi
+          git config --global user.name "GitHub Actions"
+          git add feeds.json
+          git commit -m "Update RSS feeds" || echo "No changes"
+          git push

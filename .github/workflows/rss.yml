@@ -1,7 +1,7 @@
 name: Update RSS Feeds
 
 on:
-  # 每天 21:00（北京时间）执行
+  # 每天北京时间 21:00 自动推送
   schedule:
     - cron: "0 13 * * *"
   workflow_dispatch:
@@ -30,52 +30,63 @@ jobs:
         pip install feedparser requests googletrans==4.0.0-rc1
 
     # -----------------------
-    # 3) 抓取 RSS
+    # 3) 抓取 RSS 合并内容
     # -----------------------
     - name: Fetch RSS & Generate feeds.json
       run: |
         python <<EOF
-        import feedparser, json, requests, time
+        import feedparser, json
 
-        rss_list = [
+        rss_sources = [
+            # ==== 海外科技媒体 ====
             ("TechCrunch", "https://techcrunch.com/feed/"),
             ("The Verge", "https://www.theverge.com/rss/index.xml"),
             ("Engadget", "https://www.engadget.com/rss.xml"),
             ("Wired", "https://www.wired.com/feed/rss"),
             ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index/"),
-            ("Tom's Guide", "https://www.tomsguide.com/feeds/all"),
-            ("Polygon", "https://www.polygon.com/rss/index.xml"),
+            ("Bloomberg Tech", "https://feeds.bloomberg.com/technology/news.rss"),
+
+            # ==== 游戏 / 掌机 ====
             ("IGN", "https://www.ign.com/rss"),
             ("GameSpot", "https://www.gamespot.com/feeds/mashup/"),
-            ("Bloomberg Tech", "https://feeds.bloomberg.com/technology/news.rss"),
-            ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/"),
-            ("MIT Tech Review", "https://www.technologyreview.com/feed/")
+            ("Eurogamer", "https://www.eurogamer.net/?format=rss"),
+            ("Kotaku", "https://kotaku.com/rss"),
+
+            # ==== 消费电子 / 手机 ====
+            ("GSM Arena", "https://www.gsmarena.com/rss-news-reviews.php"),
+            ("Android Authority", "https://www.androidauthority.com/feed/"),
+            ("Notebook Check", "https://www.notebookcheck.net/RSS-Feed.8156.0.html"),
+            ("Tom’s Hardware", "https://www.tomshardware.com/feeds/all"),
+
+            # ==== 国内科技 ====
+            ("ITHome", "https://www.ithome.com/rss/"),
+            ("SSPai", "https://sspai.com/feed"),
+            ("Leiphone", "https://www.leiphone.com/feed"),
         ]
 
         all_items = []
 
-        for name, url in rss_list:
+        for name, url in rss_sources:
             try:
                 feed = feedparser.parse(url)
-                for e in feed.entries[:20]:
+                for entry in feed.entries[:20]:
                     all_items.append({
-                        "title": e.get("title", ""),
-                        "url": e.get("link", ""),
+                        "title": entry.get("title", ""),
+                        "summary": entry.get("summary", "")[:500],
+                        "url": entry.get("link", ""),
                         "platform": name,
-                        "summary": e.get("summary", "")[:300],
-                        "published": e.get("published", "")
                     })
-            except Exception as err:
-                print("❌ RSS 解析错误:", name, url, err)
+            except Exception as e:
+                print("⚠ RSS 抓取失败:", name, url, e)
 
         with open("feeds.json", "w", encoding="utf-8") as f:
             json.dump(all_items, f, ensure_ascii=False, indent=2)
 
-        print("✔ RSS 抓取完成，写入 feeds.json，共", len(all_items), "条")
+        print("✔ RSS 抓取完成，总条数:", len(all_items))
         EOF
 
     # -----------------------
-    # 4) 推送到钉钉
+    # 4) 排序 + 翻译 + 推送钉钉
     # -----------------------
     - name: Send digest to DingTalk
       env:
@@ -87,57 +98,94 @@ jobs:
 
         webhook = os.environ.get("DINGTALK_WEBHOOK")
         if not webhook or not webhook.startswith("http"):
-            raise SystemExit("❌ ERROR: DINGTALK_WEBHOOK 未配置或格式错误")
-
-        # 读取数据
-        with open("feeds.json", "r", encoding="utf-8") as f:
-            data = json.load(f)
-
-        # 热点关键词（支持中英文）
-        hot_keywords = [
-            "AI", "人工智能", "芯片", "半导体", "量子", "自动驾驶",
-            "生成式", "OpenAI", "马斯克", "特斯拉", "苹果", "华为",
-            "Meta", "Google", "NVIDIA", "GPT", "Robot", "无人机"
-        ]
-
-        def is_hot(title, summary):
-            t = (title + " " + summary).lower()
-            return any(kw.lower() in t for kw in hot_keywords)
-
-        hot_items = [item for item in data if is_hot(item["title"], item["summary"])]
-
-        # 没有热点则 fallback
-        items = hot_items[:15] if hot_items else data[:15]
+            raise SystemExit("❌ ERROR: DINGTALK_WEBHOOK 未设置或格式错误")
 
         translator = Translator()
 
+        # -----------------------
+        # 关键词体系（强 / 中 / 弱 权重）
+        # -----------------------
+
+        # 强权重（游戏掌机 + GPU）
+        A_keywords = [
+            "steam deck", "rog ally", "legion go",
+            "nintendo switch", "switch 2",
+            "ps5", "playstation", "xbox series",
+            "gaming handheld", "portable gaming",
+            "gpu", "rtx", "radeon", "ssd",
+            "monitor", "display",
+        ]
+
+        # 中权重（消费电子）
+        B_keywords = [
+            "iphone", "macbook", "ipad", "airpods",
+            "snapdragon", "mediatek", "qualcomm",
+            "huawei", "xiaomi", "oppo", "vivo",
+            "samsung galaxy",
+        ]
+
+        # 弱权重（避免 AI 过度触发）
+        C_keywords = [
+            "ai", "artificial intelligence", "google", "meta",
+            "tesla", "musk", "cloud", "chip", "data center",
+            "security", "robot",
+        ]
+
+        def calc_score(text):
+            t = text.lower()
+            score = 0
+            score += sum(5 for k in A_keywords if k in t)
+            score += sum(2 for k in B_keywords if k in t)
+            score += sum(1 for k in C_keywords if k in t)
+            return score
+
+        # -----------------------
+        # 读取合并后的 RSS
+        # -----------------------
+        with open("feeds.json", "r", encoding="utf-8") as f:
+            items = json.load(f)
+
+        # -----------------------
+        # 内容排序
+        # -----------------------
+        for item in items:
+            text = item["title"] + " " + item["summary"]
+            item["score"] = calc_score(text)
+
+        # 按分数从高到低排序
+        items_sorted = sorted(items, key=lambda x: x["score"], reverse=True)
+
+        # 取前 20 条
+        items_final = items_sorted[:20]
+
+        # -----------------------
+        # 中译（标题翻译）
+        # -----------------------
         def to_zh(text):
             try:
                 return translator.translate(text, dest="zh-cn").text
             except:
-                return text  # 失败时保留英文
+                return text
 
         now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
         ts = now.strftime("%Y-%m-%d %H:%M")
 
         lines = []
         lines.append(f"### 🌍 热点科技媒体日报（{ts}）\\n")
+        lines.append(f"共抓取 {len(items)} 条，展示优先级最高的前 20 条\\n\\n")
 
-        if hot_items:
-            lines.append(f"共抓取 {len(data)} 条，其中热点 {len(hot_items)} 条\\n\\n")
-        else:
-            lines.append(f"共抓取 {len(data)} 条（无热点，展示最新 15 条）\\n\\n")
-
-        for i, item in enumerate(items, 1):
-            title_cn = to_zh(item["title"])
-            lines.append(f"**{i}. [{item['platform']}] {title_cn}**\\n")
+        for i, item in enumerate(items_final, 1):
+            zh = to_zh(item["title"])
+            lines.append(f"{i}. **[{item['platform']}] {zh}**\\n")
             lines.append(f"{item['url']}\\n\\n")
 
-        text = "".join(lines)
-
+        # 钉钉内容
         payload = {
             "msgtype": "markdown",
-            "markdown": {"title": "热点科技媒体日报", "text": text}
+            "markdown": {
+                "title": "热点科技媒体日报",
+                "text": "".join(lines)
+            }
         }
 
         req = urllib.request.Request(
@@ -145,12 +193,13 @@ jobs:
             data=json.dumps(payload).encode(),
             headers={"Content-Type": "application/json"}
         )
+
         with urllib.request.urlopen(req) as resp:
             print("钉钉响应:", resp.read().decode())
         EOF
 
     # -----------------------
-    # 5) 自动提交
+    # 5) 自动 commit
     # -----------------------
     - name: Commit updates
       run: |

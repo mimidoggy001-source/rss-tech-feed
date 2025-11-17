@@ -1,0 +1,67 @@
+name: Update RSS Feeds
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # 每小时更新
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Generate feeds.json
+        run: |
+          python <<EOF
+          import feedparser, json
+
+          rss_list = [
+            ("TechCrunch", "https://techcrunch.com/feed/"),
+            ("The Verge", "https://www.theverge.com/rss/index.xml"),
+            ("Engadget", "https://www.engadget.com/rss.xml"),
+            ("Wired", "https://www.wired.com/feed/rss"),
+            ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index/"),
+            ("Tom's Guide", "https://www.tomsguide.com/feeds/all"),
+            ("Polygon", "https://www.polygon.com/rss/index.xml"),
+            ("IGN", "https://www.ign.com/rss"),
+            ("GameSpot", "https://www.gamespot.com/feeds/mashup/"),
+            ("Bloomberg Tech", "https://feeds.bloomberg.com/technology/news.rss"),
+            ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/"),
+            ("MIT Tech Review", "https://www.technologyreview.com/feed/")
+          ]
+
+          all_items = []
+
+          for name, url in rss_list:
+              feed = feedparser.parse(url)
+              for e in feed.entries[:20]:
+                  all_items.append({
+                      "title": e.get("title", ""),
+                      "url": e.get("link", ""),
+                      "platform": name,
+                      "published": e.get("published", ""),
+                      "summary": e.get("summary", "")[:200]
+                  })
+
+          with open("feeds.json", "w", encoding="utf-8") as f:
+              json.dump(all_items, f, ensure_ascii=False, indent=2)
+          EOF
+
+      - name: Commit updates
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add feeds.json
+          git commit -m "Update RSS feeds" || echo "No changes"
+          git push

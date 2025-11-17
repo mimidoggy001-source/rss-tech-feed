@@ -1,5 +1,19 @@
 [
   {
+    "title": "Sequoia-backed fintech Aspora will let Indian diaspora pay bills back home",
+    "url": "https://techcrunch.com/2025/11/17/sequoia-backed-fintech-aspora-will-let-indian-diaspora-pay-bills-back-home/",
+    "platform": "TechCrunch",
+    "published": "Mon, 17 Nov 2025 17:22:21 +0000",
+    "summary": "UK-based Aspora, which has focused on remittances, will let non-resident Indians pay bills back home."
+  },
+  {
+    "title": "Google rolls out its AI ‘Flight Deals’ tool globally, adds new travel features in Search",
+    "url": "https://techcrunch.com/2025/11/17/google-rolls-out-its-ai-flight-deals-tool-globally-adds-new-travel-features-in-search/",
+    "platform": "TechCrunch",
+    "published": "Mon, 17 Nov 2025 17:00:00 +0000",
+    "summary": "To get started, users need to describe where, when, and how they want to travel. Flight Deals will then use AI to display the best bargains available."
+  },
+  {
     "title": "DoorDash confirms data breach impacting users’ phone numbers and physical addresses",
     "url": "https://techcrunch.com/2025/11/17/doordash-confirms-data-breach-impacting-users-phone-numbers-and-physical-addresses/",
     "platform": "TechCrunch",
@@ -18,14 +32,14 @@
     "url": "https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/",
     "platform": "TechCrunch",
     "published": "Mon, 17 Nov 2025 14:33:30 +0000",
-    "summary": "Amazon's founder Jeff Bezos seems to be getting his hands dirty once again: the billionaire is partly backing a new AI startup called Project Prometheus that has raised $6.2 billion in funding, and wi"
+    "summary": "Jeff Bezos is partly backing a new AI startup called Project Prometheus that has raised $6.2 billion in funding, and will take on duties as co-chief executive."
   },
   {
     "title": "Luminal raises $5.3 million to build a better GPU code framework",
     "url": "https://techcrunch.com/2025/11/17/luminal-raises-5-3-million-to-build-a-better-gpu-code-framework/",
     "platform": "TechCrunch",
     "published": "Mon, 17 Nov 2025 14:03:33 +0000",
-    "summary": "Inference optimization startup Luminal has announced $5.3 million in a seed funding round led by Felicis Ventures, with angel investment from Paul Graham, Guillermo Rauch and Ben Porterfield."
+    "summary": "Inference optimization startup Luminal has announced $5.3 million in a seed funding round led by Felicis Ventures, with angel investment from Paul Graham, Guillermo Rauch, and Ben Porterfield."
   },
   {
     "title": "MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla’s Keith Rabois and Felicis",
@@ -123,21 +137,21 @@
     "url": "https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/",
     "platform": "TechCrunch",
     "published": "Sat, 15 Nov 2025 17:38:28 +0000",
-    "summary": "You can watch \"Jeopardy!\" on YouTube TV again."
+    "summary": "In addition to bringing Disney networks like ABC, ESPN, and FX back to YouTube’s streaming TV service, the deal will also see ESPN make its new direct-to-consumer service available on YouTube TV at no"
   },
   {
-    "title": "Leaked documents shed light into how much OpenAI pays Microsoft",
-    "url": "https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/",
-    "platform": "TechCrunch",
-    "published": "Sat, 15 Nov 2025 00:47:41 +0000",
-    "summary": "Leaked documents reveal how much OpenAI paid Microsoft under a revenue-share agreement. They also indicate inference costs."
+    "title": "Google&#8217;s AI Mode can now help you visualize your travel plans",
+    "url": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas",
+    "platform": "The Verge",
+    "published": "2025-11-17T12:07:57-05:00",
+    "summary": "Google users can now describe their next trip to its AI Mode in search and select the option to “Create with Canvas,” which will build out an itinerary in a side panel complete with data on flights an"
   },
   {
-    "title": "Databricks co-founder argues US must go open source to beat China in AI",
-    "url": "https://techcrunch.com/2025/11/14/databricks-co-founder-argues-us-must-go-open-source-to-beat-china-in-ai/",
-    "platform": "TechCrunch",
-    "published": "Fri, 14 Nov 2025 22:52:18 +0000",
-    "summary": "VC Andy Konwinski argues that the U.S. is losing its AI research dominance to China."
+    "title": "Netgear&#8217;s $499.99 5G hotspot lets you swap eSIMs at will",
+    "url": "https://www.theverge.com/news/822256/netgear-nighthawk-5g-m7-esim-marketplace-launch",
+    "platform": "The Verge",
+    "published": "2025-11-17T12:07:43-05:00",
+    "summary": "Netgear announced its latest mobile hotspot today, the Nighthawk 5G M7, which will be available in January, along with a new mobile app and an eSIM marketplace where you can purchase local SIM cards f"
   },
   {
     "title": "A treasure trove of Criterion Collection DVDs are now on half-price sale",
@@ -196,18 +210,32 @@
     "summary": "Ford will be the next automaker to allow its vehicles to be featured on Amazon’s new online car buying site. Starting today, customers can browse, finance, and purchase certified pre-owned Ford vehicl"
   },
   {
-    "title": "MSI’s $380 QD-OLED gaming monitor is one of 2025’s best deals so far",
-    "url": "https://www.theverge.com/gadgets/820451/msi-qd-oled-1440p-gaming-monitor-deal-sale-black-friday",
-    "platform": "The Verge",
-    "published": "2025-11-17T07:15:29-05:00",
-    "summary": "At $380, MSI’s 27-inch 1440p QD-OLED gaming monitor is one of the best purchases Verge readers who want an awesome gaming upgrade can make now. That’s how much it costs in an online-only deal at Costc"
+    "title": "The 22 best gift ideas for the remote worker in your life",
+    "url": "https://www.engadget.com/computing/accessories/the-22-best-gift-ideas-for-the-remote-worker-in-your-life-140037336.html?src=rss",
+    "platform": "Engadget",
+    "published": "Mon, 17 Nov 2025 17:00:37 +0000",
+    "summary": "<p>It’s 2025, so chances are you have at least one person who works remotely on your gift list. While the work-from-home life has its perks — nobody likes a long commute — it certainly comes with its "
   },
   {
-    "title": "X launches Chat, its new encrypted DMs",
-    "url": "https://www.theverge.com/news/821950/x-chat-encrypted-dms-video-calls",
-    "platform": "The Verge",
-    "published": "2025-11-17T07:06:53-05:00",
-    "summary": "X has revealed Chat, an encrypted upgrade to the platform’s direct messaging service. It also includes support for video and voice calls, disappearing messages, and file sharing. The company announced"
+    "title": "Black Friday VPN deals: Get up to 75 percent off Proton VPN two-year plans",
+    "url": "https://www.engadget.com/deals/black-friday-vpn-deals-get-up-to-75-percent-off-proton-vpn-two-year-plans-153737542.html?src=rss",
+    "platform": "Engadget",
+    "published": "Mon, 17 Nov 2025 17:00:37 +0000",
+    "summary": "<p>Now is arguably the best time of year to sign up for a VPN, or gift a subscription to someone. Black Friday VPN deals are already available, with one of the best being on our favorite VPN overall. "
+  },
+  {
+    "title": "Nintendo Black Friday deals: Switch 2 bundles, Switch game deals, discounted accessories and more holiday offers available now",
+    "url": "https://www.engadget.com/deals/nintendo-black-friday-deals-switch-2-bundles-switch-game-deals-discounted-accessories-and-more-holiday-offers-available-now-155223935.html?src=rss",
+    "platform": "Engadget",
+    "published": "Mon, 17 Nov 2025 17:00:25 +0000",
+    "summary": "<p>Nintendo gear is always sought after during the holiday shopping season, but this year likely more so than others. The <a href=\"https://www.engadget.com/gaming/nintendo/nintendo-switch-2-review-mor"
+  },
+  {
+    "title": "Google expands AI Mode's flight and event booking features",
+    "url": "https://www.engadget.com/ai/google-expands-ai-modes-flight-and-event-booking-features-170017656.html?src=rss",
+    "platform": "Engadget",
+    "published": "Mon, 17 Nov 2025 17:00:17 +0000",
+    "summary": "<p>Google has introduced some new tools in AI Mode alongside the expansion of others. The beta for <a href=\"https://www.engadget.com/ai/flight-deals-is-googles-new-ai-powered-travel-search-tool-161502"
   },
   {
     "title": "Anker Black Friday deals are here early: Power banks, wireless chargers and other tech accessories",
@@ -322,34 +350,6 @@
     "summary": "<p>Budgeting can be a stressful, challenging and uncomfortable experience. While it's completely possible to do it on your own, we've become fans of a few great budgeting apps. Take <a href=\"https://w"
   },
   {
-    "title": "The best gaming laptops for 2025",
-    "url": "https://www.engadget.com/computing/laptops/best-gaming-laptops-172033838.html?src=rss",
-    "platform": "Engadget",
-    "published": "Mon, 17 Nov 2025 10:00:37 +0000",
-    "summary": "<p>Gaming laptops have gone from being ugly bricks to sleek machines that can match the power of desktops. If you’re looking to get crazy high framerates, or if you just want to revel in the glory of "
-  },
-  {
-    "title": "The best Secret Santa gifts for 2025: Affordable gift ideas from Apple, Lego, Yeti and others",
-    "url": "https://www.engadget.com/the-best-secret-santa-gifts-for-2025-affordable-gift-ideas-from-apple-lego-yeti-and-others-130014741.html?src=rss",
-    "platform": "Engadget",
-    "published": "Mon, 17 Nov 2025 09:26:48 +0000",
-    "summary": "<p>Secret Santa gift exchanges can be chaotic in the best way. One minute you’re drawing a name from a hat, the next you’re scrambling to figure out what they’d actually like. The trick is finding som"
-  },
-  {
-    "title": "The best 2025 advent calendars you can still get: Our favorites from Lego, Pokémon, Funko Pop and more",
-    "url": "https://www.engadget.com/the-best-2025-advent-calendars-you-can-still-get-our-favorites-from-lego-pokemon-funko-pop-and-more-120042568.html?src=rss",
-    "platform": "Engadget",
-    "published": "Mon, 17 Nov 2025 09:22:11 +0000",
-    "summary": "<p>Advent calendars aren’t just about chocolate anymore. Recent years have shown that the countdown to Christmas Day can be packed with fun surprises. Whether you’re into building Lego sets, adding mo"
-  },
-  {
-    "title": "This Audible Black Friday deal gives you three months of access for only $3",
-    "url": "https://www.engadget.com/deals/this-audible-black-friday-deal-gives-you-three-months-of-access-for-only-3-140010742.html?src=rss",
-    "platform": "Engadget",
-    "published": "Mon, 17 Nov 2025 09:01:25 +0000",
-    "summary": "<p><a href=\"https://www.engadget.com/black-friday/\">Black Friday</a> is a great time to take a look at what subscriptions you may be able to save on. From video streaming services to budgeting apps, m"
-  },
-  {
     "title": "A Collision with Space Debris Leaves 3 Chinese Astronauts Stranded in Orbit",
     "url": "https://www.wired.com/story/three-astronauts-are-stuck-on-chinas-space-station-without-a-safe-ride-home/",
     "platform": "Wired",
@@ -414,14 +414,14 @@
   },
   {
     "title": "Best Organic Mattresses (2025): Birch, Avocado, Naturepedic, More",
-    "url": "https://www.wired.com/gallery/best-organic-mattresses-1/",
+    "url": "https://www.wired.com/gallery/best-organic-mattresses/",
     "platform": "Wired",
     "published": "Sun, 16 Nov 2025 16:07:00 +0000",
     "summary": "These natural, organic mattresses are eco-friendly alternatives to conventional models and just as comfortable."
   },
   {
     "title": "Best Organic Mattresses (2025): Birch, Avocado, Naturepedic, More",
-    "url": "https://www.wired.com/gallery/best-organic-mattresses/",
+    "url": "https://www.wired.com/gallery/best-organic-mattresses-1/",
     "platform": "Wired",
     "published": "Sun, 16 Nov 2025 16:07:00 +0000",
     "summary": "These natural, organic mattresses are eco-friendly alternatives to conventional models and just as comfortable."
@@ -630,6 +630,34 @@
     "summary": "\"If NASA wants to go quicker, we would move heaven and Earth.\""
   },
   {
+    "title": "NFL Sunday Ticket just hit its lowest price of the season — now 68% off",
+    "url": "https://www.tomsguide.com/entertainment/sports/nfl-sunday-ticket-just-hit-its-lowest-price-of-the-season-now-68-percent-off",
+    "platform": "Tom's Guide",
+    "published": "Mon, 17 Nov 2025 17:15:29 +0000",
+    "summary": "Score NFL Sunday Ticket for just $48 ahead of Black Friday."
+  },
+  {
+    "title": "Surfshark warns \"don't buy our VPN yet\" days before Black Friday",
+    "url": "https://www.tomsguide.com/computing/vpns/surfshark-warns-dont-buy-our-vpn-yet-days-before-black-friday",
+    "platform": "Tom's Guide",
+    "published": "Mon, 17 Nov 2025 17:14:11 +0000",
+    "summary": "To kick off its birthday celebrations, Surfshark has dropped the price of both its VPN and antivirus to the lowest we've seen since Black Friday"
+  },
+  {
+    "title": "How to watch Montenegro vs Croatia: free streams, preview for 2026 World Cup qualifier",
+    "url": "https://www.tomsguide.com/entertainment/sports/watch-montenegro-vs-croatia-2026-world-cup-qualifier-free",
+    "platform": "Tom's Guide",
+    "published": "Mon, 17 Nov 2025 17:00:00 +0000",
+    "summary": "All the ways to watch Montenegro vs Croatia in the World Cup 2026 qualifiers from anywhere in the world."
+  },
+  {
+    "title": "Act fast! This early Black Friday deal brings the Bose QuietComfort Ultra Headphones down to their lowest price ever",
+    "url": "https://www.tomsguide.com/audio/over-ear-headphones/act-fast-this-early-black-friday-deal-brings-the-bose-quietcomfort-ultra-headphones-down-to-their-lowest-price-ever",
+    "platform": "Tom's Guide",
+    "published": "Mon, 17 Nov 2025 16:54:57 +0000",
+    "summary": "The Bose QuietComfort Ultra Headphones just dropped to their lowest price ever, and Black Friday hasn't even started yet."
+  },
+  {
     "title": "31+ Black Friday laptop deals up to 64% off — massive savings on MacBooks, Windows laptops, Chromebooks and more",
     "url": "https://www.tomsguide.com/computing/laptops/31-black-friday-laptop-deals-up-to-64-percent-off-massive-savings-on-macbooks-windows-laptops-chromebooks-and-more",
     "platform": "Tom's Guide",
@@ -742,32 +770,18 @@
     "summary": "Netflix just added the DC superhero movie “Blue Beetle,” which sees its young hero thrust into danger after a powerful alien relic chooses him."
   },
   {
-    "title": "Hurry! Walmart is selling a 26-piece set of stackable organizer bins for just $13 ahead of Black Friday",
-    "url": "https://www.tomsguide.com/home/hurry-walmart-is-selling-a-26-piece-set-of-stackable-organizer-bins-for-just-usd13-ahead-of-black-friday",
-    "platform": "Tom's Guide",
-    "published": "Mon, 17 Nov 2025 11:57:11 +0000",
-    "summary": "This 26-piece Walmart organizer bin set just crashed to $13 — here’s why I’ll be picking one up right now."
+    "title": "The Game Awards 2025 nominees announced, including Game of the Year",
+    "url": "https://www.polygon.com/game-awards-2025-nominees-list-game-of-the-year/",
+    "platform": "Polygon",
+    "published": "Mon, 17 Nov 2025 17:17:23 GMT",
+    "summary": "Game of the Year nominations have been announced for The Game Awards 2025 by host Geoff Keighley."
   },
   {
-    "title": "Goodbye, em-dash! ChatGPT finally lets users disable its most annoying writing habit",
-    "url": "https://www.tomsguide.com/ai/goodbye-em-dash-chatgpt-finally-lets-users-disable-its-most-annoying-writing-habit",
-    "platform": "Tom's Guide",
-    "published": "Mon, 17 Nov 2025 11:37:05 +0000",
-    "summary": "One of ChatGPT's biggest giveaways can be fixed in the settings now, removing all uses of em-dashes."
-  },
-  {
-    "title": "I'm shopping the 35 best Amazon Black Friday deals from $1 on Thanksgiving dinner essentials, Lego, Skechers, Apple and more",
-    "url": "https://www.tomsguide.com/sales-events/im-shopping-the-35-best-amazon-black-friday-deals-from-usd1-on-thanksgiving-dinner-essentials-lego-skechers-apple-and-more",
-    "platform": "Tom's Guide",
-    "published": "Mon, 17 Nov 2025 11:28:49 +0000",
-    "summary": "Black Friday Amazon deals are starting early! Check out all the best savings I've found starting from just $1."
-  },
-  {
-    "title": "Meta Quest 3S just hit lowest-ever price ahead of Black Friday — and it comes with one of the best VR games for free",
-    "url": "https://www.tomsguide.com/computing/vr-ar/meta-quest-3s-just-hit-lowest-ever-price-ahead-of-black-friday-and-it-comes-with-one-of-the-best-vr-games-for-free",
-    "platform": "Tom's Guide",
-    "published": "Mon, 17 Nov 2025 11:10:19 +0000",
-    "summary": "The Meta Quest 3S hit its lowest price ever at Amazon, and this Black Friday deal even comes with a free VR game included."
+    "title": "The Mighty Nein review: A zippy detour to get to Vox Machina’s return",
+    "url": "https://www.polygon.com/the-mighty-nein-amazon-prime-video-review-no-spoilers/",
+    "platform": "Polygon",
+    "published": "Mon, 17 Nov 2025 17:00:15 GMT",
+    "summary": "The Mighty Nein season 1 works as a good but short setup for a new adventure in the world of Critical Role and The Legend of Vox Machina"
   },
   {
     "title": "How to reach tier 3 in Anno 117: Pax Romana",
@@ -826,18 +840,32 @@
     "summary": "The world of Trails is filled with remarkable individuals, but no technique or mystical power can beat Lloyd Bannings's pure and corny heart"
   },
   {
-    "title": "SS Rajamouli calls Varanasi's villain \"one of my finest characters\"",
-    "url": "https://www.polygon.com/ss-rajamoulis-new-movie-varasani-features-a-terrifying-villain-star-says/",
-    "platform": "Polygon",
-    "published": "Sun, 16 Nov 2025 17:37:25 GMT",
-    "summary": "Famed Indian actor Prithviraj Sukumaran will portray the role of Kumbha in Varanasi."
+    "title": "Ousted Subnautica 2 Devs Allege Krafton Asked AI How To Avoid Paying Bonus",
+    "url": "https://www.gamespot.com/articles/ousted-subnautica-2-devs-allege-krafton-asked-ai-how-to-avoid-paying-bonus/1100-6536280/?ftag=CAD-01-10abi2f",
+    "platform": "GameSpot",
+    "published": "Mon, 17 Nov 2025 09:08:00 -0800",
+    "summary": "<p>The <a href=\"https://www.gamespot.com/articles/former-subnautica-2-devs-file-lawsuit-against-krafton/1100-6533107/\">legal battle</a> between the former leaders of Subnautica developer Unknown World"
   },
   {
-    "title": "Hazbin Hotel song explainer: The composers break down \"Gravity\"",
-    "url": "https://www.polygon.com/hazbin-hotel-song-breakdown-interview-gravity-jessica-vosk/",
-    "platform": "Polygon",
-    "published": "Sun, 16 Nov 2025 17:01:15 GMT",
-    "summary": "Sam Haft and Andrew Underberg on moving from Meat Loaf to Evanescence, the Hunchback of Notre Dame reference, and why they needed a Jessica Vosk solo."
+    "title": "All The Game Awards 2025 Nominees And Categories",
+    "url": "https://www.gamespot.com/gallery/all-the-game-awards-2025-winners-nominees/2900-7258/",
+    "platform": "GameSpot",
+    "published": "Mon, 17 Nov 2025 09:01:00 -0800",
+    "summary": "<p><h2>Here we go</h2><img src=\"https://www.gamespot.com/a/uploads/scale_large/1179/11799911/4603787-screenshot2025-11-17at12.10.12%E2%80%AFpm.png\" /><br /><p>The Game Awards returns on December 11, a"
+  },
+  {
+    "title": "Mafia's Success Show's Not All Games need to be $70",
+    "url": "https://www.gamespot.com/videos/mafias-success-shows-not-all-games-need-to-be-70/2300-6466528/",
+    "platform": "GameSpot",
+    "published": "Mon, 17 Nov 2025 09:00:00 -0800",
+    "summary": "<img height=\"480\" src=\"https://www.gamespot.com/a/uploads/square_medium/1862/18620770/4602894-gc_mafia.jpg\" width=\"480\" /> According to Take-Two’s CEO, Mafia: The Old Country performed \"well ahead of "
+  },
+  {
+    "title": "Meta Quest 3S VR Headset Black Friday Deals Are Live At Amazon",
+    "url": "https://www.gamespot.com/articles/meta-quest-3s-vr-headset-best-black-friday-deals/1100-6532962/?ftag=CAD-01-10abi2f",
+    "platform": "GameSpot",
+    "published": "Mon, 17 Nov 2025 08:57:00 -0800",
+    "summary": "<div class=\"norewrite\" title=\"6532962 - Meta Quest 3S Black Friday Deals\">    <div class=\"buylink__container\">                                                                                          "
   },
   {
     "title": "Final Fantasy I-VI Collection Discounted To New Low Price For Black Friday 2025",
@@ -852,6 +880,13 @@
     "platform": "GameSpot",
     "published": "Mon, 17 Nov 2025 08:04:00 -0800",
     "summary": "<p>Microsoft has announced that the next Xbox Partner Preview event is coming up this Thursday, November 20. The event promises news and updates on partner titles, including information about games li"
+  },
+  {
+    "title": "GTA 6 Has Been \"Very Hard To Avoid\" And Will \"Blot Out The Sun\" For The Industry, Helldivers 2 Dev Says",
+    "url": "https://www.gamespot.com/articles/gta-6-has-been-very-hard-to-avoid-and-will-blot-out-the-sun-for-the-industry-helldivers-2-dev-says/1100-6536279/?ftag=CAD-01-10abi2f",
+    "platform": "GameSpot",
+    "published": "Mon, 17 Nov 2025 07:59:00 -0800",
+    "summary": "<p>The delay of Grand Theft Auto 6 to November 2026 <a href=\"https://www.gamespot.com/articles/rockstar-delays-gta-6-and-the-internet-responds-exactly-as-youd-expect/1100-6536039/\">disappointed the ge"
   },
   {
     "title": "Arc Raiders' Use Of AI Is \"Good For Gaming,\" Helldivers Boss Says",
@@ -910,39 +945,11 @@
     "summary": "<p>Concord barely lasted two weeks before Sony pulled the plug on it, and it seems determined to keep the game offline as it just issued DMCA notices against a <a href=\"https://www.gamespot.com/articl"
   },
   {
-    "title": "Bungie And Sci-Fi Writer Settle Copyright Case Over Destiny 2 Campaign Similarities",
-    "url": "https://www.gamespot.com/articles/bungie-and-sci-fi-writer-settle-copyright-case-over-destiny-2-campaign-similarities/1100-6536269/?ftag=CAD-01-10abi2f",
-    "platform": "GameSpot",
-    "published": "Mon, 17 Nov 2025 06:20:00 -0800",
-    "summary": "<p>Bungie has fully settled the copyright lawsuit over <a href=\"https://www.gamespot.com/games/destiny-2/\">Destiny 2</a>'s Red War campaign, closing a dispute that lasted more than a year. According t"
-  },
-  {
-    "title": "Kids Want Video Games For The Holidays, But Not More Than Cold Hard Cash",
-    "url": "https://www.gamespot.com/articles/kids-want-video-games-for-the-holidays-but-not-more-than-cold-hard-cash/1100-6536267/?ftag=CAD-01-10abi2f",
-    "platform": "GameSpot",
-    "published": "Mon, 17 Nov 2025 05:51:00 -0800",
-    "summary": "<p>The Entertainment Software Association has released the results of its annual holiday shopping survey, and the data shows that kids really want video games, but not as much as they want cash.</p><p"
-  },
-  {
-    "title": "New Steam Machine Is \"Equal Or Better Than\" 70% of Home Gaming Setups, Valve Claims",
-    "url": "https://www.gamespot.com/articles/new-steam-machine-is-equal-or-better-than-70-of-home-gaming-setups-valve-claims/1100-6536266/?ftag=CAD-01-10abi2f",
-    "platform": "GameSpot",
-    "published": "Mon, 17 Nov 2025 05:39:00 -0800",
-    "summary": "<p>Valve is making a play for living rooms again with its new <a href=\"https://www.gamespot.com/articles/valve-reveals-new-hardware-lineup-a-controller-compact-gaming-pc-and-vr-ready-headset/1100-6536"
-  },
-  {
-    "title": "GameStop \"Trade Anything Day\" Is Coming Up Soon, Doesn't Accept (Most) Dead Animals Or Illegal Drugs",
-    "url": "https://www.gamespot.com/articles/gamestop-trade-anything-day-is-coming-up-soon-doesnt-accept-most-dead-animals-or-illegal-drugs/1100-6536265/?ftag=CAD-01-10abi2f",
-    "platform": "GameSpot",
-    "published": "Mon, 17 Nov 2025 05:04:00 -0800",
-    "summary": "<p>Retailer GameStop has announced a \"Trade Anything Day,\" and as part of this, people can visit a store and trade anything. Well, not quite anything. There is a list of items that GameStop will not a"
-  },
-  {
-    "title": "US Congressman Calls For AI Regulations After Call Of Duty: Black Ops 7 Debate",
-    "url": "https://www.gamespot.com/articles/us-congressman-calls-for-ai-regulations-after-call-of-duty-black-ops-7-debate/1100-6536263/?ftag=CAD-01-10abi2f",
-    "platform": "GameSpot",
-    "published": "Mon, 17 Nov 2025 01:11:00 -0800",
-    "summary": "<p>Earlier this month, <a href=\"https://www.gamespot.com/games/call-of-duty-black-ops-7/\">Call of Duty: Black Ops 7</a> players called out the apparent use of AI in the game, especially the \"Ghibli-st"
+    "title": "RMB CEO Sees Opportunity for Big Banks in Rise of Africa Fintech",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-17/rmb-ceo-sees-opportunity-for-big-banks-in-rise-of-africa-fintech",
+    "platform": "Bloomberg Tech",
+    "published": "Mon, 17 Nov 2025 17:02:28 GMT",
+    "summary": "The rapid advance of financial-technology companies in Africa could help traditional lenders enhance their customer service, said the chief executive officer of Rand Merchant Bank, a unit of FirstRand"
   },
   {
     "title": "ECB’s Cipollone Argues Against a Purely Offline Digital Euro",
@@ -956,7 +963,7 @@
     "url": "https://www.bloomberg.com/news/articles/2025-11-17/amazon-kicks-off-first-us-high-grade-bond-sale-in-three-years",
     "platform": "Bloomberg Tech",
     "published": "Mon, 17 Nov 2025 13:20:51 GMT",
-    "summary": "Amazon.com. Inc. is seeking to raise about $12 billion through a bond sale &mdash; its first such deal in US dollars in about three years &mdash; adding to a wave of massive technology debt offerings "
+    "summary": "Amazon.com Inc. is seeking to raise about $12 billion through a bond sale &mdash; its first such deal in US dollars in about three years &mdash; adding to a wave of massive technology debt offerings a"
   },
   {
     "title": "DeepMind’s Latest AI Weather Model Targets Energy Traders",
@@ -1076,13 +1083,6 @@
     "platform": "Bloomberg Tech",
     "published": "Mon, 17 Nov 2025 09:33:31 GMT",
     "summary": "Nigerian startups have stayed away from listing on a special section of the country’s stock exchange because of the local currency’s weakness, according to a survey of the new companies."
-  },
-  {
-    "title": "JPMorgan Says Tech Deals Backlog Is Biggest in Years in APAC",
-    "url": "https://www.bloomberg.com/news/articles/2025-11-17/jpmorgan-says-tech-deals-backlog-is-biggest-in-years-in-apac",
-    "platform": "Bloomberg Tech",
-    "published": "Mon, 17 Nov 2025 07:45:32 GMT",
-    "summary": "Dealmaking is going to get even busier in technology, telecommunications and media in the Asia Pacific region next year, according to JPMorgan Chase &amp; Co., building on the four-year high reached t"
   },
   {
     "title": "In a sea of agents, AWS bets on structured adherence and spec fidelity",

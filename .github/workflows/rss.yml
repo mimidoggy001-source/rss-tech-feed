@@ -3,7 +3,7 @@ name: Update RSS Feeds
 on:
   # 每天北京时间 21:00 自动推送（13:00 UTC）
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 jobs:

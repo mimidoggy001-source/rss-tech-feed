@@ -1,7 +1,7 @@
 name: Update RSS Feeds
 
 on:
-  # 每天北京时间 21:00 自动推送（13:00 UTC）
+  # 每天北京时间 09:00 自动推送（01:00 UTC）
   schedule:
     - cron: "0 1 * * *"
   workflow_dispatch:
@@ -103,52 +103,143 @@ jobs:
         translator = Translator()
 
         # =====================================================
-        #   🔥 最新权重体系（严格根据你的要求）
+        #   🔥 权重体系：偏 产品规划 / 新品 / 技术路线
         # =====================================================
 
-        # 🟥 S 级（最高）：消费电子 / 手机 / 平板 / 显示器 / 笔电 / 芯片
+        # 🟥 S 级（最高）：接口 / 标准 / 芯片 / 供电 / Dock / Hub 等“路线级”信息
         S_keywords = [
-            "apple", "iphone", "ipad", "macbook", "airpods",
-            "samsung", "galaxy",
-            "google pixel", "pixel",
-            "qualcomm", "snapdragon", "mediatek",
-            "laptop", "notebook", "ultrabook",
-            "tablet", "android", "windows",
-            "monitor", "display",
-            "usb-c", "charger", "bluetooth", "headphones",
+            # 接口 / 标准
+            "usb4", "usb 4",
+            "thunderbolt 5", "thunderbolt 4", "thunderbolt",
+            "hdmi 2.1", "hdmi 2.1a",
+            "hdmi 2.2", "hdmi2.2",
+            "displayport 2.1", "dp 2.1",
+
+            # 供电 / 充电协议
+            "gan charger", "65w charger", "100w charger", "140w charger", "240w",
+            "pd 3.1", "power delivery",
+
+            # Dock / Hub / 转接
+            "usb-c dock", "usb c dock", "type-c dock",
+            "docking station", "dock",
+            "usb-c hub", "type-c hub", "usbc hub", "hub",
+
+            # 总线 / 带宽
+            "pcie 5.0", "pcie gen5", "pcie gen4",
+
+            # 无线标准
+            "wi-fi 7", "wifi 7",
+            "bluetooth 5.4", "ble audio",
+
+            # 芯片 / 计算
+            "soc", "processor", "npu", "neural engine", "isp",
+
+            # 具体芯片家族
+            "snapdragon", "dimensity",
+            "apple m3", "apple m4", "m3 pro", "m3 max",
+            "ryzen", "core ultra", "meteor lake", "arrow lake", "lunar lake",
+
+            # 显示相关高端趋势
+            "gaming monitor", "oled monitor",
+            "mini-led", "miniled", "qled",
         ]
 
-        # 🟧 A 级：3C 电子设备 / 计算硬件
+        # 🟧 A 级：线材 / 小 3C 配件 / 外设 / 存储 等外围生态
         A_keywords = [
-            "ssd", "gpu", "rtx", "nvidia",
-            "intel", "amd",
-            "router", "wifi",
-            "type-c hub", "dock", "accessories",
-            "battery", "wireless", "camera",
+            # 线材 & 充电
+            "usb-c cable", "usbc cable", "type-c cable",
+            "charging cable", "charging brick", "charger",
+            "car charger", "car mount", "wireless charger",
+            "power bank",
+
+            # 配件 & 外设
+            "adapter",
+            "mechanical keyboard", "macropad", "macro pad", "keypad",
+            "mouse", "trackpad",
+            "laptop stand", "monitor arm", "stand",
+
+            # 存储
+            "external ssd", "portable ssd", "nvme enclosure",
         ]
 
-        # 🟨 B 级：游戏设备（权重降低）
+        # 🟨 B 级：游戏硬件 / 掌机（趋势重要，但不是你每天一定要看的）
         B_keywords = [
             "steam deck", "rog ally", "legion go",
             "nintendo switch", "switch 2",
-            "playstation", "ps5",
-            "xbox", "gaming handheld",
+            "playstation 5", "ps5",
+            "xbox series x", "xbox series s",
+            "gaming handheld", "handheld gaming pc",
+            "vr headset", "mixed reality", "apple vision pro",
         ]
 
-        # 🟩 C 级：泛科技 / AI
+        # 🟩 C 级：落在终端侧的 AI / 订阅形态（和产品形态有关即可）
         C_keywords = [
-            "ai", "artificial intelligence",
-            "cloud", "robot", "tesla", "musk",
-            "meta", "openai", "security",
+            "ai pc", "copilot+", "copilot plus", "on-device ai",
+            "local ai", "edge ai",
+            "large language model", "llm",
+            "cloud gaming", "game pass",
+            "subscription", "bundle",
         ]
 
-        def calc_score(text):
+        # 🚀 “新品感”加权：新品发布 / 升级 / 首发
+        NEWNESS_WORDS = [
+            "launches", "launch", "launched",
+            "announces", "announce", "announced",
+            "unveils", "unveil", "unveiled",
+            "releases", "release", "released",
+            "introduced", "introduces", "introduce",
+            "new", "next-gen", "next generation",
+            "refresh", "updated", "update",
+        ]
+
+        # 🔍 评测 / 拆解 / 规格：对产品规划也很有价值
+        REVIEW_WORDS = [
+            "review", "hands-on", "hands on",
+            "first look", "impressions",
+            "teardown", "inside",
+            "benchmark", "benchmarks",
+            "performance", "specs", "specifications",
+        ]
+
+        # 🧱 噪音：裁员 / 财报 / 诉讼 / 并购（更多是“公司层面”，对选品价值低）
+        NOISE_WORDS = [
+            "lawsuit", "sued", "trial",
+            "regulation", "regulatory",
+            "privacy policy",
+            "earnings", "revenue", "q1", "q2", "q3", "q4",
+            "stock", "share price", "ipo",
+            "acquisition", "merger", "antitrust",
+            "layoffs", "fired", "strike",
+        ]
+
+        # 📌 平台优先级微调：偏评测/硬件向，对产品规划很有用
+        HIGH_VALUE_PLATFORMS = [
+            "Tom’s Hardware", "Tom's Hardware",
+            "GSM Arena", "Notebook Check",
+            "The Verge", "Ars Technica",
+        ]
+
+        def calc_score(text, platform):
             t = text.lower()
             score = 0
-            score += sum(6 for k in S_keywords if k in t)
-            score += sum(4 for k in A_keywords if k in t)
-            score += sum(2 for k in B_keywords if k in t)
+
+            # 正向加分
+            score += sum(8 for k in S_keywords if k in t)
+            score += sum(5 for k in A_keywords if k in t)
+            score += sum(3 for k in B_keywords if k in t)
             score += sum(1 for k in C_keywords if k in t)
+
+            # 新品 / 评测 加一点额外权重
+            score += sum(1 for k in NEWNESS_WORDS if k in t)
+            score += sum(1 for k in REVIEW_WORDS if k in t)
+
+            # 噪音减分
+            score -= sum(3 for k in NOISE_WORDS if k in t)
+
+            # 高价值平台 +1 基础分
+            if platform in HIGH_VALUE_PLATFORMS:
+                score += 1
+
             return score
 
         # -----------------------
@@ -161,7 +252,9 @@ jobs:
         # 计算分数排序
         # -----------------------
         for item in items:
-            item["score"] = calc_score(item["title"] + " " + item["summary"])
+            text = (item.get("title", "") or "") + " " + (item.get("summary", "") or "")
+            platform = item.get("platform", "")
+            item["score"] = calc_score(text, platform)
 
         items_sorted = sorted(items, key=lambda x: x["score"], reverse=True)
         items_final = items_sorted[:20]
@@ -172,7 +265,7 @@ jobs:
         def to_zh(text):
             try:
                 return translator.translate(text, dest="zh-cn").text
-            except:
+            except Exception:
                 return text
 
         now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
@@ -183,13 +276,12 @@ jobs:
         lines.append(f"共抓取 {len(items)} 条，展示优先级最高的前 20 条\\n\\n")
 
         # -----------------------
-        # 重点：Markdown 超链接
+        # Markdown 超链接输出
         # -----------------------
         for i, item in enumerate(items_final, 1):
-            zh = to_zh(item["title"])
-            url = item["url"]
-            platform = item["platform"]
-
+            zh = to_zh(item.get("title", ""))
+            url = item.get("url", "")
+            platform = item.get("platform", "")
             lines.append(f"{i}. **[{platform}] [{zh}]({url})**\\n\\n")
 
         payload = {

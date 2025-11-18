@@ -201,7 +201,7 @@ jobs:
             "performance", "specs", "specifications",
         ]
 
-        # 🧱 噪音：裁员 / 财报 / 诉讼 / 并购（更多是“公司层面”，对选品价值低）
+        # 🧱 噪音：裁员 / 财报 / 诉讼 / 并购 + 航天宏观新闻
         NOISE_WORDS = [
             "lawsuit", "sued", "trial",
             "regulation", "regulatory",
@@ -210,6 +210,10 @@ jobs:
             "stock", "share price", "ipo",
             "acquisition", "merger", "antitrust",
             "layoffs", "fired", "strike",
+
+            # 航天 / 太空 宏观新闻
+            "space station", "astronaut", "nasa",
+            "rocket", "satellite", "orbit", "spacex",
         ]
 
         # 📌 平台优先级微调：偏评测/硬件向，对产品规划很有用
@@ -249,12 +253,23 @@ jobs:
             items = json.load(f)
 
         # -----------------------
-        # 计算分数排序
+        # 计算分数排序（白名单 + 排序）
         # -----------------------
+        ALL_KEYWORDS = S_keywords + A_keywords + B_keywords + C_keywords
+
+        def has_any_keyword(t: str) -> bool:
+            return any(k in t for k in ALL_KEYWORDS)
+
         for item in items:
             text = (item.get("title", "") or "") + " " + (item.get("summary", "") or "")
+            t = text.lower()
             platform = item.get("platform", "")
-            item["score"] = calc_score(text, platform)
+
+            # 如果完全没有命中任何我们关心的关键词，直接给超低分
+            if not has_any_keyword(t):
+                item["score"] = -999
+            else:
+                item["score"] = calc_score(text, platform)
 
         items_sorted = sorted(items, key=lambda x: x["score"], reverse=True)
         items_final = items_sorted[:20]

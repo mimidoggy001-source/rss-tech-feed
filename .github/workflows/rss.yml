@@ -1,7 +1,7 @@
 name: Update RSS Feeds
 
 on:
-  # 每天北京时间 21:00 自动推送
+  # 每天北京时间 21:00 自动推送（13:00 UTC）
   schedule:
     - cron: "0 13 * * *"
   workflow_dispatch:
@@ -30,7 +30,7 @@ jobs:
         pip install feedparser requests googletrans==4.0.0-rc1
 
     # -----------------------
-    # 3) 抓取 RSS 合并内容
+    # 3) 抓取 RSS
     # -----------------------
     - name: Fetch RSS & Generate feeds.json
       run: |
@@ -103,10 +103,10 @@ jobs:
         translator = Translator()
 
         # =====================================================
-        #   🔥 新权重体系（你最新要求）
+        #   🔥 最新权重体系（严格根据你的要求）
         # =====================================================
 
-        # 🟥 S 级（最高权重：消费电子 / 手机 / 平板 / 显示器 / 芯片）
+        # 🟥 S 级（最高）：消费电子 / 手机 / 平板 / 显示器 / 笔电 / 芯片
         S_keywords = [
             "apple", "iphone", "ipad", "macbook", "airpods",
             "samsung", "galaxy",
@@ -118,7 +118,7 @@ jobs:
             "usb-c", "charger", "bluetooth", "headphones",
         ]
 
-        # 🟧 A 级（高权重：3C 电子设备 / 计算硬件）
+        # 🟧 A 级：3C 电子设备 / 计算硬件
         A_keywords = [
             "ssd", "gpu", "rtx", "nvidia",
             "intel", "amd",
@@ -127,7 +127,7 @@ jobs:
             "battery", "wireless", "camera",
         ]
 
-        # 🟨 B 级（中权重：游戏设备）
+        # 🟨 B 级：游戏设备（权重降低）
         B_keywords = [
             "steam deck", "rog ally", "legion go",
             "nintendo switch", "switch 2",
@@ -135,14 +135,13 @@ jobs:
             "xbox", "gaming handheld",
         ]
 
-        # 🟩 C 级（弱权重：泛科技）
+        # 🟩 C 级：泛科技 / AI
         C_keywords = [
             "ai", "artificial intelligence",
-            "cloud", "robot", "musk", "tesla",
+            "cloud", "robot", "tesla", "musk",
             "meta", "openai", "security",
         ]
 
-        # 计算分数
         def calc_score(text):
             t = text.lower()
             score = 0
@@ -153,26 +152,22 @@ jobs:
             return score
 
         # -----------------------
-        # 读取数据
+        # 读取 feeds.json
         # -----------------------
         with open("feeds.json", "r", encoding="utf-8") as f:
             items = json.load(f)
 
         # -----------------------
-        # 计算排序得分
+        # 计算分数排序
         # -----------------------
         for item in items:
-            text = item["title"] + " " + item["summary"]
-            item["score"] = calc_score(text)
+            item["score"] = calc_score(item["title"] + " " + item["summary"])
 
-        # 分数从高到低排序
         items_sorted = sorted(items, key=lambda x: x["score"], reverse=True)
-
-        # 取前 20 条
         items_final = items_sorted[:20]
 
         # -----------------------
-        # 标题翻译
+        # 翻译标题
         # -----------------------
         def to_zh(text):
             try:
@@ -187,10 +182,15 @@ jobs:
         lines.append(f"### 🌍 热点科技媒体日报（{ts}）\\n")
         lines.append(f"共抓取 {len(items)} 条，展示优先级最高的前 20 条\\n\\n")
 
+        # -----------------------
+        # 重点：Markdown 超链接
+        # -----------------------
         for i, item in enumerate(items_final, 1):
             zh = to_zh(item["title"])
-            lines.append(f"{i}. **[{item['platform']}] {zh}**\\n")
-            lines.append(f"{item['url']}\\n\\n")
+            url = item["url"]
+            platform = item["platform"]
+
+            lines.append(f"{i}. **[{platform}] [{zh}]({url})**\\n\\n")
 
         payload = {
             "msgtype": "markdown",
@@ -210,7 +210,7 @@ jobs:
         EOF
 
     # -----------------------
-    # 5) 自动 commit
+    # 5) 自动 commit feeds.json
     # -----------------------
     - name: Commit updates
       run: |

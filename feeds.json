@@ -1,5 +1,41 @@
 [
   {
+    "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+    "summary": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\"",
+    "url": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
+    "platform": "TechCrunch"
+  },
+  {
+    "title": "US Army announces contract with Anduril worth up to $20B",
+    "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+    "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+    "platform": "TechCrunch"
+  },
+  {
+    "title": "Honda is killing its EVs — and any chance of competing in the future",
+    "summary": "Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America.",
+    "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
+    "platform": "TechCrunch"
+  },
+  {
+    "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+    "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+    "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+    "platform": "TechCrunch"
+  },
+  {
+    "title": "As people look for ways to make new friends, here are the apps promising to help",
+    "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+    "url": "https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+    "platform": "TechCrunch"
+  },
+  {
+    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+    "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+    "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+    "platform": "TechCrunch"
+  },
+  {
     "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
     "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
     "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
@@ -84,100 +120,106 @@
     "platform": "TechCrunch"
   },
   {
-    "title": "Motional robotaxis join the Uber app in Vegas two years after major reset",
-    "summary": "The launch comes just two years after a major reboot at Hyundai-owned Motional. The service will start with a safety monitor, which Motional hopes to remove by year's end.",
-    "url": "https://techcrunch.com/2026/03/13/motional-robotaxis-join-the-uber-app-in-vegas-two-years-after-major-reset/",
-    "platform": "TechCrunch"
-  },
-  {
-    "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
-    "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with Qutwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
-    "url": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
-    "platform": "TechCrunch"
-  },
-  {
-    "title": "Truecaller now lets you hang up on scammers — on behalf of your family",
-    "summary": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if they suspect a family member might get scammed.",
-    "url": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
-    "platform": "TechCrunch"
-  },
-  {
-    "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
-    "summary": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
-    "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
-    "platform": "TechCrunch"
-  },
-  {
-    "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
-    "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
-    "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
-    "platform": "TechCrunch"
-  },
-  {
-    "title": "Channel Surfer lets you watch YouTube like it’s old-school cable TV",
-    "summary": "The web app lets you turn on YouTube and surf channels like you're watching cable TV in the '90s.",
-    "url": "https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/",
-    "platform": "TechCrunch"
-  },
-  {
-    "title": "States’ anti-monopoly case against Live Nation continues Monday",
-    "summary": "The Live Nation-Ticketmaster trial is back on. Dozens of states are expected to move forward with their claims against the company's alleged concert industry monopoly beginning on Monday, following a brief hearing on Friday. The Justice Department and a handful of states have accepted settlements with the company, but the majority of the 40 state [&#8230;]",
-    "url": "https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial",
+    "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
+    "summary": "In September, Donald Trump claimed that \"the United States is getting a tremendous fee\" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the range of $10 billion. The money is supposedly being paid by new investors, including Oracle and [&#8230;]",
+    "url": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
     "platform": "The Verge"
   },
   {
-    "title": "Spotify tests letting users directly customize their Taste Profile",
-    "summary": "Spotify Premium users in New Zealand will be the first to experience the service's latest personalization feature. The company is letting users view and make changes to their Taste Profile directly. If your algorithm is serving up too much Bieber, you can politely tell the algorithm to ease up. Beta testers will be able to [&#8230;]",
-    "url": "https://www.theverge.com/entertainment/894753/spotify-taste-profile",
+    "title": "Meta is reportedly laying off up to 20 percent of its staff",
+    "summary": "According to Reuters, Meta is looking to offset spending on AI and data centers with a massive round of layoffs. Sources familiar with the matter say the company could lay off as much as 20 percent of its staff, eliminating roughly 15,800 positions. That would be the largest series of layoffs at the company since [&#8230;]",
+    "url": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
     "platform": "The Verge"
   },
   {
-    "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
-    "summary": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product manager for gaming AI, revealed the news during a panel at the Game Developers Conference (GDC), adding that the company will also add the assistant to \"more services that [&#8230;]",
-    "url": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
+    "title": "Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals",
+    "summary": "Happy Saturday, all! This week, we found a number of deals that should help you unwind and relax over the next few days (and beyond). If you’re planning to stream the Oscars on Sunday, there’s still time to take advantage of a great deal on Hulu and Disney Plus, as well as Google’s latest 4K [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale",
     "platform": "The Verge"
   },
   {
-    "title": "Trump Mobile is just one in the crowd of conservative carriers",
-    "summary": "Where's the Trump phone? We're going to keep talking about it every week. This week, I wanted to see how Trump Mobile stacks up to its conservative carrier competition. Trump Mobile isn't unique. I mean, it is in some pretty specific senses - it's not every day the president's family launches a phone company while [&#8230;]",
-    "url": "https://www.theverge.com/tech/894762/trump-mobile-conservative-mvno-radiant-patriot-puretalk-charity-liberty",
+    "title": "Prediction markets want the Oscars to be your gateway drug to betting on everything",
+    "summary": "Though it was weird to see the Golden Globes partner with Polymarket for its most recent awards show, the collaboration wasn't shocking given the way that people have begun using prediction markets to gamble on basically anything. Prediction markets are being used to bet on everything from when wars might break out to who will [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling",
     "platform": "The Verge"
   },
   {
-    "title": "Digg’s open beta shuts down after just two months, blaming AI bot spam",
-    "summary": "It's only been a year since Digg founder Kevin Rose, Reddit cofounder Alexis Ohanian, and a few others announced the link-sharing site would relaunch, promising a \"social discovery built by communities, not by algorithms.\" Now, two months after opening its Reddit-like platform to the public, Digg is announcing a \"hard reset\" that's shutting down operations [&#8230;]",
-    "url": "https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai",
+    "title": "MacBook Air M5 review: a small update for the ‘just right’ Mac",
+    "summary": "Not much has changed in the new MacBook Air for 2026: It now has the M5 chip, Wi-Fi 7, and faster storage starting at 512GB instead of 256GB. It's just as outstanding a computer as last year's model, even if it's a shame it's $100 more expensive. The bigger change has happened to the Air. [&#8230;]",
+    "url": "https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review",
     "platform": "The Verge"
   },
   {
-    "title": "Instagram is getting rid of end-to-end encrypted DMs that ‘very few’ people used",
-    "summary": "Instagram will no longer support end-to-end encrypted messages starting May 8th. In a statement to The Verge, Meta spokesperson Dina El-Kassaby Luce says the platform is discontinuing the feature because \"very few people\" were using E2EE in their DMs. Instagram has begun notifying impacted users about the change inside its app, and has also posted [&#8230;]",
-    "url": "https://www.theverge.com/tech/894752/instagram-end-to-end-encryption",
+    "title": "A Scavengers Reign artist explores contemplative sci-fi in new comics",
+    "summary": "You may recognize Jonathan Djob Nkondo's work from animated projects like the surreal sci-fi series Scavengers Reign or the recent Gorillaz short film The Mountain, The Moon Cave and The Sad God. But before that the French artist and animator made self-published comics that depicted strange alien worlds and future societies. Now he's revisiting that [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/894514/jonathan-djob-nkondo-artist-interview-kickstarter-scavengers-reign",
     "platform": "The Verge"
   },
   {
-    "title": "Google Pixel 10A review: Just buy the 9A",
-    "summary": "I'm not entirely sure why the Pixel 10A exists. Google hasn't upgraded the chipset, cameras, or battery in the new phone, and the tweaks it's made elsewhere are minimal at best. The flatter camera island is good, I guess! In one sense this isn't a big problem: The Pixel 9A is an excellent device, and [&#8230;]",
-    "url": "https://www.theverge.com/tech/894319/google-pixel-10a-review-screen-specs-battery-camera",
+    "title": "Asus’ new open earbuds are a wonderful companion for handheld gaming",
+    "summary": "The Cetra Open Wireless aren’t like most other gaming earbuds. They’re large, with an open-style design that rests just outside of your ears, letting game audio mix with sounds in your environment. These allow for immersion, but only if your environment is quiet enough. And turning them up might let those nearby hear what you’re [&#8230;]",
+    "url": "https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions",
     "platform": "The Verge"
   },
   {
-    "title": "Backbone’s versatile pro controller is nearly matching its best price to date",
-    "summary": "Mobile gaming has come a long way over the course of the last decade or so, but we all know that smartphones simply can’t match the visceral, tactile feel you get while playing with a dedicated controller. Luckily, Backbone makes some excellent mobile options — including last year’s Backbone Pro, which is on sale at [&#8230;]",
-    "url": "https://www.theverge.com/gadgets/893862/backbone-pro-mobile-controller-cmf-watch-3-deal-sale",
+    "title": "Samsung Galaxy S26 Ultra review: show off",
+    "summary": "\"Someone might be watching everything I'm doing on my screen,\" I tell myself in public. Even when I'm doing nothing of consequence - just making my little Wordle guesses - there's a sense of unease that stays with me. It's never bothered me too much, and I generally save the sensitive stuff like banking for [&#8230;]",
+    "url": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off",
     "platform": "The Verge"
   },
   {
-    "title": "Adobe will pay $75 million to settle US cancellation fee lawsuit",
-    "summary": "Adobe says it will pay $75 million to resolve a lawsuit filed by the US government alleging that the creative software giant harmed consumers by making its subscriptions intentionally hard to cancel and concealing termination fees. The payment aims to resolve the complaint raised in June 2024, in which the US Justice Department accused Adobe [&#8230;]",
-    "url": "https://www.theverge.com/tech/894555/adobe-75-million-doj-settlement-subscriptions",
+    "title": "5 great indie games from GDC 2026",
+    "summary": "I just got back from the GDC Festival of Gaming, a big industry-focused event in San Francisco that was formerly known as the Game Developers Conference. While the show is mostly about educational sessions and networking opportunities for working developers, there were also a bunch of games that I got to play. Here are some [&#8230;]",
+    "url": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games",
     "platform": "The Verge"
   },
   {
-    "title": "Ninja’s star Creami ice cream maker is on sale for $169",
-    "summary": "If you’ve ever wanted more control over what goes into your ice cream, the Ninja Creami 5‑in‑1 Ice Cream Maker makes it easy. The ice cream maker lets you whip up dessert exactly as you want it from the comfort of your home, and right now it’s on sale for $169 ($30 off) at Walmart.&#160; [&#8230;]",
-    "url": "https://www.theverge.com/gadgets/894461/ninja-creami-5-in-1-ice-cream-maker-deal-sale",
+    "title": "Wordle’s creator made a fun new puzzle game",
+    "summary": "Hi, friends! Welcome to Installer No. 119, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your agents are well, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Pixar's future and flight MH370 and sports gambling [&#8230;]",
+    "url": "https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer",
     "platform": "The Verge"
+  },
+  {
+    "title": "ByteDance has reportedly suspended the global rollout of its new AI video generator",
+    "summary": "<p>A month after Seedance 2.0's launch in China sparked cease-and-desist <a class=\"link\" href=\"https://www.engadget.com/ai/disney-accuses-bytedance-of-virtual-smash-and-grab-when-using-copyrighted-works-to-train-its-ai-191116136.html\" target=\"_blank\">letters from Disney</a> <a class=\"link\" href=\"https://variety.com/2026/film/news/paramount-disney-bytedance-cease-and-desist-seedance-ai-infringement-ip-1236663663/\" target=\"_blank\">and Paramount Skydance</a> over its use of copyrighted materials, i",
+    "url": "https://www.engadget.com/ai/bytedance-has-reportedly-suspended-the-global-rollout-of-its-new-ai-video-generator-212326112.html?src=rss",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Spotify’s new Taste Profile feature lets users fine-tune their algorithm’s recommendations",
+    "summary": "<p>You're responsible for your own Spotify algorithm now. On stage at SXSW, Spotify's co-CEO, Gustav Söderström, announced the <a class=\"no-affiliate-link\" href=\"https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/\">Taste Profile</a> feature, which allows users to personally customize exactly what they want to listen to, whether it's music, audiobooks or podcasts. This AI-powered feature is still in beta, and it will be available to Premium users in New Zealand in the coming ",
+    "url": "https://www.engadget.com/entertainment/music/spotifys-new-taste-profile-feature-lets-users-fine-tune-their-algorithms-recommendations-191104626.html?src=rss",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Trump administration will reportedly get $10 billion for brokering the TikTok deal",
+    "summary": "<p>There may have been some extra incentive for the Trump administration to get the <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/big-tech/tiktok-finalizes-deal-for-its-us-entity-010543484.html\">TikTok US deal</a> done. According to a report from <a class=\"no-affiliate-link\" href=\"https://www.wsj.com/tech/tiktok-deal-fee-trump-administration-5aa31c9f\"><em>The Wall Street Journal</em></a>, the Trump administration is set to receive a total of $10 billion in the deal that allowed Tik",
+    "url": "https://www.engadget.com/big-tech/trump-administration-will-reportedly-get-10-billion-for-brokering-the-tiktok-deal-180954979.html?src=rss",
+    "platform": "Engadget"
+  },
+  {
+    "title": "What to read this weekend: Locked in with The Iron Garden Sutra",
+    "summary": "<p><em>Need something new for your reading list? This week, we recommend A.D. Sui's </em>The Iron Garden Sutra, <em>a meditative horror sci-fi/fantasy and murder mystery. </em></p>\n<div>\n <hr />\n</div>\n<p>I don't typically gravitate toward locked room mysteries, but the description of this book ticked all the right boxes to win me over: \"a death monk and a team of researchers trapped onboard a spaceship of the dead encounter something beyond human understanding.\" It has all the makings of a comp",
+    "url": "https://www.engadget.com/entertainment/what-to-read-this-weekend-locked-in-with-the-iron-garden-sutra-172342019.html?src=rss",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Meta is reportedly planning to cut up to 20 percent of its staff in upcoming layoffs",
+    "summary": "<p>Meta could be preparing for one of the <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/big-tech-layoffs-183005386.html\">largest layoffs</a> in its history, according to a <a class=\"no-affiliate-link\" href=\"https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/\"><em>Reuters</em></a> report. The tech giant is planning to cut about 20 percent of its workforce, according to the outlet's sources. According to the report, neither a date ",
+    "url": "https://www.engadget.com/big-tech/meta-is-reportedly-planning-to-cut-up-to-20-percent-of-its-staff-in-upcoming-layoffs-160812304.html?src=rss",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Digg shuts down for a 'hard reset' because it was flooded with bots",
+    "summary": "<p><a class=\"link\" href=\"https://digg.com/\" target=\"_blank\">Digg</a> has shut down, for now, just a few months after its open beta launched. Justin Mezzell, the company’s CEO, has explained on the home page that it noticed hours after the beta launched that it was already being targeted by SEO spammers. “The internet is now populated, in meaningful part, by sophisticated AI agents and automated accounts,” he wrote. Apparently, the Digg team wasn’t ready for the scale and the speed at which bots ",
+    "url": "https://www.engadget.com/social-media/digg-shuts-down-for-a-hard-reset-because-it-was-flooded-with-bots-153848094.html?src=rss",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Ball x Pit on mobile, Piece by Piece x2 and other new indie games worth checking out",
+    "summary": "<p>Welcome to our latest roundup of what's going on in the indie game space. A bunch of intriguing games arrived this week, including a mobile port of one of the most absorbing things I’ve played in years and two completely different titles with the same name. Let’s get things started with a look at a few projects that were featured in the latest edition of the <a class=\"link\" href=\"https://www.youtube.com/watch?v=iJQzdmAWyR4\" target=\"_blank\">Future Games Show</a>.</p><div><div style=\"width: 100",
+    "url": "https://www.engadget.com/gaming/ball-x-pit-on-mobile-piece-by-piece-x2-and-other-new-indie-games-worth-checking-out-110000319.html?src=rss",
+    "platform": "Engadget"
   },
   {
     "title": "OpenAI reportedly plans to add Sora video generation to ChatGPT",
@@ -258,46 +300,82 @@
     "platform": "Engadget"
   },
   {
-    "title": "Apple is reducing its App Store commission fees in China",
-    "summary": "<p>Apple is lowering its developer fees in China following discussions with the Chinese regulator. From March 15, the commission rate for standard in-app purchases (IAPs) will be reduced from 30 percent to 25 percent on its mainland China App Store storefront for both iOS and iPadOS.</p>\n<p>In a Developer <a href=\"https://developer.apple.com/news/?id=dadukodv\"><ins>blog</ins></a>, Apple also said that developers belonging to its App Store Small Business or Mini Apps programmes will also have the",
-    "url": "https://www.engadget.com/apps/apple-is-reducing-its-app-store-commission-fees-in-china-131221192.html?src=rss",
-    "platform": "Engadget"
+    "title": "How to Buy Used or Refurbished Electronics (2026)",
+    "summary": "Save money and reduce your carbon footprint with these tips to snag the best deals on quality refurbished and used electronics.",
+    "url": "https://www.wired.com/story/how-to-buy-refurbished-electronics/",
+    "platform": "Wired"
   },
   {
-    "title": "The Morning After: Our verdict on Apple’s $600 Macbook Neo",
-    "summary": "<p>Apple's new family of laptops might have a cringeworthy name, but don't let it fool you. Despite the <a href=\"https://www.engadget.com/computing/laptops/macbook-neo-review-apple-puts-every-600-windows-pc-to-shame-130000878.html\">MacBook Neo</a> running on a built-for-iPhone A-series processor and being limited to 8GB of RAM, it delivers on what Macs do best. It has a capable screen, keyboardand trackpadand its overall build quality should embarrass other laptop-making rivals that have comprom",
-    "url": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-120553713.html?src=rss",
-    "platform": "Engadget"
+    "title": "You Can Approximate Pi by Dropping Needles on the Floor",
+    "summary": "Who needs a supercomputer when you can calculate pi with a box of sewing needles?",
+    "url": "https://www.wired.com/story/you-can-approximate-pi-by-dropping-needles-on-the-floor/",
+    "platform": "Wired"
   },
   {
-    "title": "The 5 best meditation apps for 2026",
-    "summary": "<p>Meditation is often touted as a mental cure-all, purported to help with stress, sleep, mood, focus and even certain medical conditions. I’ve been meditating most of my adult life. I’ve done silent retreats. I’ve been formally trained in various techniques. I’ve had someone in my contacts list who I referred to as a “guru.” So I feel I’m relatively qualified to give some bad news: Meditation won’t fix your life,<a href=\"https://www.davidlynchfoundation.org/\"> despite what David Lynch says.</a>",
-    "url": "https://www.engadget.com/apps/best-meditation-app-140047993.html?src=rss",
-    "platform": "Engadget"
+    "title": "Samsung Galaxy S26 Ultra Review: The Privacy Screen",
+    "summary": "There's not much else groundbreaking about the company's latest flagship, but the built-in privacy display works well without much trade-off.",
+    "url": "https://www.wired.com/review/samsung-galaxy-s26-ultra/",
+    "platform": "Wired"
   },
   {
-    "title": "Uber robotaxi rides are now available for passengers in Las Vegas",
-    "summary": "<p>Uber’s and Motional's <a href=\"https://www.engadget.com/uber-and-motional-robotaxis-have-arrived-in-las-vegas-110046028.html\">Hyundai Ioniq 5 autonomous EVs</a> will start appearing as an option for riders in Las Vegas. Passengers requesting for an UberX, Uber Electric, Uber Comfort or Uber Comfort Electric ride may be matched with a Motional robotaxi. They will not be forced to take it, though, and will be notified and given the option to decline and choose a regular ride instead. But if the",
-    "url": "https://www.engadget.com/transportation/uber-robotaxi-rides-are-now-available-for-passengers-in-las-vegas-120030395.html?src=rss",
-    "platform": "Engadget"
+    "title": "A Hacker Accidentally Broke Into the FBI’s Epstein Files",
+    "summary": "Plus: A porn-quitting app exposed the masturbation habits of hundreds of thousands of users, Russian hackers are trying to take over people’s Signal accounts, and more.",
+    "url": "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
+    "platform": "Wired"
   },
   {
-    "title": "MacBook Air M5 review: Same but faster",
-    "summary": "<p>It’s hard to believe that it’s been almost four years since Apple gave the MacBook Air a serious glow-up. <a class=\"link\" href=\"https://www.engadget.com/macbook-air-m2-review-2022-130040098-130040785.html\" target=\"_blank\">The 2022 model</a> was a total redesign that bumped its performance with the M2 chip and also improved a number of key components. It was also the first MacBook Air to drop the signature tapered design, and Apple <a class=\"link\" href=\"https://www.engadget.com/apple-macbook-a",
-    "url": "https://www.engadget.com/computing/laptops/macbook-air-m5-review-same-but-faster-120000685.html?src=rss",
-    "platform": "Engadget"
+    "title": "Identity Theft Protection Services: Do You Actually Need One?",
+    "summary": "Here's the best advice I have for protecting your identity online.",
+    "url": "https://www.wired.com/story/best-id-protection-services/",
+    "platform": "Wired"
   },
   {
-    "title": "Apple says F1 streaming already exceeds everyone's expectations",
-    "summary": "<p>Apple's exclusive deal for <a href=\"https://www.engadget.com/entertainment/streaming/apple-is-the-new-home-for-f1-racing-in-the-us-starting-in-2026-133619412.html\">US broadcast rights of Formula 1</a> was a big shift to streaming from ESPN's cable coverage of the past, but after the first race (the Australian Grand Prix), it seems to be going well. &quot;The 2026 Formula 1 season on Apple TV is off to a strong start, with fans responding positively and viewership up year over year for the fir",
-    "url": "https://www.engadget.com/entertainment/streaming/apple-says-f1-streaming-already-exceeds-everyones-expectations-111028328.html?src=rss",
-    "platform": "Engadget"
+    "title": "Norda 001A G+ Trail Running Shoe Review: As Expensive as an Apple Watch",
+    "summary": "Do you really need a $300 trail running shoe? We test the treads, and the creds, of the Norda 001A G+.",
+    "url": "https://www.wired.com/review/norda-001a-g-trail-shoe/",
+    "platform": "Wired"
   },
   {
-    "title": "Little Nightmares VR: Altered Echoes arrives in April",
-    "summary": "<p>Bandai Namco has <a class=\"link\" href=\"https://blog.playstation.com/2026/03/12/little-nightmares-vr-altered-echoes-launches-on-ps-vr2-april-24/\" target=\"_blank\">announced</a> a new <a class=\"link\" href=\"https://www.engadget.com/little-nightmares-iii-will-let-you-drag-a-friend-through-the-nowhere-in-2024-184913722.html\" target=\"_blank\">Little Nightmares</a> game, this time for virtual reality. <em>Little Nightmares VR: Altered Echoes</em> is developed by Iconik and not by Tarsier Studios, but ",
-    "url": "https://www.engadget.com/gaming/little-nightmares-vr-altered-echoes-arrives-in-april-101626370.html?src=rss",
-    "platform": "Engadget"
+    "title": "I Regret to Inform You That You’re Using an Inferior Pour-Over Coffee Brewer",
+    "summary": "The unique flat-bottom design of the Kalita Wave makes brewing exceptional coffee dead simple—especially if you can’t summon the rigor required to make perfect pour-over.",
+    "url": "https://www.wired.com/story/kalita-wave-pour-over-coffee-brewer/",
+    "platform": "Wired"
+  },
+  {
+    "title": "How to Watch March Madness 2026",
+    "summary": "Tune in to watch the men’s and women’s teams fight to win the 2026 NCAA Division I Basketball championship.",
+    "url": "https://www.wired.com/story/how-to-watch-march-madness/",
+    "platform": "Wired"
+  },
+  {
+    "title": "Japan Approves the World’s First Treatment Made With Reprogrammed Human Cells",
+    "summary": "Researchers in Japan pioneered reprogrammed cells 20 years ago. Now the country has given the first-ever authorizations to manufacture and sell medical products based on the technology.",
+    "url": "https://www.wired.com/story/japan-approves-the-worlds-first-treatment-made-with-reprogrammed-human-cells/",
+    "platform": "Wired"
+  },
+  {
+    "title": "Spring Cleaning? Here's How to Declutter Responsibly—and Maybe Earn Some Cash",
+    "summary": "Declutter and deep clean your home sanely by breaking it into smaller tasks. You're also bound to discover there are things you no longer need that you can sell.",
+    "url": "https://www.wired.com/story/spring-cleaning-how-to-declutter-responsibly/",
+    "platform": "Wired"
+  },
+  {
+    "title": "Vivid Seats Promo Codes and Deals: Save 10% This March",
+    "summary": "Whether you are heading to a sold-out concert or a championship game, use a Vivid Seats discount code to secure your seats for less this month.",
+    "url": "https://www.wired.com/story/vivid-seats-promo-code/",
+    "platform": "Wired"
+  },
+  {
+    "title": "Chirp Discount Codes and Deals: Save Up to 67%",
+    "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
+    "url": "https://www.wired.com/story/chirp-discount-code/",
+    "platform": "Wired"
+  },
+  {
+    "title": "Coleman Promo Codes and Deals: Up to 30% Off in March",
+    "summary": "Gear up for your next adventure with these Coleman coupons and discount codes to save on camping essentials and outdoor gear.",
+    "url": "https://www.wired.com/story/coleman-promo-code/",
+    "platform": "Wired"
   },
   {
     "title": "What to Do in Vegas If You’re Here for Business (2026)",
@@ -342,82 +420,10 @@
     "platform": "Wired"
   },
   {
-    "title": "Toss Your Not-Quite-Clean Clothes on Simone Giertz’s Laundry Chair",
-    "summary": "Inventor and YouTuber Simone Giertz built an elegant chair that holds your half-dirty clothes while still functioning as a seat.",
-    "url": "https://www.wired.com/story/simone-giertz-laundry-chair/",
-    "platform": "Wired"
-  },
-  {
-    "title": "Google's AI Search Results Love to Refer You Back to Google",
-    "summary": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-    "url": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-    "platform": "Wired"
-  },
-  {
-    "title": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
-    "summary": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
-    "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-    "platform": "Wired"
-  },
-  {
-    "title": "Logitech K98M Wireless Keyboard Review: Great for Productivity",
-    "summary": "After a series of great low-profile keyboards, the iconic peripherals brand has finally figured out a wireless mechanical model.",
-    "url": "https://www.wired.com/review/logitech-k98m-wireless/",
-    "platform": "Wired"
-  },
-  {
-    "title": "Gamers’ Worst Nightmares About AI Are Coming True",
-    "summary": "From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.",
-    "url": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
-    "platform": "Wired"
-  },
-  {
-    "title": "Sony WF-1000XM6 Review: My New Favorite Earbuds",
-    "summary": "Sony's latest flagship earbuds have the best noise canceling—and maybe the best bass—I've ever heard from wireless earbuds.",
-    "url": "https://www.wired.com/review/sony-wf-1000xm6/",
-    "platform": "Wired"
-  },
-  {
-    "title": "6G Is Coming. Here’s What to Expect From the Next Generation of Cellular Tech",
-    "summary": "When it succeeds 5G in 2030, the next-gen mobile network will focus on upload speeds, AI, and radar-like “sensing” of vehicles, devices, and people.",
-    "url": "https://www.wired.com/story/6g-is-coming/",
-    "platform": "Wired"
-  },
-  {
-    "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
-    "summary": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
-    "url": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
-    "platform": "Wired"
-  },
-  {
-    "title": "The Shingles Virus May Be Aging You More Quickly",
-    "summary": "Evidence suggests reactivations of the varicella-zoster virus may accelerate aging and raise dementia risk. Now scientists want to know if vaccines and antivirals could help protect the brain.",
-    "url": "https://www.wired.com/story/shingles-virus-aging/",
-    "platform": "Wired"
-  },
-  {
-    "title": "My Moccamaster Delivers Drip Coffee Perfection",
-    "summary": "It’s stylish and reliable—and you can pry my Moccamaster from my cold, dead hands.",
-    "url": "https://www.wired.com/story/technivorm-moccamaster-drip-coffee-java-base/",
-    "platform": "Wired"
-  },
-  {
-    "title": "Why Your Phone Battery Dies Faster During a Public Emergency",
-    "summary": "During a geopolitical crisis, things like weak signal strength, network congestion, and GPS interference can force smartphones to work harder. Here’s how you can save your battery.",
-    "url": "https://www.wired.com/story/why-your-phone-battery-dies-faster-during-a-public-emergency/",
-    "platform": "Wired"
-  },
-  {
-    "title": "John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job",
-    "summary": "A whistleblower complaint alleges John Solly claimed to have stored highly sensitive Social Security data on a thumb drive. Solly and Leidos, his current employer, strongly deny the allegations.",
-    "url": "https://www.wired.com/story/john-solly-doge-operative-accused-social-security-data-leidos/",
-    "platform": "Wired"
-  },
-  {
-    "title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
-    "summary": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
-    "platform": "Wired"
+    "title": "Staff complain that xAI is flailing because of constant upheaval",
+    "summary": "Staff complain that the constant upheaval is destroying morale.",
+    "url": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/",
+    "platform": "Ars Technica"
   },
   {
     "title": "NASA officials sidestepped questions on Artemis II risks—there's a reason why",
@@ -534,10 +540,28 @@
     "platform": "Ars Technica"
   },
   {
-    "title": "HP has new incentive to stop blocking third-party ink in its printers",
-    "summary": "Trade group callls out HP for latest Dynamic Security firmware update.",
-    "url": "https://arstechnica.com/gadgets/2026/03/hp-has-new-incentive-to-stop-blocking-third-party-ink-in-its-printers/",
-    "platform": "Ars Technica"
+    "title": "Stock Trader’s Guide to Navigating Supply Disruption by Iran War",
+    "summary": "The prospect of a prolonged Iran war and elevated oil prices is prompting stock investors to reassess a broader array of industries, including less obvious targets from food delivery firms to cosmetics makers as supply disruption intensifies.",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-15/stock-trader-s-guide-to-navigating-supply-disruption-by-iran-war",
+    "platform": "Bloomberg Tech"
+  },
+  {
+    "title": "Is the US Jobs Market Starting to Crack? Steven Rattner on Tariffs, AI and Stagflation",
+    "summary": "The latest jobs data is pointing to a softer US labor market, even as overall economic conditions have remained relatively solid. Steven Rattner of Willett Advisers unpacks what is driving that disconnect, why tariffs may be adding pressure on employers, how AI is already influencing hiring decisions, and why the combination of forces could create a challenge for the Fed and for investors.\n (Source: Bloomberg)",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-14/rattner-cooling-jobs-market-tariffs-and-ai-video",
+    "platform": "Bloomberg Tech"
+  },
+  {
+    "title": "Apple’s iPhone 17e Is a Worthy Alternative to the Pricier iPhone 17",
+    "summary": "Having recently updated the regular iPhone with a raft of meaningful upgrades, Apple Inc. set a high bar for its entry-level “e” series.",
+    "url": "https://www.bloomberg.com/news/features/2026-03-14/apple-s-iphone-17e-is-a-worthy-alternative-to-the-pricier-iphone-17",
+    "platform": "Bloomberg Tech"
+  },
+  {
+    "title": "China AI Startup Moonshot Snags Funds at $18 Billion Valuation",
+    "summary": "Moonshot AI is seeking to raise as much as $1 billion in an expanded funding round that would value the startup at about $18 billion, more than quadrupling its valuation in just three months and underscoring growing interest in Chinese AI developers racing to rival Silicon Valley leaders.",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-14/china-ai-startup-moonshot-snags-funds-at-18-billion-valuation",
+    "platform": "Bloomberg Tech"
   },
   {
     "title": "US Withdraws Draft Rule That Called for Global AI Chip Permits",
@@ -636,28 +660,16 @@
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "America Movil Plans to Buy Colombian Assets From Salinas",
-    "summary": "Mexico’s America Movil SAB is seeking to buy some telecom operations of Grupo Salinas in Colombia as part of a push to expand its reach in the region.",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-13/america-movil-is-planning-to-buy-colombian-assets-from-salinas",
-    "platform": "Bloomberg Tech"
+    "title": "Xbox Tries To Win Us Back | Kurt & Lucy Gotcha Covered",
+    "summary": "<img height=\"480\" src=\"https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4666350-gotchacovered_ep20_v1.jpg\" width=\"480\" /> This week Kurt and Lucy gotcha covered with the biggest news of the week, Xbox's Project Helix details, video game toilets, and more!",
+    "url": "https://www.gamespot.com/videos/xbox-tries-to-win-us-back-kurt-lucy-gotcha-covered/2300-6466768/",
+    "platform": "GameSpot"
   },
   {
-    "title": "Economy Loses Steam, Adobe CEO Exits After 18 Years",
-    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg Open Interest.\"\nIran’s Supreme Leader reportedly wounded, as President Trump issues a stark new warning to Tehran. Bank of America’s Michael Hartnett says markets are flashing 2008-style signals, with oil near triple digits and private credit risks rising. And a wave of fresh data shows the US  economy losing steam, with consumers pulling back and inflation pressures building. And Adobe's CEO is stepping down i",
-    "url": "https://www.bloomberg.com/news/videos/2026-03-13/open-interest-3-13-2026-video",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "Horowitz-Backed Firm to Revive Idled Utah Copper Mine",
-    "summary": "A startup backed by Silicon Valley venture firm Andreessen Horowitz plans to revive an idled copper mine in Utah to test new technology aimed at automating operations.",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-13/horowitz-backed-firm-revives-utah-copper-mine-in-automation-push",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "Musk Pledges to Rebuild xAI as Another Co-Founder Departs",
-    "summary": "Elon Musk said he intends to rebuild his artificial intelligence startup, xAI, after a series of departures sparked uncertainty about the company’s employee turnover and trajectory.",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-13/musk-pledges-to-rebuild-xai-as-another-co-founder-departs",
-    "platform": "Bloomberg Tech"
+    "title": "Today's Games Can Feel \"Soulless,\" But Can Punch The Monkey Change That?",
+    "summary": "<p>Punch the monkey, an adorable macaque born last July in Japan, captured the world's attention recently. He was abandoned by his mother and rejected by his community, only to find solace and comfort in a $20 orangutan plush toy from IKEA. His story tugged on the heartstrings of people worldwide who felt bad for the little guy and wanted him to find companionship.</p><p>He eventually did, and Punch's prospects are seemingly better now. But Punch still lives in a zoo--the Ichikawa City Zoo--and ",
+    "url": "https://www.gamespot.com/articles/todays-games-can-feel-soulless-but-can-punch-the-monkey-change-that/1100-6538667/?ftag=CAD-01-10abi2f",
+    "platform": "GameSpot"
   },
   {
     "title": "Marathon Review In Progress",
@@ -738,16 +750,16 @@
     "platform": "GameSpot"
   },
   {
-    "title": "Roblox And Minecraft Players Don't Really Care About \"Traditionally Good\" AAA Games, Study Finds",
-    "summary": "<p dir=\"ltr\">Data firm NewZoo's annual <a href=\"https://newzoo.com/resources/trend-reports/the-pc-console-gaming-report-2026\">PC and console gaming report</a> reveals an interesting fact about <a href=\"https://www.gamespot.com/games/roblox-game-client/\">Roblox</a> and <a href=\"https://www.gamespot.com/games/minecraft/\">Minecraft</a> players: They're far less likely to engage with popular AAA titles like <a href=\"https://www.gamespot.com/games/ghost-of-yotei/\">Ghost of Yotei</a> or <a href=\"https",
-    "url": "https://www.gamespot.com/articles/roblox-and-minecraft-players-dont-really-care-about-traditionally-good-aaa-games-study-finds/1100-6538779/?ftag=CAD-01-10abi2f",
-    "platform": "GameSpot"
+    "title": "Reverse-engineering Marathon's visual mood board magic",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/marathon-art-6.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>If extraction shooters are games in which you duck out of the fray between matches to look at what you just collected, I guess I'm almost playing Marathon the right way. I struggle to keep up with a team, let alone support other players in any meaningful manner, and I'm truly useless in most gunfights. But when the game is over I'm still eagerly checking through my winnings.</p> ",
+    "url": "https://www.eurogamer.net/reverse-engineering-marathon-visual-mood-board-magic-art-style",
+    "platform": "Eurogamer"
   },
   {
-    "title": "Crimson Desert Console Gameplay Footage Finally Released, But There's A Catch",
-    "summary": "<p>Despite being in development for over five years, almost all of <a href=\"https://www.gamespot.com/games/crimson-desert/\">Crimson Desert</a>'s pre-release footage has been from its PC version rather than consoles. Considering that this open-world fantasy is only a few days away from release, players have been understandably wary about that. Now, new console footage of Crimson Desert has been shared, but only from the PlayStation 5 Pro.</p><p><a href=\"https://youtu.be/3uUIBUoJhk8\">Digital Found",
-    "url": "https://www.gamespot.com/articles/crimson-desert-console-gameplay-footage-finally-released-but-theres-a-catch/1100-6538778/?ftag=CAD-01-10abi2f",
-    "platform": "GameSpot"
+    "title": "What we've been playing - \"I have learned the hard way that trusting others is a suckers game\"",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/marathon-smaller-crop.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, everyone's playing <a href=\"https://www.eurogamer.net/games/pokemon-pokopia\">Pok&eacute;mon Pokopia</a> apart from Bertie and Connor, who are arguably the staff members with the best taste - an observation I make completely unbiasedly. Connor does appear to ",
+    "url": "https://www.eurogamer.net/what-weve-been-playing-trusting-others-is-a-suckers-game",
+    "platform": "Eurogamer"
   },
   {
     "title": "\"People were just not ready for\" Starfield, says game's composer as he talks \"visionary\" Todd Howard",
@@ -853,21 +865,45 @@
   },
   {
     "title": "Former Overwatch Lead claims he was given a horrid ultimatum: meet revenue goals or 1,000 developers would lose jobs",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/overwatch-director-jeff-kaplan-announces-departure-from-blizzard-after-19-years-1618943680401.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Former <a href=\"https://www.eurogamer.net/games/overwatch\">Overwatch</a> lead Jeff Kaplan has claimed that, due to financial pressures brought on by the Overwatch League, he was given an ultimatum by then Blizzard CFO, Dennis Durkin. That ultimatum was, essentially, 'make sure Overwatch meets certain r",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/overwatch-director-jeff-kaplan-announces-departure-from-blizzard-after-19-years-1618943680401.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Former <a href=\"https://www.eurogamer.net/games/overwatch\">Overwatch</a> lead Jeff Kaplan has claimed that, due to financial pressures brought on by the Overwatch League, he was given an ultimatum by then Blizzard CFO. That ultimatum was, essentially, 'make sure Overwatch meets certain revenue goals, o",
     "url": "https://www.eurogamer.net/former-overwatch-lead-claims-he-was-given-a-horrid-ultimatum-meet-revenue-goals-or-1000-developers-would-lose-jobs",
     "platform": "Eurogamer"
   },
   {
-    "title": "Video game PEGI age-ratings are changing in Europe and it's probably not good news for EA Sports FC",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/PEGI18.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Video game age-ratings are about to change in Europe. The Pan-European Game Information age-ratings body, better known as PEGI, which determines the age-ratings for games everywhere in Europe apart from Germany, is about to make arguably the most significant update in its history.</p> <p><a href=\"https://www.eurogamer.net/pegi-video-game-age-rating-changes-europe\">Read more</a></p>",
-    "url": "https://www.eurogamer.net/pegi-video-game-age-rating-changes-europe",
-    "platform": "Eurogamer"
+    "title": "Venture Capitalist ‘Shocked And Sad’ About How Much Gamers Hate AI",
+    "summary": "<img alt=\"Shodan\" class=\"attachment-full size-full wp-post-image\" height=\"563\" src=\"https://kotaku.com/app/uploads/2026/03/1AkKIRQNiuy2q7at1nJynbA.jpg\" style=\"height: auto; margin: auto;\" width=\"1000\" /><br /><br />Folks with money tied in Anthropic and Nvidia blame job losses for low approval",
+    "url": "https://kotaku.com/investors-grapple-with-ai-unpopularity-at-gdc-xbox-2000678933",
+    "platform": "Kotaku"
   },
   {
-    "title": "Project Helix dev kits not going out until 2027, and other new details on Xbox's next-gen console",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/green-background-with-Project-Helix-logo-and-name-written-in-white-on-top.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Microsoft has shared more details on its next generation of Xbox console, codenamed Project Helix.</p> <p><a href=\"https://www.eurogamer.net/project-helix-dev-kits-not-going-out-until-2027-and-other-new-details-on-xboxs-next-gen-console\">Read more</a></p>",
-    "url": "https://www.eurogamer.net/project-helix-dev-kits-not-going-out-until-2027-and-other-new-details-on-xboxs-next-gen-console",
-    "platform": "Eurogamer"
+    "title": "Egg Adventures, Trash Bandits, And Waking Nightmares: 5 Neat Indies You Definitely Missed This Week",
+    "summary": "<img alt=\"Pixel characters fight Hydras.\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/03/ss_c09706c6bed68996458c835ffa931900ac9c8b33.1920x1080.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />From a more modest cleaning simulator to a DOS-inspired monster brawl, a round up of brand new gems from the indie world",
+    "url": "https://kotaku.com/indie-games-hidden-gems-oeuf-mamas-sleeping-angels-2000678915",
+    "platform": "Kotaku"
+  },
+  {
+    "title": "Unremarkable Medieval Action Sim 1348 Ex Voto Gets Hit With Absurd Conspiracy Over Italian Tax Relief Funds",
+    "summary": "<img alt=\"A knight appears in front of a red background.\" class=\"attachment-full size-full wp-post-image\" height=\"772\" src=\"https://kotaku.com/app/uploads/2026/03/ex-vocto.jpg\" style=\"height: auto; margin: auto;\" width=\"1342\" /><br /><br />Online chuds are claiming it's lesbian propaganda",
+    "url": "https://kotaku.com/1348-ex-voto-lgbtq-propaganda-tax-credits-steam-reviews-2000678922",
+    "platform": "Kotaku"
+  },
+  {
+    "title": "Meet The Guy Who’s Saving The Super Nintendo’s Infamously Inferior Version Of Doom",
+    "summary": "<img alt=\"The SNES cartridge for Doom appears in front of a yellow background.\" class=\"attachment-full size-full wp-post-image\" height=\"732\" src=\"https://kotaku.com/app/uploads/2026/03/dooms.jpg\" style=\"height: auto; margin: auto;\" width=\"1296\" /><br /><br />Turns out, it's the same guy who made it in the first place",
+    "url": "https://kotaku.com/doom-snes-id-shooter-original-limited-run-2000678756",
+    "platform": "Kotaku"
+  },
+  {
+    "title": "Slay The Spire 2 Promises To Patch Out 1 Billion HP Exploit As It Sells A Whopping 3 Million Copies In Just One Week",
+    "summary": "<img alt=\"Mages and warriors prepare for battle.\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://kotaku.com/app/uploads/2026/03/slay-the-spires.jpg\" style=\"height: auto; margin: auto;\" width=\"1280\" /><br /><br />The game is doing gangbusters and it's still only in Early Access",
+    "url": "https://kotaku.com/slay-spire-2-patch-notes-sales-damage-build-2000678909",
+    "platform": "Kotaku"
+  },
+  {
+    "title": "This New Games Showcase Just  Featured 15 Of The Coolest, Weirdest Games Out There",
+    "summary": "<img alt=\"Art shows games from a new showcase.\" class=\"attachment-full size-full wp-post-image\" height=\"567\" src=\"https://kotaku.com/app/uploads/2026/03/showcases.jpg\" style=\"height: auto; margin: auto;\" width=\"1003\" /><br /><br />Noclip's Computer Worlds showcase was full of indie releases you should be paying attention to",
+    "url": "https://kotaku.com/indie-game-computer-world-showcase-steam-demo-2000678906",
+    "platform": "Kotaku"
   },
   {
     "title": "Arc Raiders Has Started Replacing AI Voices With Human Ones Which CEO Admits Are Better",
@@ -954,40 +990,46 @@
     "platform": "Kotaku"
   },
   {
-    "title": "Pokémon Copycat Pickmon Accused Of Ripping Off Fan Artists’ Designs",
-    "summary": "<img alt=\"Pickmon\" class=\"attachment-full size-full wp-post-image\" height=\"1079\" src=\"https://kotaku.com/app/uploads/2026/03/Screenshot-2026-03-13-084042.jpg\" style=\"height: auto; margin: auto;\" width=\"1804\" /><br /><br />Fans are accusing the game of stealing their designs for Mega Ceruledge and Mega Meganium",
-    "url": "https://kotaku.com/pickmon-fan-art-designs-stolen-pokemon-palworld-2000678640",
-    "platform": "Kotaku"
+    "title": "Pixel Desktop vs Samsung DeX: Which phone-powered PC experience is better?",
+    "summary": "Pixel Desktop Mode is the future of Android, but Samsung Dex has a huge head start.",
+    "url": "https://www.androidauthority.com/pixel-desktop-vs-samsung-dex-3647938/",
+    "platform": "Android Authority"
   },
   {
-    "title": "Xbox Is Marching Forward With AI Features But Says It Wants To Protect Content Creators",
-    "summary": "<img alt=\"A ROG Xbox Ally X floats against a green background.\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2025/09/xboxaly.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />The company outlined its ongoing ambitions around gaming copilot",
-    "url": "https://kotaku.com/xbox-copilot-rog-ally-ai-microsoft-2000678483",
-    "platform": "Kotaku"
+    "title": "New Qualcomm exploit chain brings bootloader unlocking freedom to Android flagships (Updated: Statement)",
+    "summary": "A new vulnerability spotted in the GBL architecture helps bypass strict OEM restrictions on Snapdragon 8 Elite Gen 5 devices.",
+    "url": "https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gbl-exploit-bootloader-unlock-3648651/",
+    "platform": "Android Authority"
   },
   {
-    "title": "Ghost Of Yotei’s New Free Online Mode Is So Good I’d Pay Money For It",
-    "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/03/large-1.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />Free online spin-off <i>Legends</i> lets you and some buddies cut down supernatural baddies, level up, and unlock cool hats together",
-    "url": "https://kotaku.com/ghost-of-yoteis-new-free-multiplayer-legends-mode-how-unlock-review-ps5-2000678464",
-    "platform": "Kotaku"
+    "title": "Qualcomm responds to GBL exploit used on latest Snapdragon flagships",
+    "summary": "Fixes for the vulnerability were made available to Android manufacturers this month.",
+    "url": "https://www.androidauthority.com/qualcomm-gbl-exploit-fix-statement-3649176/",
+    "platform": "Android Authority"
   },
   {
-    "title": "Which Cowardly Game Company Will Be The First To Stand Up To Trump?",
-    "summary": "<img alt=\"Photo: Drew Angerer\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2021/06/c068c8c625872da19553e15cd4081085.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />The White House will not stop posting video game memes to spread fascism",
-    "url": "https://kotaku.com/white-house-video-wii-sports-iran-israel-nintendo-lawsuit-2000678455",
-    "platform": "Kotaku"
+    "title": "My Pixel 10 Pro’s camera is too popular for its own good",
+    "summary": "Zero shutter lag and low-light performance may result in Pixel envy.",
+    "url": "https://www.androidauthority.com/i-guess-now-its-our-pixel-10-pro-3647865/",
+    "platform": "Android Authority"
   },
   {
-    "title": "I Fell In Love With Highguard And Now It’s Gone Forever",
-    "summary": "<img alt=\"Wardens look at a siege tower.\" class=\"attachment-full size-full wp-post-image\" height=\"821\" src=\"https://kotaku.com/app/uploads/2026/02/highguard.jpg\" style=\"height: auto; margin: auto;\" width=\"1418\" /><br /><br />RIP to a real one",
-    "url": "https://kotaku.com/i-fell-in-love-with-highguard-and-now-its-gone-forever-2000678412",
-    "platform": "Kotaku"
+    "title": "Samsung is giving all of Android a bad rep with its terrible keyboard",
+    "summary": "There are many bad Android stereotypes, and Samsung isn't helping by shipping such a bad keyboard to millions of users.",
+    "url": "https://www.androidauthority.com/samsung-keyboard-giving-android-bad-rep-3648898/",
+    "platform": "Android Authority"
   },
   {
-    "title": "Pokémon Pokopia Fan Artists, Are Y’all Okay?",
-    "summary": "<img alt=\"Img 2174 (1)\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://kotaku.com/app/uploads/2026/03/IMG_2174-1.jpg\" style=\"height: auto; margin: auto;\" width=\"1280\" /><br /><br />The life sim has Pokémon artists getting real angsty on the timeline",
-    "url": "https://kotaku.com/pokemon-pokopia-ditto-trainer-fan-art-professor-tangrowth-2000678444",
-    "platform": "Kotaku"
+    "title": "The iPhone 17e handed the Pixel 10a its biggest L — and Google did it to itself",
+    "summary": "MagSafe, MagSafe, MagSafe!",
+    "url": "https://www.androidauthority.com/iphone-17e-magsafe-vs-pixel-10a-3647191/",
+    "platform": "Android Authority"
+  },
+  {
+    "title": "5 Android phones you should buy instead of the Nothing Phone 4a Pro",
+    "summary": "The Nothing Phone 4a Pro is neat — but it may not be the best phone to buy.",
+    "url": "https://www.androidauthority.com/nothing-phone-4a-pro-alternatives-3648028/",
+    "platform": "Android Authority"
   },
   {
     "title": "Samsung is now selling a Qi2 power bank that won’t get in the way of the S26’s cameras",
@@ -1068,46 +1110,10 @@
     "platform": "Android Authority"
   },
   {
-    "title": "This 3-in-1 Pixel dock swaps wireless charging for something much more reliable",
-    "summary": "Google quietly launches a 3-in-1 dock for Pixel phones, earbuds, and the Pixel Watch 4.",
-    "url": "https://www.androidauthority.com/wasserstein-3-in-1-charging-dock-for-pixels-3648956/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Google Messages is finally rolling out a fix for its most annoying oversight",
-    "summary": "The latest Messages beta introduces selective text copying, so you no longer have to copy the entire message.",
-    "url": "https://www.androidauthority.com/google-messages-selective-text-copy-rollout-3648928/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Right now Visible is offering a free iPhone and several other great deals",
-    "summary": "You'll also find the Galaxy and Pixel line at a discounted price as well.",
-    "url": "https://www.androidauthority.com/visible-free-iphone-3648761/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Galaxy Z Flip 8 battery specs leak: Is the upcoming foldable stuck in the past?",
-    "summary": "Samsung doesn't appear to be changing all that much from the Galaxy Z Flip 7.",
-    "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-battery-specs-leak-3648916/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Google Home users say devices are randomly being removed (Updated: Google acknowledgment)",
-    "summary": "Many of the reports have SmartLife as a common denominator.",
-    "url": "https://www.androidauthority.com/google-home-devices-disappearing-smartlife-3648757/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Galaxy S26 Ultra durability test reveals Samsung finally fixed one big weakness",
-    "summary": "The durability test reveals a quiet fix for the Galaxy S25 Ultra's camera ring issue.",
-    "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-durability-test-3648905/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "The dbrand Grip is the only case I want to use with my Galaxy Z Fold 7",
-    "summary": "The Grip looks great, feels better, and fits perfectly.",
-    "url": "https://www.androidauthority.com/dbrand-grip-fold-7-3647294/",
-    "platform": "Android Authority"
+    "title": "Mid-range robot vacuum puts flagships to shame: Ecovacs Deebot T90 Pro Omni review",
+    "summary": "Flagship nightmare. | Ultra-wide mopping roller, quick-charging function and high suction power - the Ecovacs Deebot T90 Pro Omni has a lot to offer for a mid-range model. Our review clarifies exactly what this means and how well the robot vacuum cleans with its modern mopping technology.",
+    "url": "https://www.notebookcheck.net/Mid-range-robot-vacuum-puts-flagships-to-shame-Ecovacs-Deebot-T90-Pro-Omni-review.1249595.0.html",
+    "platform": "Notebook Check"
   },
   {
     "title": "Apple MacBook Neo Review - Surprisingly good and capable laptop for $599 with one big flaw",
@@ -1177,7 +1183,7 @@
   },
   {
     "title": "Apple MacBook Pro 16 2026 Review - M5 Pro makes one of the best multimedia laptops even better",
-    "summary": "Blazing fast PCIe 5.0 SSDs & Wi-Fi 7. | The MacBook Pro 16 with the M5 Pro gets a big bump both in terms of CPU as well as GPU performance. Apple also includes faster PCIe 5.0 SSDs as well as Wi-Fi 7, so the overall package is even better than before.",
+    "summary": "Blazing fast PCIe 5.0 SSDs & Wi-Fi 7. | The MacBook Pro 16 with the M5 Pro gets a big bump both in terms of CPU as well as GPU performance. Apple also includes faster PCIe 5.0 SSDs as well as Wi-Fi 7, so the overall package is even better than before. <b>Update: Temporal dithering test</b>",
     "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-16-2026-Review-M5-Pro-makes-one-of-the-best-multimedia-laptops-even-better.1245523.0.html",
     "platform": "Notebook Check"
   },
@@ -1224,10 +1230,88 @@
     "platform": "Notebook Check"
   },
   {
-    "title": "Insane performance and efficiency without fans - Apple MacBook Air 13 M5 Entry Review",
-    "summary": "The Air gets even better. | The new MacBook Air 13 gets the blazing fast M5-SoC, twice the storage as well as Wi-Fi 7 for $1,099. We review the entry-level model with the 8-core GPU, 16 GB RAM and 512 GB storage, which is the best choice for most users. <b>Update: Additional battery life test</b>",
-    "url": "https://www.notebookcheck.net/Insane-performance-and-efficiency-without-fans-Apple-MacBook-Air-13-M5-Entry-Review.1242707.0.html",
-    "platform": "Notebook Check"
+    "title": "AMD's former pound-for-pound gaming champ hits its historic low again — Ryzen 7 9800X3D offers unmatched value for gamers at $429",
+    "summary": "The Ryzen 7 9800X3D is down to an all-time low price, making it a more enticing option than the slightly more performant but also much more expensive Ryzen 7 9850X3D.",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amds-former-pound-for-pound-gaming-champ-hits-its-historic-low-again-ryzen-7-9800x3d-offers-unmatched-value-for-gamers-at-usd429",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Shopper scores $1,000 in PC hardware for just $86 in a shocking pricing glitch — Newegg shrugs off massive loss and responds with a thumbs-up emoji",
+    "summary": "A Redditor only paid $86.98 for a Ryzen 5 7600X, a Gigabyte B850 Eagle motherboard, and a 32GB DDR5-6000 Corsair Vengeance RGB kit from Newegg. The CPU even included a free 240mm Cooler Master AIO worth $85 on its own. All these parts would typically cost $1,012, but this customer scored a combo deal for the ages.",
+    "url": "https://www.tomshardware.com/pc-components/cpus/shopper-scores-usd1-000-in-pc-hardware-for-just-usd86-in-a-shocking-pricing-glitch-retailer-shrugs-off-massive-loss-and-responds-with-a-thumbs-up-emoji",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Invisible malicious code attacks 151 GitHub repos and VS Code — Glassworm attack uses blockchain to steal tokens, credentials, and secrets",
+    "summary": "The technique exploits Unicode Private Use Area characters, which render as zero-width whitespace in virtually every code editor and terminal.",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/malicious-packages-using-invisible-unicode-found-in-151-github-repos-and-vs-code",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "MSI MAG B850 Tomahawk Max Wifi II Motherboard review: Sharpening the Tomahawk’s blade",
+    "summary": "The B850 Tomahawk Max Wifii II refines the popular budget AM5 board with additional M.2 storage, an OC Engine chip, a 64MB BIOS, a minor facelift, and a small price increase.",
+    "url": "https://www.tomshardware.com/pc-components/motherboards/msi-mag-b850-tomahawk-max-wifi-ii-motherboard-review",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "US gov't revokes controversial AI hardware export rule that would mandate investments from foreign companies — new export rules are still in the works, though",
+    "summary": "U.S. Department of Commerce withdraws draft export rule for AI accelerators that would give the U.S. government ultimate power over export controls and mandate investments of foreign firms in the U.S. AI sector.",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-revokes-controversial-ai-hardware-export-rule-that-would-mandate-investments-from-foreign-companies-new-export-rules-are-still-in-the-works-though",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Chocolate 3D printer startup Cocoa Press levels up with former Prusa executive",
+    "summary": "David Randolph brings 10 years of manufacturing experience to the chocolate printer startup, Cocoa Press.",
+    "url": "https://www.tomshardware.com/3d-printing/chocolate-3d-printer-startup-cocoa-press-levels-up-with-former-prusa-executive",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Noctua teases upcoming PC case with brown color scheme and bundled fans — appears to be Antec Flux Pro Noctua Edition with NF-A14x25 G2 fans",
+    "summary": "The case builds on the standard Flux Pro design with enhanced cooling hardware, mesh airflow panels, support for large radiators, and Noctua’s well-known brown color scheme.",
+    "url": "https://www.tomshardware.com/pc-components/pc-cases/noctua-teases-upcoming-pc-case-that-appears-to-be-the-antec-flux-pro-noctua-edition-with-brown-color-scheme-and-bundled-nf-a14x25-g2-fans",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Chip material prices double as Middle East conflict compounds China's existing gallium export ban — wide range of materials for chipmaking skyrocket as supply constricts",
+    "summary": "Manufacturers have said that prices for key chipmaking metals have doubled, and gallium has climbed sharply, as disruptions from the ongoing Middle East conflict pile onto supply constraints.",
+    "url": "https://www.tomshardware.com/tech-industry/chip-material-prices-double-as-middle-east-conflict-compounds-chinas-gallium-export-ban",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Fiber internet provider says it can detect leaking water pipes using existing infrastructure, prevented loss of 2 million liters a day over three months — Lightsonic tech detects underground vibrations, machine learning isolates the source",
+    "summary": "U.K. fiber network provider Openreach used startup firm Lightsonic's technology to detect leaks in Affinity Water's service area, helping save over 2 million liters of drinking water daily.",
+    "url": "https://www.tomshardware.com/networking/fiber-provider-says-it-can-detect-leaking-water-pipes-using-existing-infrastructure-prevents-loss-of-2-million-liters-a-day-over-three-months-company-uses-lightsonic-technology-to-detect-underground-vibrations-machine-learning-to-isolate-source",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "DoJ dismantles botnet made of 360,000 infected routers and IOT devices spread across 163 countries that ran for 16 years — SocksEscort proxy network eliminated in joint operation with Europol",
+    "summary": "Long-running SocksEscort proxy network brought down by US-EU operation",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/doj-dismantles-socksescort-proxy-network-that-ran-for-16-years-in-joint-operation-with-europol-botnet-comprised-360-000-infected-routers-and-iot-devices-across-163-countries",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "CPU fraud scandal erupts as another Chinese laptop busted with a fake chip — second device sporting a disguised Ryzen 5500U uncovered after vendor threatens legal action",
+    "summary": "Notebookcheck has uncovered yet another case of a Chuwi laptop allegedly featuring a processor different from the one advertised, intensifying concerns over CPU authenticity.",
+    "url": "https://www.tomshardware.com/laptops/cpu-fraud-scandal-erupts-as-another-chinese-laptop-busted-with-a-fake-chip-second-device-sporting-a-disguised-ryzen-5500u-uncovered-after-vendor-threatens-legal-action",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Enthusiast rebuilds AA-battery-powered PC, sextuples run time to 30 minutes with 64 batteries — uses three voltage regulators in parallel to achieve stability, runs computer for over 30 minutes on 64 AA cells",
+    "summary": "YouTube creator ScuffedBits re-did their experiment and was able to eke out 30 minutes of game time (and a benchmarking session!) while running their desktop PC on 64 AA batteries.",
+    "url": "https://www.tomshardware.com/desktops/pc-building/enthusiast-rebuilds-aa-battery-powered-pc-sextuples-run-time-to-30-minutes-with-64-batteries-uses-three-voltage-regulators-in-parallel-to-achieve-stability-runs-computer-for-over-30-minutes-on-64-aa-cells",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Six-month rewritable DVD endurance test crowns winner with 1,000 rewrites, shows the best discs are no longer manufactured — six month of tests find TDK is a clear leader, Verbatim and Memorex didn’t do well",
+    "summary": "A tech enthusiast has shared their DVD rewritable durability findings, following six months of testing.",
+    "url": "https://www.tomshardware.com/pc-components/storage/six-month-dvd-rewritable-test-shows-the-best-discs-are-no-longer-manufactured-tdk-a-clear-leader-verbatim-and-memorex-didnt-do-well",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "US and Gulf states race for Ukrainian interceptor drones, 3D printed model costs $1,000 apiece —  Shahed-136 kamikaze drone threat spurs rush for interceptors",
+    "summary": "Ukraine has sent drone interceptors and training crews to the U.S. and its Gulf State allies as the Iran War rumbles on.",
+    "url": "https://www.tomshardware.com/tech-industry/us-and-gulf-states-race-for-ukrainian-interceptor-drones-3d-printed-model-costs-usd1-000-apiece-shahed-136-kamikaze-drone-threat-spurs-rush-for-interceptors",
+    "platform": "Tom’s Hardware"
   },
   {
     "title": "Windows 11 is getting support for 1,000 Hz+ monitors soon as part of Insider builds — Microsoft has reportedly increased the refresh rate limit to 5,000 Hz",
@@ -1266,208 +1350,142 @@
     "platform": "Tom’s Hardware"
   },
   {
-    "title": "Creality Sermoon P1 3D Scanner review: 3D scanning on the go",
-    "summary": "The Creality Sermoon P1 is a standalone 3D scanner that allows users to go through the entire scanning workflow without having to touch a computer. The 22 crossed laser line mode is surprisingly fast, and the single laser line mode was able to scan deep holes during testing. The NIR (near-infrared) mode is capable of scanning without requiring any markers, and the on-device editing allows users to make on-location edits without needing to stop. The Sermoon P1 handled everything we threw at it, b",
-    "url": "https://www.tomshardware.com/3d-printing/3d-scanning/creality-sermoon-p1-3d-scanner-review",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Iran conflict delays Meta’s 2Africa undersea cable project — cable layer declares force majeure, says it can no longer safely operate in the Persian Gulf",
-    "summary": "Meta is delaying work on the Pearls section of its Africa2 network after its contracted cable-layer, Alcatel Submarine Networks, declared force majeure due to the risk of getting hit during the Iran conflict.",
-    "url": "https://www.tomshardware.com/tech-industry/iran-conflict-delays-metas-2africa-undersea-cable-project-cable-layer-declares-force-majeure-says-it-can-no-longer-safely-operate-in-the-persian-gulf",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "China's ByteDance to access 36,000 Blackwell GPU cluster through Malaysia cloud operator — Nvidia confirms no objections, deal is in line with US export controls",
-    "summary": "Nvidia says it is permissible for ByteDance to use AI clusters outside of China to develop its AI prowess as long as these clusters are built in compliance with the U.S. export controls.",
-    "url": "https://www.tomshardware.com/pc-components/gpus/chinas-bytedance-to-access-36-000-blackwell-gpu-cluster-through-malaysia-cloud-operator-nvidia-confirms-no-objections-deal-is-in-line-with-us-export-controls",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "11-month old Russian outfit claims it has developed 16-core and 32-core chips, flaunts Cyrillic-badged processors — chips appear to be sanctions-swerving rebadged Chinese Loongson processors",
-    "summary": "Russia-based Tramplin Electronics obtains samples of Loongson's LS3C6000 processors with Cyrillic inscriptions, claims these are its own CPUs.",
-    "url": "https://www.tomshardware.com/pc-components/cpus/11-month-old-russian-outfit-claims-it-has-developed-16-core-and-32-core-processors-flaunts-cyrillic-badged-processors-chips-appear-to-be-sanctions-swerving-rebadged-chinese-loongson-processors",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Save over £40 on the latest SteelSeries Arctis Nova Elite audiophile-grade headset — world's first Hi-Res audio certified wireless gaming headset",
-    "summary": "SteelSeries' Elite Arctis Nova wireless gaming headset is discounted by over £40. This audiophile-grade headset features the world's first Hi-Res audio certification in a wireless gaming headset.",
-    "url": "https://www.tomshardware.com/peripherals/save-over-gbp40-on-the-latest-steelseries-arctis-nova-elite-audiophile-grade-headset-worlds-first-hi-res-audio-certified-wireless-gaming-headset",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Grab this £59.99 TP-Link wireless router with Wi-Fi 7 support at its lowest ever price — 31% discount unlocks faster connections for lag-free streaming and gaming",
-    "summary": "Score a 31% discount on this TP-Link Archer BE3600 router, offering Wi-Fi 7 capability to your existing LAN for just £59.99",
-    "url": "https://www.tomshardware.com/networking/network-switches/grab-this-gbp59-99-tp-link-wireless-router-with-wi-fi-7-support-at-its-lowest-ever-price-31-percent-discount-unlocks-faster-connections-for-lag-free-streaming-and-gaming",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Get $399 of Corsair Vengeance RAM essentially free with a Ryzen 7 9850X3D and high-end X870E motherboard — Newegg bundle saves you $436 on the core of an overclockable AM5 build",
-    "summary": "Score on a great combo deal with AMD's Ryzen 7 9850X3D, Asus ROG Crosshair X870E Apex, 32GB Corsair DDR5-6400 RAM for $1,187.99 - it's $436 off retail, effectively making the RAM free.",
-    "url": "https://www.tomshardware.com/pc-components/get-usd399-of-corsair-vengeance-ram-essentially-free-with-a-ryzen-7-9850x3d-and-high-end-x870e-motherboard-newegg-bundle-saves-you-usd436-on-the-core-of-an-overclockable-am5-build",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "How to protect yourself from bad external SSDs during the PC hardware apocalypse – newer drives will definitely cost more, and some may offer up shockingly poor performance",
-    "summary": "If you’re shopping for a new external SSD, you might want to buy a drive soon, and something that was released before the AI demand seemingly gobbled up all the good flash.",
-    "url": "https://www.tomshardware.com/pc-components/external-ssds/how-to-protect-yourself-from-bad-external-ssds-during-the-pc-hardware-apocalypse-newer-drives-will-definitely-cost-more-and-some-may-offer-up-shockingly-poor-performance",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "2026 PC shipment forecast slashed amid memory shortages — IDC says total PC market value to nonetheless increase to $274 billion due to ongoing price hikes",
-    "summary": "IDC expects unit shipments of PCs in 2026 to be down 11.3% year-over-year, but the whole market value will increase 1.6% due to higher prices.",
-    "url": "https://www.tomshardware.com/desktops/gaming-pcs/idc-slashes-2026-pc-shipment-forecast-amid-memory-shortages-total-pc-market-value-to-nonetheless-increase-to-usd274-billion-due-to-ongoing-price-hikes",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Silicon Power US RMA policy now hedges against AI-driven RAM and SSD shortages — company says it will refund the original purchase price 'if there is a shortage of replacement products'",
-    "summary": "Most RAM and SSD manufacturers still offer in-warranty replacements as Silicon Power U.S. hedges policy against shortages",
-    "url": "https://www.tomshardware.com/desktops/pc-building/silicon-power-us-rma-policy-now-hedges-against-ai-driven-ram-and-ssd-shortages-company-says-it-will-refund-the-original-purchase-price-if-there-is-a-shortage-of-replacement-products",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "China bans OpenClaw from government computers and issues security guidelines amid adoption frenzy — nation scrambles to rein in popular AI agent",
-    "summary": "China's central government warned state enterprises and agencies not to install OpenClaw on office computers this week as multiple government bodies moved to rein in the AI agent.",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-bans-openclaw-from-government-computers-and-issues-security-guidelines-amid-adoption-frenzy",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Microsoft debuts DirectStorage 1.4 at GDC 2026, with Zstandard compression and GACL — update promises developers improved compression ratios, faster loading, and more",
-    "summary": "DirectStorage 1.4 brings along key upgrades to the API, including support for Zstandard compression as well as CreatorID for improved GPU scheduling.",
-    "url": "https://www.tomshardware.com/video-games/pc-gaming/microsoft-debuts-directstorage-1-4-at-gdc-2026-with-zstandard-compression-and-gacl-update-promises-developers-improved-compression-ratios-faster-loading-and-more",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Zombie ZIP vulnerability lets compressed malware leisurely stroll past 95% of antivirus apps — security suites are blissfully unaware of security issue",
-    "summary": "Zombie ZIP vulnerability lets malware stroll past gates of 95% of AV suites",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/zombie-zip-vulnerability-lets-compressed-malware-leisurely-stroll-past-95-percent-of-antivirus-apps-security-suites-are-blissfully-unaware-of-security-issue",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "The FBI is looking for victimized Steam users who downloaded games with hidden malware — Investigation underway into multiple infected titles from 2024 to 2026",
-    "summary": "Several games on Steam that were secretly carrying malware now seem to be under active investigation by the FBI. The department is looking for victim information tied to these games; anyone who installed and played an infected game and was harmed is being urged to step forward and share more info to help with the investigation.",
-    "url": "https://www.tomshardware.com/video-games/pc-gaming/the-fbi-is-looking-for-victimized-steam-users-who-downloaded-games-with-hidden-malware-investigation-underway-into-multiple-infected-titles-from-2024-to-2026",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "英伟达高管：相比 GTX 10，未来 GPU 游戏画质靠 AI 可提升 100 万倍",
-    "summary": "<p>IT之家 3 月 14 日消息，科技媒体 Tom's Hardware 今天（3 月 14 日）发布博文，报道称在 2026 游戏开发者大会（GDC）上，英伟达开发者与性能技术副总裁 John Spitzer 表示，<strong>借助 AI 与神经渲</strong><strong>染，未来游戏 GPU 的路径追踪性能将比 Pascal 架构（GTX 10 系列）提升 100 万倍。</strong></p><p style=\"text-align: center;\"> </p><p>Spitzer 在演讲中表示，相较于早期的 Pascal 架构（GTX 10 系列），现有 RTX GPU 的路径追踪性能已经提升了 1 万倍，而未来的游戏 GPU 将实现 100 万倍的惊人性能飞跃。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/70716b1f-9acb-49a1-ac16-dae87c6b205f.png",
-    "url": "https://www.ithome.com/0/929/029.htm",
+    "title": "EA《战地风云 6》将于 3 月 17 日至 24 日开启免费试玩，提供四张地图体验",
+    "summary": "<p>IT之家 3 月 15 日消息，EA 宣布旗下《战地风云 6》将于 3 月 17 日至 24 日开启免费试玩，本次试玩提供四张地图（污染 / 哈根塔尔基地 / 东方木林 / 米拉克山谷），可选三种游玩列表（夜幕降临 / 全面战争 / 休闲突破）及六种模式（征服 / 升级 / 突破 / 小队死斗 / 团队死斗 / 抢攻）。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/98853c88-7dd8-45f0-9630-2d4b287921c9.png?x-bce-process=image/format,f_auto\" /></p><h3>夜幕降临</h3><p>“夜幕降临”将在新地图“哈根塔尔基地”上线，并支持“团队死斗”“小队死斗”和“抢攻”三种玩法。在这一特殊模式中，战场灯光会全部熄灭，战斗将转为夜间作战环境。玩家需要依靠夜视仪或照明配件来观察环境或照亮黑暗，从而在混乱的夜战中完成狩猎与反击。</p><p style=\"text-align: c",
+    "url": "https://www.ithome.com/0/929/229.htm",
     "platform": "ITHome"
   },
   {
-    "title": "OPPO Pad 5 Pro 平板配置曝光：骁龙 8 Elite Gen 5 芯片、13.2 英寸超大屏，13000mAh± 典型值电池",
-    "summary": "<p>IT之家 3 月 14 日消息，博主 @数码闲聊站 今天在微博发文，曝光 OPPO Pad 5 Pro 平板的详细参数。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/8141e1b3-e3f4-4f4d-8380-a3498851cdb0.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，这款平板搭载 13.2 英寸超大屏、骁龙 8 Elite Gen 5 芯片，电池额定容量 11905mAh，<strong>典型值可达 13000mAh±</strong>，支持 67W 快充，前置 800 万像素镜头、后置 1300 万像素。</p><p>同时，这款平板还将拥有 8+256GB、12+256GB、12+512GB 以及 16+512GB 的内存 / 存储空间配置。</p><p>后续有用户在评论区询问：“什么时候发布，我要冲”，博主回复道：“有可能是 4 月与 Find X9U 一起发”，另一",
-    "url": "https://www.ithome.com/0/929/028.htm",
+    "title": "消息称佳能 EOS R7 Mark II 相机搭载 3900 万像素背照式堆栈 CMOS，或 5 月底-6 月发布",
+    "summary": "<p>IT之家 3 月 15 日消息，消息源 Canon Rumors 昨天发布博文，报道称佳能 EOS R7 Mark II 相机将搭载 3900 万像素 CMOS 传感器。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/874e735a-9a86-4e98-ab51-ff1925b18394.jpg?x-bce-process=image/format,f_auto\" /></p><p>据报道，目前 EOS R7 相机搭载 3250 万像素 APS-C 传感器，电子快门连拍速度最高可达 30 FPS，支持 5 轴机身防抖、全像素双核自动对焦，最高可拍摄 4K 60P 视频。</p><p>而 EOS R7 Mark II 预计将采用背照式堆栈传感器（IT之家注：BSI Stacked Sensor），<strong>有望成首款使用堆栈 CMOS 的佳能 APS-C 相机</strong>。</p><p>据悉，佳能今年推出的其他 APS-C 新品都不会采",
+    "url": "https://www.ithome.com/0/929/228.htm",
     "platform": "ITHome"
   },
   {
-    "title": "鸿蒙智行尚界 Z7 全系标配华为巨鲸电池平台，CLTC 续航至高 905km",
-    "summary": "<p>IT之家 3 月 14 日消息，鸿蒙智行尚界汽车今天宣布，全新尚界 Z7 全系标配华为巨鲸电池平台，CLTC 续航至高 905km。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/079436f1-96dd-4c34-9aa4-e80486c514b8.jpg?x-bce-process=image/format,f_auto\" /></p><p>除此之外，尚界 Z7 全系搭载华为途灵平台，首发随动四维屏，配备灵感橱窗（IT之家注：可放置物品的空间）。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/40d4765a-fe33-46a5-9020-21b28cf38723.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: left;\">",
-    "url": "https://www.ithome.com/0/929/026.htm",
+    "title": "松延动力交付春晚同款机器人“小布米”，宣布与京东深化合作推动消费端落地",
+    "summary": "<p>IT之家 3 月 15 日消息，据新浪报道，松延动力公司创始人姜哲源今天在 AWE 2026 现场，将此前因亮相 2026 马年春晚而备受关注的“小布米”人形机器人正式交付给用户，并宣布将与京东深化合作，共同推动人形机器人在消费端场景的落地应用。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/e80e60b6-27b6-49c7-926e-f78abda965eb.png?x-bce-process=image/format,f_auto\" /></p><p>作为业内首款定价在万元级（IT之家注：9998 元）的高性能人形机器人，“小布米”身高约 98 厘米，体重 17 公斤，全身拥有 21 个自由度；它采用轻量化设计，搭载图形化编程系统，配备专属 App，支持一键自主归位功能，并具备智能语音交互能力。</p><p>在成本控制方面，该产品主要采用复合材料机身，基本不使用金属材料，因此其成本大幅低于同类金属机身产",
+    "url": "https://www.ithome.com/0/929/227.htm",
     "platform": "ITHome"
   },
   {
-    "title": "广义相对论再立功：“宇宙烟花” I 型超亮超新星背后能量引擎新见解",
-    "summary": "<p>IT之家 3 月 14 日消息，科技媒体 Ars Technica 今天（3 月 14 日）发布博文，报道称<strong>最新研究揭示了 I 型超亮超新星（Type I superluminous supernovae）背后的能量引擎。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/0bf28b97-a816-4df0-a6bf-b05303cc3f6c.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>图源：美国宇航局</figcaption><p>IT之家注：I 型超亮超新星是宇宙中最明亮的爆炸事件之一，其亮度远超普通超新星。通俗解释就是大质量恒星死亡时引发的“超级烟花”，亮度极其夸张。</p><p>天文学界对于这类爆炸，多年来普遍认为是由磁星（一种快速旋转且具有超强磁场的中子星）驱动，不过按照传统模型预测，超新星的光度应平",
-    "url": "https://www.ithome.com/0/929/025.htm",
+    "title": "华硕“XG27UQDMS”27 英寸显示器首销：4K 240Hz 四代 QD-OLED，4999 元",
+    "summary": "<p>IT之家 3 月 15 日消息，华硕旗下“XG27UQDMS”27 英寸显示器目前已在京东开售，该机主打 4K 240Hz，<strong>定价为 4999 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/efcbdb88-30a5-425c-af83-281c4b8f1bd8.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/c5d951a0-511a-45ba-9ba7-c2db3b776e6d.png?x-bce-process=image/format,f_auto\" /></p><p>该机配备一块 3840x2160 分辨率 240",
+    "url": "https://www.ithome.com/0/929/226.htm",
     "platform": "ITHome"
   },
   {
-    "title": "第二艘国产大型邮轮“爱达 · 花城号”完成坞内起浮，年底前交付",
-    "summary": "<p>IT之家 3 月 14 日消息，据央视新闻今天报道，我国第二艘大型邮轮“爱达 · 花城号”今天完成坞内注水，顺利起浮。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/68f00771-e8db-407d-9b53-56d42eb140d1.png?x-bce-process=image/format,f_auto\" /></p><p>据报道，“爱达 · 花城号”完成坞内注水起浮后，平移靠泊至前坞室开展倾斜试验。该试验环节能够测定船舶的重量和中心情况，是邮轮出坞的核心技术环节，<strong>与邮轮的稳性安全和游客舒适度息息相关</strong>。</p><p>本次出坞作业为期七天，中船集团后续还将开展救生艇脱钩试验及坞内巡游，验证全船 18 艘超大救生艇和 2 艘救助小艇在正常工况和应急状态下的性能，计划 3 月 20 日起正式出坞，全面进入系统调试及系统完工阶段，5 月底开启试航，年底前交付。</p><p>参考IT之家此前报道，第二艘国产大型邮轮",
-    "url": "https://www.ithome.com/0/929/024.htm",
+    "title": "飞傲雪漫天便携收音机 RR13 现身：小巧复古设计，支持耳放 / 外放输出",
+    "summary": "<p>IT之家 3 月 15 日消息，飞傲这两天参展第十届上海国际耳机展，公司员工 @FIIO 康师傅今天在微博分享了雪漫天 RR13 便携收音机的实拍照片、详细参数。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/974ec09f-a839-4782-b191-d41655366bea.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，这款产品整体造型小巧，伸缩拉杆天线可拆卸，也可以用耳机充当天线，支持 FM 收音，信号“还不错”。</p><p>同时，这款产品还支持耳放和外放两种输出方式，可设置两组 MAGIC BASS 低音增强，<strong>还能够支持 30 分钟 / 1 小时两组定时开关机</strong>。</p><p>IT之家注意到，根据飞傲官网的图片，这款收音机还拥有黑色配色，顶部右侧带有一颗旋钮，其他设计则类似传统的便携式收音机。</p><p s",
+    "url": "https://www.ithome.com/0/929/225.htm",
     "platform": "ITHome"
   },
   {
-    "title": "联想 Yoga Slim 7a 笔记本海外上新：AMD Gorgon Point 处理器、14 英寸 1100 尼特 OLED 面板",
-    "summary": "<p>IT之家 3 月 14 日消息，联想现已在欧洲市场推出第 11 代 Yoga Slim 7a 笔记本，搭载 AMD “Gorgon Point”处理器，<strong>至高可选 120Hz OLED 屏幕、32GB LPDDR5X-8000 内存</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/cb238c2e-b0e2-434b-930b-bf3229ae7c2e.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，这款笔记本可选 AMD 锐龙 AI 5 540/AI 7 445 处理器，可选 16GB/32GB LPDDR5X 内存，最高速度 8000MT/s，硬盘则是 2TB M.2 2242 PCIe 4.0，内置 70Wh 电池以及 Wi-Fi 7。</p><p style=\"text-align: center;\"><img src=\"https://img.itho",
-    "url": "https://www.ithome.com/0/929/023.htm",
+    "title": "神二十一乘组工作动态更新：“太空番茄”大丰收，后续还要种植小麦、胡萝卜",
+    "summary": "<p>IT之家 3 月 15 日消息，中国空间站内，神二十一乘组正有条不紊地开展各项工作。近日，三名航天员又有哪些工作动态更新？</p><p>今日，中国载人航天工程办公室公布了最新一集《天宫 TV》，展示了神二十一乘组最新工作动态。其中，大家关心的太空番茄在神舟二十一号乘组的精心照料下喜迎“丰收”。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/tv/show/1034:5276509410361503?mid=5276669054026173\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/a76814b7-8382-481b-8c1d-e0efce43ab46.jpg?x-bce-process=image/format,f_auto\" /></a></p><p>其中，围绕空间材料科学领域实验项目，航天员完成",
+    "url": "https://www.ithome.com/0/929/214.htm",
     "platform": "ITHome"
   },
   {
-    "title": "iQOO Z11 手机开启预约：165Hz 电竞屏 + 9020mAh 电池，本月发布",
-    "summary": "<p>IT之家 3 月 14 日消息，iQOO Z11 系列已官宣将于本月发布，而 iQOO Z11 和 iQOO Z11x 已经上架京东开启预约。</p><p>iQOO Z11 将成为 iQOO 首个 165Hz 电竞屏和 iQOO 最大 9020mAh 电池双越级首发的产品。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/NrlbEji\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/401996/40/12984/83199/69b2843cF758f1033/008332032046bf33.jpg\" /></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-nam",
-    "url": "https://www.ithome.com/0/929/022.htm",
+    "title": "小米米家冰箱 Pro 双系统 法式平嵌 560L 发布：可独立控温，券后到手价 5798.7 元",
+    "summary": "<p>IT之家 3 月 15 日消息，小米米家冰箱 Pro 双系统法式平嵌 560L 现已发布，搭载全域离子净化系统，支持-30 度深冷瞬冻、全自动洁净制冰，<strong>预售价 6443 元，券后到手价 5798.7 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/54b0e3af-d847-4628-a3fe-276c4888b7b2.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/14a12fbc-2902-46e9-ba3e-0f5848187be7.png?x-bce-process=image/format,f_auto\" /></",
+    "url": "https://www.ithome.com/0/929/210.htm",
     "platform": "ITHome"
   },
   {
-    "title": "硬件检测软件 CPU-Z 2.19 发布：支持 AMD Ryzen AI 400 系列桌面 APU",
-    "summary": "<p>IT之家 3 月 14 日消息，科技媒体 Wccftech 发布博文，报道称硬件检测软件 CPU-Z 昨日（3 月 13 日）更新 2.19 版，<strong>收录支持 AMD 新一代 Ryzen AI 400 系列桌面 APU（代号“Kraken Point 2”）。</strong></p><p>IT之家援引博文介绍，本次此次数据库不仅涵盖了标准的 G 系列，还包含了主打低功耗的 GE 版本，具体产品线覆盖了 Ryzen AI 7 和 Ryzen AI 5 系列（最高可提供 8 核心 16 线程）。</p><p>在支持 AMD 阵营新品外，CPU-Z 2.19 还初步支持英特尔 Wildcat Lake 处理器。该系列处理器主要接替现有的 Alder Lake N 和 Twin Lake 系列，定位为面向紧凑型设备的超低功耗解决方案。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/b8245aa2-0757-47a5-b3e1-1ff12b2",
-    "url": "https://www.ithome.com/0/929/021.htm",
+    "title": "盛色推出“G75 护眼版”27 英寸显示器：2K 340Hz 超频，1209 元",
+    "summary": "<p>IT之家 3 月 15 日消息，盛色现已在京东上架一款“G75 护眼版”27 英寸显示器，该机主打 2K 340Hz，<strong>定价为 1209 元</strong>，部分地区国补后到手价低至 1148.55 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/0cc47794-12fb-4cb3-a5a1-f0c1a4ccc12b.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/b319615d-ed90-4189-8060-c295f62045db.png?x-bce-process=image/format,f_auto\" /></p><p>该机配备",
+    "url": "https://www.ithome.com/0/929/208.htm",
     "platform": "ITHome"
   },
   {
-    "title": "《心灵杀手 2》《控制：终极版》游戏官宣适配索尼 PS5 Pro PSSR 2.0 超分技术",
-    "summary": "<p>IT之家 3 月 14 日消息，Remedy Entertainment 昨日（3 月 13 日）在社交平台 Bluesky 确认，<strong>旗下《心灵杀手 2》和《控制：终极版》两款游戏将支持索尼 PlayStation 5 Pro 的 PSSR 2.0 超分技术。</strong></p><p>PSSR 2.0 全称为 PlayStation Spectral Super Resolution upscaler 2.0，是索尼专为 PS5 Pro 研发的 AI 画面增强技术，能让低分辨率的游戏画面在不损耗性能的情况下，通过 AI 计算瞬间提升至高清（如 4K）画质。</p><p>IT之家附上截图如下：</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/f9bd3b19-be29-4b65-9312-ce220f1c526a.png?x-bce-process=image/format,f_auto\" />",
-    "url": "https://www.ithome.com/0/929/019.htm",
+    "title": "人形机器人进厂，宝马德国工厂迎来新同事",
+    "summary": "<p>IT之家 3 月 15 日消息，据汽车媒体 electrek 昨天报道，宝马去年在美国斯帕坦堡工厂成功试点人型机器人后更进一步，<strong>如今在德国莱比锡的 iFACTORY 工厂正式引入了机器人，负责给电动汽车“打螺丝”</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/19ec7559-1473-4c29-9610-82b5c343e694.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家援引 electrek，宝马此前在斯帕坦堡工厂使用的 Figure 02 人型机器人已经参与了 3 万辆 X3 汽车的生产流程，主要负责精确定位焊接钣金部件。而本次“进厂”的机器人则是由苏黎世公司<span class=\"hover:entity-accent entity-underline inline cursor-pointer alig",
+    "url": "https://www.ithome.com/0/929/194.htm",
     "platform": "ITHome"
   },
   {
-    "title": "余承东展示华为畅享 90 Pro Max 真机：搭载麒麟芯 + 鸿蒙 6 + 巨鲸大电池，月底发布",
-    "summary": "<p>IT之家 3 月 14 日消息，华为全场景展会落地 AWE 2026，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今天在直播中公布了新一代畅享 90 Pro Max 新机，并宣布将于本月底发布。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/295700e1-740e-4238-8c1c-9de6da49ec26.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: left;\">余承东介绍称：畅享 90 Pro Max 搭载了华为最新的海思麒麟 8 系列芯片 + 巨鲸大电池。</p><blockquote><p style=\"text-align: left;\">这款产品有个非常大的卖点，就是续航能力超强，信号超好，续航能力超级强，强到什么程度？强到我出门可以不用带充电宝。</p></blockquote><p ",
-    "url": "https://www.ithome.com/0/929/017.htm",
+    "title": "实测显示：苹果 MacBook Pro 14 英寸笔记本无法压住 M5 Max 芯片",
+    "summary": "<p>IT之家 3 月 15 日消息，科技媒体 Notebookcheck 今天发布博文，对 M5 Max 芯片版苹果 MacBook Pro 14 英寸笔记本进行性能压力测试，<strong>结果显示 14 英寸模具并不能完全压制住 M5 Max</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/0ac96326-5ed4-4bc3-94c9-4645e5c0ae1e.jpg?x-bce-process=image/format,f_auto\" /></p><p>该媒体实测时使用的是 18 核 CPU+40 核 GPU 版 M5 Max 芯片，这款笔记本在 CPU+GPU 双烤（Cinebench R23 多核 +3DMark Wild Life Extreme Stress）的情况下最高功耗可达 96W（IT之家注：不含内存功耗），但只能维持 1-2 秒，<strong>之后就会迅速下降到 46W</strong>。</p><p>但这",
+    "url": "https://www.ithome.com/0/929/193.htm",
     "platform": "ITHome"
   },
   {
-    "title": "鸿蒙智行享界 S9T“星莓粉”新车色官宣，北京时装周正式发布",
-    "summary": "<p>IT之家 3 月 14 日消息，华为全场景展会落地 AWE 2026，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今天在直播中公布了享界 S9T 的全新粉色款“星莓粉”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/2abc97b1-9f14-410b-a345-514a43fd9215.jpg?x-bce-process=image/format,f_auto\" /></p><p>正如昨日曝光的路透图，享界 S9T“星莓粉”不但采用了粉色车漆，而且轮毂及内饰也采用了同色系的粉色装饰。</p><p>据余承东介绍，享界 S9/S9T“春日新色”将在北京时装周正式发布（AW2026 北京时装周将于 3 月 17 日开幕，但IT之家查询发现享界发布会在 3 月 21 日或 3 月 22 日）。</p><p>另外，余承东在直播中还透露，享界会在今年秋天推出硬派越野 SUV 以及家用 MPV 车型。<",
-    "url": "https://www.ithome.com/0/929/016.htm",
+    "title": "消息称 B 社下周将官宣游戏《星空》登陆索尼 PS5 平台",
+    "summary": "<p>IT之家 3 月 15 日消息，B 社在 X 平台发文确认下周将有新消息与玩家分享，消息源 billbil-kun 随后转发了该动态，并透露 B 社届时预计将公布 PS5 版《星空》。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/fdaf9030-52e6-4218-a311-93b11053ad9f.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，此前 billbil-kun 便透露 PS5 平台的《星空》游戏<strong>将于 3 月 18 日开启预购，实体版将于 4 月 7 日发售。</strong></p><p>价格方面，PS5 版游戏标准版预计售价 49.99 欧元（IT之家注：现汇率约合 404.4 元人民币），豪华版则是 69.99 欧元（现汇率约合 566.2 元人民币），这一定价明显低于 Xbox 平台的 79.99 欧元（现",
+    "url": "https://www.ithome.com/0/929/191.htm",
     "platform": "ITHome"
   },
   {
-    "title": "卡色 150mm f/5.6 全画幅自动对焦折返镜头发布：3850 元，适配佳能 EF / 索尼 E 卡口",
-    "summary": "<p>IT之家 3 月 14 日消息，卡色 150mm f/5.6 全画幅自动对焦折返镜头现已发布，新品主打折返结构，能够在较小的镜身下提供长焦拍摄体验，<strong>售价 3850 元</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/fc3fee5f-1275-4174-8501-462b0c73d577.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，这款镜头采用 5 片 4 组光学结构，焦距则是 150mm 长焦，能够压缩空间、突出主体，f/5.6 光圈能够形成标志性“甜甜圈”光斑，适配人像、花卉等摄影题材。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/a0aa33d9-ba6c-4d3c-97ef-4705a0bff7e7.jpg?x-b",
-    "url": "https://www.ithome.com/0/929/015.htm",
+    "title": "小米宣布米家空调智能体检上线，滤网脏堵空调自己会提醒",
+    "summary": "<p>IT之家 3 月 15 日消息，小米官方今日宣布米家空调「智能体检」上线，可为用户自动识别滤网脏堵情况并通过手机 App 提醒用户及时清洗。</p><p>根据小米服务官方发布的消息，在联网状态下，用户通过米家 App 可以远程查看空调滤网的脏堵状态，系统判断准确率可达 98%。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/2cdf4f04-ed89-435e-86fa-01e64f03a3ee.jpg?x-bce-process=image/format,f_auto\" /></p><p>当检测到滤网需要清洁时，米家 App 会主动推送提醒信息，并附带清洗教程，用户可根据指引自行完成滤网清洁。如果用户不方便自己操作，还可以拨打 950816 预约服务，由官方工程师提供免费上门清洗。</p><p>此次上线的智能体检功能，是米家空调在售后服务方面的又一举措。IT之家注意到，米家空调去年 9 月曾推出 10 年免费",
+    "url": "https://www.ithome.com/0/929/192.htm",
     "platform": "ITHome"
   },
   {
-    "title": "余承东谈华为全场景生态，已经进入全链生态时代",
-    "summary": "<p>IT之家 3 月 14 日消息，AWE 2026，华为鸿蒙全场景产品矩阵亮相，华为常务董事、终端 BG 董事长余承东在 3 月 14 日的特别直播节目中，详细介绍了华为全场景的全链生态，华为全场景基于鸿蒙底座，不同设备、不同场景，都可以共用一个系统、一个生态，实现家庭空间的鸿蒙场景互联。</p><p>截至目前，鸿蒙生态已经汇聚了超 720 万鸿蒙开发者，开发了 40 多万个创新应用。在家庭场景中，鸿蒙智家生态已经覆盖了 3200 + 品牌、400 + 品类的智能设备。</p><p>余承东在直播中介绍，华为全场景也将 AI 智慧能力赋能家庭设备与场景。目前小艺管家 6.0 已具备 AI 大模型深度语义理解能力，可以统一调动管理家里的设备。</p><p>在本届 AWE 展会上，华为还现场展示了小艺管家 6.0 以及华为鸿蒙智家全生态方案，现场通过 AI 健康空气、AI 健康睡眠、AI 灯光、AI 卫浴、AI 影音、AI 安防、AI 节能、AI 餐厨等场景的落地。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src",
-    "url": "https://www.ithome.com/0/929/014.htm",
+    "title": "小米推出米家冰箱 Pro 双系统 十字平嵌 560L，首发国补价 4504.15 元",
+    "summary": "<p>IT之家 3 月 15 日消息，小米新推出了一款米家冰箱 Pro 双系统十字平嵌 560L，京东显示为 5299 元，首发国补到手 4504.15 元，提供冰晶白、星缎银两种颜色可选。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/Nac54vJ\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/403558/8/8295/147863/69b57fa2Ff60797ca/008332032096f8ac.jpg\" /></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">米家冰箱 Pro 双系统十字平嵌 560L 星缎银</span></span><spa",
+    "url": "https://www.ithome.com/0/929/190.htm",
     "platform": "ITHome"
   },
   {
-    "title": "AMD 优化 RDNA 5 显卡核心指令，部分场景性能可近乎翻倍",
-    "summary": "<p>IT之家 3 月 14 日消息，开源平台 Coelacanth-Dream 昨日（3 月 13 日）发布博文，<strong>发现 AMD 针对 RDNA 5 GPU 全面优化指令级性能，在部分负载场景下有望实现 GPU 性能近乎翻倍。</strong></p><p>该平台长期追踪 Linux 系统补丁，发现 AMD 在近期提交的代码中，针对 RDNA 5 GPU 架构，计划引入双发射向量算术逻辑单元（Dual Issue VALU），实质性增强 FP32（单精度浮点）的运算能力，从而惠及多种高负载应用场景。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/5b992047-842f-4512-9435-b5ec5d852c5b.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注：双发射向量算术逻辑单元是一种处理器硬件设计，通俗来说可以想象一个收费站原来只有",
-    "url": "https://www.ithome.com/0/929/013.htm",
+    "title": "OPPO Find X9s Pro 手机参数曝光：天玑 9500+ 双 2 亿镜头，具备 7K 大电池",
+    "summary": "<p>IT之家 3 月 15 日消息，博主 @智慧皮卡丘 今天在微博透露 OPPO Find X9s Pro 手机的详细参数。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/35606e4a-ce51-4ae7-8be5-9f790d619126.jpg?x-bce-process=image/format,f_auto\" /></p><p>博主表示，这台手机将搭载联发科天玑 9500 芯片 + 双 2 亿像素镜头，正面则是采用小直屏大 R 角、直角中框、极窄四等边设计，还带有 7K 大电池、长焦微距、横向大矩阵，<strong>号称“果味十足”</strong>。</p><p>后续有用户在评论区询问：“皮皮你觉得和 x300s 哪个更强点”，博主回复道：“看你喜欢大屏还是小屏”；另一名用户则询问道：“扬声器接口马达什么的不会还是最基础那一档吧 [捂脸笑哭]”，博主则回复道：“[捂脸笑哭]”。</p><p style=\"text-align: cente",
+    "url": "https://www.ithome.com/0/929/189.htm",
     "platform": "ITHome"
   },
   {
-    "title": "鸿蒙智行问界 M6 内饰图公布：紫慕白双拼，“会转头”的随动屏 + 灵感橱窗",
-    "summary": "<p>IT之家 3 月 14 日消息，华为全场景展会落地 AWE 2026，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今天在直播中公布了问界 M6 的首张官方内饰图。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/056c7c7a-016e-49bd-90a4-e7b4c7bc3879.jpg?x-bce-process=image/format,f_auto\" /></p><p>从图中可以看到，问界 M6 采用了全景天幕、一体式运动座椅、D 型方向盘，配备仪表屏、HUD 抬头显示、星环散射体、天空声道音响，提供双无线充电区、镂空储物空间，还有隐藏式小挂钩、副驾手套箱等。</p><p>据华为官方介绍，问界 M6 采用紫慕白双拼内饰，“将悦己融入座舱设计”，主打“温润雅致，一触难忘”，还拥有“会转头”的随动屏（向日葵屏）以及副驾“灵感橱窗”设计（可以摆放手办）。</p><p style=\"text-",
-    "url": "https://www.ithome.com/0/929/012.htm",
+    "title": "回味经典格斗游戏，乌龟海岸发布《街头霸王 II：冠军版》联名 Victrix 手台",
+    "summary": "<p>IT之家 3 月 15 日消息，Turtle Beach 乌龟海岸当地时间本月 11 日宣布推出与卡普空合作打造的《街头霸王 II：冠军版》联名版 Victrix Pro KO Leverless Fight Stick 无摇杆手台（街机控制器）。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/4d8d1e75-d0c0-41b2-822f-8a1b392686c1.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家了解到，《街头霸王 II：冠军版》乃卡普空在 1992 年为原版《街头霸王 II》推出的更新版本，添加了四名 BOSS 角色并引入了镜像对战。</p><p>此次的联名款<strong>在外观上采用了经典的像素风格</strong>，下部为《冠军版》可选的全部 12 个角色，1P 和 2P 分别是隆和春丽。</p><p style=\"text-align: center;\"><img ",
+    "url": "https://www.ithome.com/0/929/187.htm",
     "platform": "ITHome"
   },
   {
-    "title": "vivo X300 Ultra、X300s、Pad6 Pro 被曝 3 月 30 日发布，4 月 3 日上市",
-    "summary": "<p>IT之家 3 月 14 日消息，今日有多位博主放出了一张截图，显示 vivo X300 Ultra、vivo X300s、vivo Pad6 Pro 等新品将于 3 月 30 日发布，4 月 3 日开售。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/c64e4b32-2ce3-4e79-8959-c82ed23b86b9.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: left;\">IT之家汇总 sku 如下：</p><h3>vivo X300 Ultra</h3><p>内存版本：</p><ul class=\" list-paddingleft-2\"><li><p>12GB + 256GB</p></li><li><p>12GB + 512GB</p></li><li><p>16GB + 512GB</p></li><li>",
-    "url": "https://www.ithome.com/0/929/011.htm",
+    "title": "中央网信办开设涉企网络辟谣专区，助力优化营商网络环境",
+    "summary": "<p>IT之家 3 月 15 日消息，为深化涉企网络辟谣工作，持续优化营商网络环境，即日起，中央网信办违法和不良信息举报中心在中国互联网联合辟谣平台开设涉企网络辟谣专区。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/5c22c604-362b-4b04-808a-02e319840ce1.jpg?x-bce-process=image/format,f_auto\" /></p><p>同时，央视再次点名了之前某网络大 V“任某”（网名为“睡前消息”）将某知名企业奶茶与“准毒品”等敏感词汇强行绑定而引发的行业震荡事件。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/11a10628-ab2f-4214-8dc6-e225ec2114c1.jpg?x-bce-process=image/format,f_auto\" /></p",
+    "url": "https://www.ithome.com/0/929/186.htm",
     "platform": "ITHome"
   },
   {
-    "title": "消息称某厂骁龙 8 Elite Gen 5 小平板搭载定制 OLED 屏幕：刷新率可达 200Hz，预计为红魔旗下",
-    "summary": "<p>IT之家 3 月 14 日消息，博主 @数码闲聊站 今天在微博发文称，自己已经摸到了一款“某魔”厂的小平板。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/f3601dd7-9943-4de8-bdfe-703fb1030cb9.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，这款平板搭载骁龙 8 Elite Gen 5 处理器，电池是“同级别里最大那一档”，拥有定制 OLED 小屏幕，<strong>刷新率可达 200Hz</strong>。</p><p>后续有用户在评论区询问：“有没有万级大电池”，博主回复道：“没有上万，小平板目前最大就是 9000”；另一名用户则询问道：“kpad2🔋有 8500 吗？”，博主则回复道：“放心哈”。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadf",
-    "url": "https://www.ithome.com/0/929/010.htm",
+    "title": "特斯拉海外为焕新款 Model 3/Y 车型上线 4 合 1 USB-C 集线器：提供至高 60W 输出，85 美元",
+    "summary": "<p>IT之家 3 月 15 日消息，特斯拉现已在海外市场为焕新款 Model 3/Y 上线了一款 4 合 1 USB-C 集线器，可以将汽车中控储物箱里的单 USB-C 接口拓展为 4 个，<strong>定价为 85 美元（IT之家注：现汇率约合 587.3 元人民币）</strong>，预计该产品近期也将在特斯拉中国商城中上架。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/a32ceb67-879e-49d2-b127-e64ebfa6ddfd.jpg?x-bce-process=image/format,f_auto\" /></p><p>根据官方指南，用户直接将集线器的 USB-C（65W）接口插入中控储物箱的 USB-C 接口中，即可完成安装步骤。其中集线器单 USB-C 接口输出功率至高 60W、双接口输出至高 30W+30W、三接口输出至高共享 54W、四接口输出至高共享 48W。</p><p sty",
+    "url": "https://www.ithome.com/0/929/185.htm",
     "platform": "ITHome"
   },
   {
-    "title": "索赔 1340 亿美元：马斯克死磕 OpenAI，天价诉讼案 4 月 28 日开庭",
-    "summary": "<p>IT之家 3 月 14 日消息，金融时报今天（3 月 14 日）发布博文，<strong>报道称马斯克向 OpenAI 和微软发起的 1340 亿美元（IT之家注：现汇率约合 9257.53 亿元人民币）索赔案目前进入激烈的庭前博弈阶段。</strong></p><p>在周五的听证会上，加州北区联邦法官伊冯 · 冈萨雷斯 · 罗杰斯（Yvonne Gonzalez Rogers）明确表示，<strong>马斯克方计算损害赔偿金的方式犹如“凭空捏造”，很难令人信服。</strong></p><p>不过法官最终拒绝了 OpenAI 要求驳回马斯克专家证人证词的动议，裁定将这些证据的最终判定权留给陪审团。法官坦言，一旦她同意排除该核心证词，马斯克的案件将因缺乏损害证据而直接终结。</p><p>这笔天价索赔的核心依据来自咨询公司专家保罗 · 瓦赞的分析。他评估认为，<strong>马斯克早期提供的 3800 万美元捐款及其他非资金支持，应占 OpenAI 非营利部门价值的 50% 至 75%。</strong></p><p>鉴于该非营利部门目前持有 OpenAI 营利性业务（近期估值高达",
-    "url": "https://www.ithome.com/0/929/009.htm",
+    "title": "美国现役最老航母“尼米兹”号延期退役 10 个月",
+    "summary": "<p>IT之家 3 月 15 日消息，美国海军当地时间 3 月 14 日表示，根据周五披露的一份合同，美国现役最老航空母舰“尼米兹”号将延期 10 个月退役。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/124c963f-5c2c-4942-bfa0-6b126a1b7e08.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>▲ “尼米兹”号</figcaption><p>据悉，“尼米兹”号原定今年 5 月退役，而在推迟文件下达后，<strong>该航母目前计划在 2027 年 3 月退役</strong>。</p><p>美国海军本周五向纽波特纽斯造船公司授予 9600 万美元（IT之家注：现汇率约合 6.63 亿元人民币）合同，为“尼米兹”号退役做前期规划和长周期材料采购。</p><p>“尼米兹”号于去年 12 月完成了原定最后一次完整部署任务。<strong>目前尚不清楚美国海军是否会",
+    "url": "https://www.ithome.com/0/929/184.htm",
     "platform": "ITHome"
   },
   {
-    "title": "苹果 iOS 27 系统前瞻：针对 iPhone Fold 提供左侧边栏，Apple 智能版 Siri 发布时间仍不明确",
-    "summary": "<p>IT之家 3 月 14 日消息，据科技媒体 MacRumors 昨天报道，苹果将在三个月后的 WWDC 26 发布 iOS 27 系统，由于全面重做的 Siri 可能推迟到 9 月推出，该系统将主要带来 Apple 智能、iPhone Fold 手机的支持以及多项更新。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/b511ceda-8d30-40fe-a3ee-38110a5f8255.jpg?x-bce-process=image/format,f_auto\" /></p><p>据报道，苹果计划今年 9 月推出品牌首款折叠屏手机 iPhone Fold，采用书本式折叠设计，内屏 7.8 英寸、外屏 5.5 英寸，更大的折叠屏幕意味着 iOS 需要进行重大界面调整，因此 iOS 27 将会重点打造适合大屏设备的全新交互体验。</p><p style=\"text-align: center;\"><img src=\"https://img.ithom",
-    "url": "https://www.ithome.com/0/929/008.htm",
+    "title": "亚马逊推出 Prime Video Ultra：替代原有无广告订阅，额外月费 5 美元",
+    "summary": "<p>IT之家 3 月 15 日消息，Amazon 亚马逊当地时间本月 13 日宣布在美国区域<strong>将原有的 Prime Video 流媒体服务的无广告订阅计划升级为新的 Prime Video Ultra 层级</strong>。</p><p>Prime 会员可在现有套餐基础上月付 4.99 美元 / 年付 45.99 美元（IT之家注：现汇率约合月付 34.5 元人民币 / 年付 317.8 元人民币）来获得额外权益。</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/56bd88e9-3b2d-47cf-9d3d-4a08852462b2.jpg?x-bce-process=image/format,f_auto\" /></p><p>Prime Video Ultra 订阅不仅消除了广告的存在，还<strong>支持 UHD / 4K 高分辨率、杜比全景声</strong>，且<strong>每月可下载 100 次视频</str",
+    "url": "https://www.ithome.com/0/929/182.htm",
     "platform": "ITHome"
   },
   {
-    "title": "索尼 PS6 和微软 Xbox Helix 游戏主机爆料规格对比",
-    "summary": "<p>IT之家 3 月 14 日消息，科技媒体 overclock3d 昨日（3 月 13 日）发布博文，基于目前曝光的多方泄露信息，<strong>对比了索尼 PlayStation 6 和微软下一代 Xbox（代号 Project Helix）游戏主机核心硬件规格。</strong></p><p>芯片方面，两款游戏主机所用芯片均采用台积电 3nm 制程工艺，并继续基于 AMD 定制芯片打造，同源策略意味着两款主机在底层微架构和基础功能集上高度相似。</p><p>不过该媒体指出尽管核心底座相同，双方在芯片封装与具体配置上却走向了不同分支，IT之家援引博文内容，附上两者规格差异如下：</p><table><tbody><tr class=\"firstRow\"><td><br /></td><td>索尼 PS6 预估规格<br /></td><td>微软 Xbox Helix 预估规格</td></tr><tr><td><strong> CPU 架构</strong></td><td>AMD Zen 6 Generation</td><td>AMD Zen 6 Generation</t",
-    "url": "https://www.ithome.com/0/929/007.htm",
+    "title": "小米推出 REDMI 智能电视 A50 一级能效版：50 英寸 4K 144Hz 规格，1399 元",
+    "summary": "<p>IT之家 3 月 15 日消息，小米现已在有品上架 REDMI 智能电视 A50 一级能效版（<a href=\"https://c.duomai.com/track.php?aid=4705&amp;dm_fid=16052&amp;euid=&amp;site_id=261624&amp;t=https%3a%2f%2fwww.xiaomiyoupin.com%2fdetail%3fgid%3d182850%26spmref%3dYouPinPC\" target=\"_blank\">点此访问</a>），该电视为 50 英寸 4K 144Hz 规格，<strong>定价为 1399 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/457d8b4a-b928-477b-8ee6-409538b89cb1.png?x-bce-process=image/format,f_auto\" /></p>",
+    "url": "https://www.ithome.com/0/929/181.htm",
     "platform": "ITHome"
+  },
+  {
+    "title": "今夜，大模型从世界消散",
+    "summary": "从顺行性遗忘症看 LLM 的上下文机制。<a href=\"https://sspai.com/post/106939\" target=\"_blank\">查看全文</a>",
+    "url": "https://sspai.com/post/106939",
+    "platform": "SSPai"
+  },
+  {
+    "title": "年度征文｜减了肥，人生就会变好吗？",
+    "summary": "编者按：本文是少数派2025年度征文活动#TeamCarbon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情PK ...<a href=\"https://sspai.com/post/106785\" target=\"_blank\">查看全文</a>",
+    "url": "https://sspai.com/post/106785",
+    "platform": "SSPai"
+  },
+  {
+    "title": "免费试读 | 日本温泉完全指南：如何找、怎么泡、泡哪里？",
+    "summary": "<p>[......]</p><a href=\"https://sspai.com/post/103326\" target=\"_blank\">查看全文</a><p>本文为付费栏目文章，出自<a href=\"https://sspai.com/series/383\" target=\"_blank\">《日本全境漫游计划》</a>，订阅后可阅读全文。</p>",
+    "url": "https://sspai.com/post/103326",
+    "platform": "SSPai"
   },
   {
     "title": "Sonos 周年团购限时开启：专属好价仅限今日",
@@ -1512,22 +1530,40 @@
     "platform": "SSPai"
   },
   {
-    "title": "年度征文｜效率之外，创作的重量",
-    "summary": "但真正需要警惕的，并不是偏见本身，而是我们误以为自己可以写出没有立场的文字，创作者，必须为自己的判断负责。<a href=\"https://sspai.com/post/106746\" target=\"_blank\">查看全文</a>",
-    "url": "https://sspai.com/post/106746",
-    "platform": "SSPai"
+    "title": "eVTOL真机首秀、AI+飞行机器人“盲飞”挑战、40亿资本加持：RortiX全球首秀“翼展新章”，定义未来低空",
+    "summary": "<p>当2026年成为中国低空经济从“试点飞行”迈向“常态运营”的元年，一场由人工智能与具身智能驱动的技术革命正在重塑苍穹。3月12日至15日，备受全球瞩目的“RortiX Dream Fly - 翼展新章，X领苍穹”主题活动在上海新国际博览中心·E7追觅馆·天空宇宙盛大启幕。在这场为期四天的科技盛宴中，来自中国近年风头无二的国际科技消费品新贵品牌RortiX不仅带来了视觉的震撼，更向世界宣告了一个由AI定义的低空飞行时代正式到来。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260314/69b515db5a57a.png?imageView2/2/w/740\" /></p><p>从“参与者”到低空飞行“定义者”，RortiX按照“AI+”未来主题，升级产品科技研发，重组旗下品牌矩阵和产品线，选择AWE作为全球首发舞台，为这一顶级展会注入AI+具身智能的双重精彩，让E7追觅馆成为未来空中智能的“首个体验现场”。</p><p style=\"tex",
+    "url": "https://www.leiphone.com/category/weiwu/rXnkzuWLFgiluuvs.html",
+    "platform": "Leiphone"
   },
   {
-    "title": "Notion 年度更新评测：7 个案例聊聊 Custom Agent",
-    "summary": "等你尝到第一口甜头，后面的流程自然会一点点长出来。<a href=\"https://sspai.com/post/106982\" target=\"_blank\">查看全文</a>",
-    "url": "https://sspai.com/post/106982",
-    "platform": "SSPai"
+    "title": "推倒智能家居「巴别塔」，美的选择做那个「拆墙人」",
+    "summary": "<p style=\"text-align: center;\"></p><p style=\"text-align: left;\">两千年前，人类试图在巴比伦修建一座通天的巨塔，上帝变乱他们的语言，让他们无法沟通，巨塔最终轰然倒塌。这个故事后来成为人类文明中关于野心、沟通与分裂的永恒隐喻。</p><p style=\"text-align: left;\">两千年后，另一种“巴别塔”正在我们的家里悄然上演。</p><p style=\"text-align: left;\">家里的空调说着A厂商的语言，灯光系统用的是B厂商的协议，扫地机器人只听得懂C厂商的指令。为了操控它们，手机里塞满了五六个App，且每个都要注册账号，学习一套全新的交互逻辑。但当你试图对智能音箱说“我有点冷”时，它却无法判断是该调高空调温度，还是该关闭打开的窗帘——因为它根本不知道窗帘的存在。</p><p style=\"text-align: left;\">这，就是智能家居行业发展了十余年，依然无法跨越的“现代巴别塔”。</p><p style=\"text-align: left;\">3月10日，美的在上海发布了自进化家居智能体",
+    "url": "https://www.leiphone.com/category/smarthome/Frzm81cb3uaJjC8L.html",
+    "platform": "Leiphone"
   },
   {
-    "title": "年度征文｜Vibe Research：社会科学的第一次 AI 危机？",
-    "summary": "编者按：本文是少数派2025年度征文活动#TeamSilicon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情P ...<a href=\"https://sspai.com/post/106919\" target=\"_blank\">查看全文</a>",
-    "url": "https://sspai.com/post/106919",
-    "platform": "SSPai"
+    "title": "大疆越是被「挖」，怎么越强了",
+    "summary": "<p><br /></p><p>“2026年，公司的营收规模预计将稳步突破千亿大关。”近日流出的一封大疆内部信，再次引爆了业界对这家硬科技巨头的想象。雷峰网从多方渠道获悉，大疆2025年营收已逼近800亿，千亿俱乐部入场券近在咫尺。</p><p>一边是势如破竹的业绩增长，一边是此起彼伏的“人才流失”传闻。 这种强烈的反差，构成了围绕大疆的独特声场。尽管外界对这家公司充满好奇，大疆却始终低调沉默。</p><p>作为公认的“顶尖人才淬炼场”，“大疆系”在就业市场上拥有极高的溢价权。但耐人寻味的是，为啥伴随人才“被挖”的传闻，大疆的产品迭代速度越来越快，业绩不降反升？</p><p>这背后究竟隐藏着怎样的逻辑？或许，大疆的人才流动只是表象，背后实质是一场结构性的人才迭代。</p><h3 style=\"text-align: center;\">一、千亿大疆的“植物学”进化</h3><p>为什么很多公司倒在百亿，大疆却能稳步一路从百亿跨入千亿大关？</p><p>早年在大疆的人都说，那时的大疆，&nbsp;靠着“敢想敢做”野蛮生长，研发团队享有极高的自由度，能够绕过常规流程，大家的目标就是把“世界首",
+    "url": "https://www.leiphone.com/category/weiwu/8WjkXJF7WFLGfcDh.html",
+    "platform": "Leiphone"
+  },
+  {
+    "title": "追觅馆单日人流量破 10 万，登顶 AWE 人气之最",
+    "summary": "<p>3月14日，AWE 2026 迎来人流高峰。追觅科技包揽的 E7 展馆单日人流量预估突破 10 万人次，创下 AWE 史上单一品牌展馆人流量记录。馆外排队时长一度超过 20 分钟，为保障观展安全与通行秩序，主办方已增派安保团队在现场维持秩序、疏导人流。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260314/69b50137e4c15.jpg?imageView2/2/w/740\" /></p>",
+    "url": "https://www.leiphone.com/category/industrynews/kUX9bgcdvVkEMHnM.html",
+    "platform": "Leiphone"
+  },
+  {
+    "title": "海尔发布行业首款最高级L4级智能体空调：空调风因人而异",
+    "summary": "<p>一台空调，如何让全家人都满意？老人体感畏寒，孩子却总喊热；离风口近了嫌冲，远了又不够凉；夜里一点噪音或一阵冷风，就能把浅眠的人吵醒。更麻烦的是，这些矛盾最终都落在同一个动作上——拿着遥控器反复调温度、调风向、调风速，调来调去，还是有人不舒服。</p><p>在海尔智慧家庭的图景里，这些众口难调的困扰，不再是难题。3月14日，海尔空调将AI赋能的智慧空气解决方案带到AWE2026现场。就在前不久，海尔智家刚刚发布了AI之眼2.0和家庭机器人，让“无人家务”更进了一步。而在家庭空气场景中，海尔空调让“无人家务”有了更具体的落点：过去，想让全家人都吹得舒服，总得有人反复调试；现在，空调自己就能搞定这一切。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260314/69b4d4857aa3e.png?imageView2/2/w/740\" />&nbsp;</p><p>发布会上，海尔不仅发布了行业首款最高级L4级智能体空调，实现出风因人而异，更集中展",
+    "url": "https://www.leiphone.com/category/industrynews/2XDTcw3zj3gPM3O0.html",
+    "platform": "Leiphone"
+  },
+  {
+    "title": "腾讯云ADP Claw升级五大防护，打造安全可用的企业级OpenClaw解决方案",
+    "summary": "<p>随着OpenClaw迅速走红，将其引入企业工作流、提升生产力，成为众多企业的迫切需求。3月13日，腾讯云智能体开发平台升级“企业级OpenClaw”解决方案（ADP Claw），通过上线五大安全防火墙、丰富的特色插件，以及行业最佳实践工作流，实现安全与可用的双重保障，助力企业将OpenClaw无缝引入业务环境，提升生产力。</p><p><strong>&nbsp;构建五大“防火墙”，给“龙虾”装上全链路“保险箱”</strong></p><p style=\"text-align: center;\">&nbsp;&nbsp;<img src=\"https://static.leiphone.com/uploads/new/images/20260314/69b4d2d9e030c.png?imageView2/2/w/740\" /></p><p>作为面向企业的OpenClaw专属解决方案，安全是腾讯云ADP Claw的核心优势。ADP Claw构建了覆盖全链路的五大安全 “防火墙”，为企业级AI智能体，装上全方位的 “保险箱”。</p><p>其一是模型调用与执行安全。通过统一安全网",
+    "url": "https://www.leiphone.com/category/industrynews/Lchxbc3dp6NaekOt.html",
+    "platform": "Leiphone"
   },
   {
     "title": "卓驭端到端 4.0 落地红旗，数据驱动「泛化」战打响",
@@ -1611,42 +1647,6 @@
     "title": "参数内卷「熄火」，系统能力「接棒」：石头科技如何拆解行业深水区？",
     "summary": "<p>作者丨路遥<br /></p><p>编辑丨余快</p><p>过去几年，扫地机器人行业经历了一轮典型的“参数繁荣”。</p><p>吸力越来越高，传感器越来越多，基站功能不断增加，产品配置表被不断拉长。但在真实家庭环境中，很多问题始终没有被真正解决：门槛仍会卡住，长毛地毯依然难处理，床底和沙发底仍有盲区，复杂环境下误判、漏扫和重复清洁仍然会发生。</p><p>这意味着一个事实：参数增长，并不必然转化为体验提升。</p><p>用户真正关心的，是机器人能否在复杂家庭环境中稳定完成任务，能到达、能进入、能识别，也能正确执行清洁。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260313/69b36e6672381.jpeg?imageView2/2/w/740\" /></p><p>IDC数据显示，石头连续两年获得扫地机器人全球销量与销额“双第一”。但如果只用“销量第一”来概括石头，反而会忽略一个更值得讨论的问题：<strong>为什么在行业竞争逻辑发",
     "url": "https://www.leiphone.com/category/smarthome/wLh90BKihCoj9xZx.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "腾讯推出龙虾安全工具箱，为“赛博养虾”热潮护航",
-    "summary": "<p>全民“养虾”热潮正酣，从个人到企业，都在争相体验OpenClaw（俗称“龙虾”），腾讯楼下甚至排起装机长队。当这些能力强大的“龙虾”开始深度介入系统、访问数据甚至连接企业内网时，一个无法回避的问题浮出水面：如何保障“龙虾”安全？</p><p>3 月 12 日，记者获悉，针对龙虾带来的安全挑战，腾讯推出了OpenClaw安全工具箱，为企业和用户提供安全保障，让装虾人告别顾虑，安心“养虾”。</p><p><strong>“赛博养虾”背后，不容忽视的安全暗战</strong></p><p>OpenClaw在全球的爆发式增长，安全隐患也同步暴露。根据OpenClaw专项安全监控站Declawed披露，全球已有超过23万台OpenClaw实例暴露于公网，中国地区也成为潜在的高风险区域。</p><p>AI Agent与传统应用不同，拥有更多执行系统命令、读写文件、调用插件等高级权限。一旦被攻击者利用，这些能力将反向成为攻击利器，可能导致本地凭证密钥被窃取、浏览器被劫持、甚至加密资产被盗等一系列严重后果，尤其是金融、政务、医疗等对安全要求极高的行业。</p><p><strong>三大部署场景安",
-    "url": "https://www.leiphone.com/category/industrynews/6KvcYNfcLGjQi3rj.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "国家级开放平台首秀，砺算科技亮相AWE2026",
-    "summary": "<p>当汹涌的全球AI浪潮与开放的国门在上海东方交汇，一年一度的中国科技“春晚”已然拉开帷幕。</p><p>2026年3月12日至15日，2026中国（上海）家电及消费电子博览会（以下简称AWE2026）以“AI科技·慧享未来”为主题，在申城奏响产业创新的最强音。</p><p>值得注意的是，在这片象征着高水平开放的创新高地上，砺算科技迎来它的国家级开放平台首秀，携自研TrueGPU天图架构“渲推一体GPU”产品亮相上海东方枢纽国际商务合作区，向全球观众展现中国GPU的澎湃动力。&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260312/69b2a89af2558.jpeg?imageView2/2/w/740\" /></p><p>从去年7月砺算科技首款GPU芯片“7G100”系列和首款显卡产品Lisuan&nbsp;eXtreme系列发布，到今年3月代表中国GPU厂商亮相AWE2026、宣布公开发售，一场关于中国大芯片未来的想象正加速",
-    "url": "https://www.leiphone.com/category/industrynews/TI4DV4QnPISLpyyK.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "AWE 2026再携重磅阵容，MOVA全面披露芯片战略，擎画“主动时代”技术版图",
-    "summary": "<p>2026年3月12日，中国上海——当人工智能加速从模型能力走向系统能力，家庭场景正成为AI规模化落地的关键单元。今日，全球超高端AI智慧生活引领者MOVA在中国家电及消费电子博览会（AWE 2026）开幕首日，首次系统披露自研芯片战略，并对外阐释其“家庭AI系统”技术架构及多项生态布局。</p><p>依托AWE 2026“一展双区”的创新布局，MOVA以“智见新宇宙，慧享新生活”为主题亮相上海新国际博览中心。本次发布中，MOVA带来5项行业级首创技术、32项体系级创新技术以及31款创新产品。这不仅是一次产品的集中展示，更是MOVA以芯片与AI算法为底层能力构建智慧生活生态的具象呈现，标志着品牌正从单一产品竞争迈向系统能力构建的新阶段。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260312/69b2a46cd3513.png?imageView2/2/w/740\" /></p><p><strong>MOVA的快速崛起之路，构筑不可复制的核",
-    "url": "https://www.leiphone.com/category/industrynews/Q12viTOuIGrjk0hd.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "豆包官宣手机助手：AI 还能带来哪些新体验？",
-    "summary": "<p>就在前天，字节豆包团队官宣：豆包要做手机助手了。</p><p>豆包手机助手，是字节和手机厂商合作，基于操作系统层面的授权落地的ai助手。背靠在推理、视觉、图像视频创作、语音等多方面国际领先的豆包大模型，豆包手机助手给用户带来的，是交互和体验层面的关键创新。</p><p>豆包手机助手，是字节入局手机生意的前夜吗？豆包官方给出了明确的否定：豆包没有自研手机的计划。当下的豆包手机助手，是以生态合作的方式，将软件技术整合进不同品牌的机型，而豆包也正在与多家手机厂商洽谈。</p><p>今天，豆包手机助手开放体验的手机机型，是字节和中兴合作的工程样机 nubia M153，这款手机也已面向开发者和科技爱好者少量发售，能够让他们体验豆包手机助手的技术预览版本，售价 3499 元。</p><p>别小看豆包的这次“转身”，手机助手对于大模型的产品化落地，意义相当深远。</p><p>最直接的变化，是用户使用豆包手机助手，变得更加简单方便了。</p><p>首先，是用户离豆包更“近”了。用户用语音、手机侧边的“AI 键”，或是豆包 OlaFriend 耳机，就能直接调出豆包，帮助自己答疑解惑，甚至直接开",
-    "url": "https://www.leiphone.com/category/industrynews/H8w4gm9ko6oHLo0z.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "全球首款手机龙虾秒光 OpenClaw创始人称愿与百度共同开发龙虾",
-    "summary": "<p>3月12日，百度发布了全球首款手机龙虾应用——“红手指Operator”，用户下载App其即可实现手机“养虾”。上线后，迅速引爆下载热潮，系统后台资源出现紧缺提示。百度智能云回应称，正全速调配资源扩容，全力保障用户体验。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260312/69b269aa5daae.png?imageView2/2/w/740\" />&nbsp;</p><p>12日11点时许，OpenClaw创始人Peter Steinberger在海外社交平台上连发两条回复，称中国AI创新速度“Amazing”，并表示愿与百度共同开发龙虾。</p><p style=\"text-align: center;\">&nbsp;<img src=\"https://static.leiphone.com/uploads/new/images/20260312/69b269b5ef198.png?imageView2/2/w/740\" /><",
-    "url": "https://www.leiphone.com/category/industrynews/2FtUIk1mtqmNy1tz.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "萤石Stella星辰系列震撼发布！全球首创双擎双热活水洗地 解锁AI清洁新高度",
-    "summary": "<p>3月12日，萤石Stella星辰系列技术发布会在AWE上海新国际博览中心萤石展台启幕，以“蒸汽进化，AI新净界”为主题，重磅发布Stella星辰系列AI蒸汽洗地机器人。依托全球首创的双擎双热活水洗地方案与自研的萤石星辰世界模型，萤石实现清洁能力与AI技术的双重突破，引领清洁行业迈入6.0时代，为清洁市场注入颠覆性创新活力。</p><p style=\"text-align: center;\">&nbsp;<img src=\"https://static.leiphone.com/uploads/new/images/20260312/69b2674b5eb28.png?imageView2/2/w/740\" /></p><p><strong>行业困局凸显，萤石Stella星辰系列直击用户痛点</strong></p><p>当前扫地机器人行业已历经多代技术演进，但用户核心清洁痛点始终未能得到彻底解决。据行业普遍认可的技术分析，1.0至3.0时代处于“以脏拖脏”初级阶段，清洁力薄弱、水渍明显等问题突出；4.0时代的常温活水洗地模式，难以应对干湿混合垃圾；5.0时代的虽然将高温引入到洗地",
-    "url": "https://www.leiphone.com/category/industrynews/8X6efc1aFtQTm5AA.html",
     "platform": "Leiphone"
   }
 ]

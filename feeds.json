@@ -1,5 +1,35 @@
 [
   {
+    "title": "Is this the dawn of the Tokenpocalypse?",
+    "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+    "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+    "platform": "TechCrunch"
+  },
+  {
+    "title": "Notion restores access to Anthropic after service disruption",
+    "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+    "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+    "platform": "TechCrunch"
+  },
+  {
+    "title": "OpenAI is still working on that ‘super app’",
+    "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+    "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "platform": "TechCrunch"
+  },
+  {
+    "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
+    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+    "url": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
+    "platform": "TechCrunch"
+  },
+  {
+    "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+    "summary": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+    "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+    "platform": "TechCrunch"
+  },
+  {
     "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
     "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
     "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
@@ -90,94 +120,148 @@
     "platform": "TechCrunch"
   },
   {
-    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-    "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
-    "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-    "platform": "TechCrunch"
-  },
-  {
-    "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
-    "summary": "The space agency said Roscosmos discovered new leaks in the Russian service module.",
-    "url": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
-    "platform": "TechCrunch"
-  },
-  {
-    "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
-    "summary": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.",
-    "url": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
-    "platform": "TechCrunch"
-  },
-  {
-    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-    "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
-    "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-    "platform": "TechCrunch"
-  },
-  {
-    "title": "Mira Murati steps back into the spotlight, carefully",
-    "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
-    "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-    "platform": "TechCrunch"
-  },
-  {
-    "title": "The first Story-Rich showcase was packed with narrative-driven games",
-    "summary": "Fellow Traveller, the publisher behind games like Titanium Court and 1000xResist, just wrapped up its Story-Rich Showcase, which featured a bunch of narrative-driven indie games. With more than 20 games on display, there was a lot to follow, but we've pulled together some of the most notable announcements below. You can also catch the full [&#8230;]",
-    "url": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
+    "title": "NASA will wear high-tech Prada long johns to the Moon",
+    "summary": "We've seen Axiom Space and Prada's collaboration on the Axiom Extravehicular Mobility Unit (AxEMU) spacesuit. Now the company has revealed the Liquid Cooling and Ventilation Garment (LCVG) that astronauts will wear underneath it when Artemis IV returns humans to the Moon in 2028. The LCVG is the all-important base layer that will keep the crew [&#8230;]",
+    "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
     "platform": "The Verge"
   },
   {
-    "title": "GOG apologizes for emailing people Nazi symbols",
-    "summary": "GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS. The Steam competitor issued a statement attributing the inclusion to a \"series of mistakes,\" including miscommunication with the German QA team, inconsistent font rendering, and being understaffed during a bank holiday, among [&#8230;]",
-    "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
+    "title": "The 7 biggest storylines from Summer Game Fest 2026",
+    "summary": "The 2026 edition of Summer Game Fest just wrapped up, and it was surprisingly hectic. The nearly week-long event came at a challenging time for the games industry, and for the most part the big keynotes were used as a chance to show some strength through major announcements, while largely ignoring pesky details like hardware [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
     "platform": "The Verge"
   },
   {
-    "title": "The cutest games from the Wholesome Direct 2026 showcase",
-    "summary": "Every year at Summer Game Fest, nestled in between the splashy blockbuster showcases, the Wholesome Direct provides a nice change of pace. It's similarly packed with games - this year's edition had more than 50 - but the vibe is more chill and, well, wholesome. As in years past, I've pulled out some of the [&#8230;]",
-    "url": "https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers",
+    "title": "Persona 6 exists, and that’s all we know",
+    "summary": "This year's Summer Game Fest turned out to be a good one for fans of Japanese RPGs. First, the conclusion of the Final Fantasy VII remake trilogy was announced at SGF Live, and now we have the long-awaited return of the Persona series. Atlus confirmed Persona 6 exists with a brief teaser, but aside from [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
     "platform": "The Verge"
   },
   {
-    "title": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
-    "summary": "Get ready for some gaming news. It&#8217;s officially June, which means splashy new events from PlayStation, Xbox, gaming hype man Geoff Keighley, and more. PlayStation kicked things off with a big event that was mostly about premium single-player games like the new God of War Laufey — a statement from PlayStation that it’s getting back [&#8230;]",
-    "url": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
+    "title": "Microsoft’s Xbox 25th anniversary console comes in translucent green",
+    "summary": "Microsoft has created a special edition Xbox Series X to celebrate 25 years of the console. The Xbox 25th-anniversary console takes design cues from the original Xbox console, with both the console and controller featuring a translucent green design. \"For the first time, we're bringing a translucent design to Xbox Series X, drawing inspiration from [&#8230;]",
+    "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
     "platform": "The Verge"
   },
   {
-    "title": "4K Blu-rays are three for $33 ahead of Father’s Day",
-    "summary": "If you know a dad with a predilection for physical media, he might really dig what you buy for him with this deal at Gruv. Ahead of Father’s Day on June 21st, the online seller (operated by Universal Pictures, in case you didn’t know) is letting you check out with three movies from a large [&#8230;]",
-    "url": "https://www.theverge.com/gadgets/944347/4k-bluray-gruv-fathers-day-deal-sale",
+    "title": "Minecraft Dungeons 2 gets a September release date",
+    "summary": "Minecraft Dungeons 2, a sequel to Microsoft's dungeon crawler spinoff Minecraft Dungeons, will be released on September 29th. The company originally revealed the game in a brief trailer in March, promising a fall 2026 release window. Here's how Microsoft described it at the time: Return to the world of Minecraft Dungeons in an all new [&#8230;]",
+    "url": "https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer",
     "platform": "The Verge"
   },
   {
-    "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
-    "summary": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all over town, but [&#8230;]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+    "title": "Fable launches in late February after recent delay",
+    "summary": "Just a few days after pushing Fable out of 2026, Microsoft showed off more footage of Fable, the first new entry in the storied RPG franchise since 2010's Fable III, at its Xbox Games Showcase on Sunday. The company also announced a specific release date: February 23rd, 2027. Though if you get the Premium Edition, [&#8230;]",
+    "url": "https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026",
     "platform": "The Verge"
   },
   {
-    "title": "Benn Jordan longs for the days of tech that didn’t spy on you",
-    "summary": "Benn Jordan may have initially gained notoriety for his music as Flashbulb and later, reviewing synths and effects pedals on YouTube under Benn and Gear. But about five years ago, Benn decided to take his YouTube channel in a different direction. He didn't stop covering music gear overnight, but as time progressed, his channel became [&#8230;]",
-    "url": "https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire",
+    "title": "Halo: Campaign Evolved arrives July 28th",
+    "summary": "As part of its Xbox Games Showcase on Sunday, Microsoft revealed new details about Halo: Campaign Evolved, the upcoming remake of Halo: Combat Evolved's campaign mode. The remake will debut on Xbox Series S / X, PC, and PS5 on July 28th. Today's mission trailer includes a first look at Operation: Meteorite, a new three-mission [&#8230;]",
+    "url": "https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026",
     "platform": "The Verge"
   },
   {
-    "title": "82-0 is the best basketball game, to hell with NBA 2K",
-    "summary": "82-0 marries the stat nerd fun of fantasy basketball with instant gratification and a bit of dumb luck. The goal is to draft a team of players that could (theoretically) have a perfect 82-0 season. Obviously, if you just had free rein to pick whoever you wanted from throughout history, there would be little challenge. [&#8230;]",
-    "url": "https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game",
+    "title": "Gears of War: E-Day isn’t coming to the PS5",
+    "summary": "Apparently, the \"return of Xbox\" means a retreat from other platforms. At its Xbox Games Showcase today, Microsoft revealed that Gears of War: E-Day - which was previously rumored for a PS5 launch in addition to Xbox and PC - will not be coming to PlayStation. It'll be an Xbox console exclusive and is launching [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch",
     "platform": "The Verge"
   },
   {
-    "title": "Meta made its own AI-generated clickbait news feed",
-    "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable [&#8230;]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+    "title": "The Verge Weekend Questionnaire",
+    "summary": "Have you ever wondered what the most indispensable app is for your favorite musician or how the world&#8217;s tech CEOs stay focused? Well, that&#8217;s the sort of thing we aim to uncover in our Verge Weekend Questionnaire. Think of it as a spiritual successor to Five Minutes on the Verge. Every Saturday, a different guest [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire",
     "platform": "The Verge"
   },
   {
-    "title": "Kabuto Park captures the fleeting joy of summer vacation",
-    "summary": "There are a lot of games that remind me of summer - hot days in the backseat with a copy of Dragon Warrior III, cooling off in the basement while grinding Gran Turismo races - but there aren't a lot of games that are actually about summer. That's part of what makes Kabuto Park so [&#8230;]",
-    "url": "https://www.theverge.com/entertainment/944060/kabuto-park-review-xbox-nintendo-switch-steam",
+    "title": "Xbox Games Showcase 2026: All the news and trailers",
+    "summary": "The console industry is in a weird place, and both Xbox and PlayStation have a chance to change the narrative a bit with their showcases at Summer Game Fest. Sony did that by focusing on the single-player titles it’s known for, and then it was Microsoft&#8217;s turn. The Xbox Games Showcase was focused mainly on [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers",
     "platform": "The Verge"
+  },
+  {
+    "title": "Ambrosia Sky's final act lands on August 6",
+    "summary": "It'll come as a free update for players who own the game already.",
+    "url": "https://www.engadget.com/2189084/ambrosia-sky-act-two-lands-on-august-6/",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Signet City is a new 'fungalpunk' RPG from the creator of Citizen Sleeper",
+    "summary": "Citizen Sleeper creator Gareth Damian Martin has revealed their latest game, Signet City. The new RPG casts players as a fungal parasite in a dying city.",
+    "url": "https://www.engadget.com/2186591/signet-city-is-a-new-fungalpunk-rpg-from-the-creator-of-citizen-sleeper/",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Therabody's latest recovery tool will cost you $400 to cool your palms",
+    "summary": "The CryoTherm Palm can switch between cold, heat and contrast therapy.",
+    "url": "https://www.engadget.com/2189072/therabody-latest-recovery-tool-will-cost-you-400-to-cool-your-palms/",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Undead Labs finally shows off State of Decay 3 gameplay in new trailer",
+    "summary": "The game is slated for release in 2027.",
+    "url": "https://www.engadget.com/2189069/undead-labs-finally-shows-off-state-of-decay-3-gameplay-in-new-trailer/",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Persona 4 Revival gets an official release date for February 2027",
+    "summary": "The pre-order trailer also revealed new voice actors.",
+    "url": "https://www.engadget.com/2189066/persona-4-revival-gets-an-official-release-date-for-february-2027/",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Persona 6 is coming with graveyard visuals and a toxic green color scheme",
+    "summary": "The teaser trailer for P6 is filled with headstones and eerie vibes.",
+    "url": "https://www.engadget.com/2189059/persona-6-is-coming-with-graveyard-visuals-and-a-toxic-green-color-scheme/",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Senua, an action-heavy Hellblade sequel, arrives in 2027",
+    "summary": "Ninja Theory's upcoming game is coming to Xbox Series X/S, PS5 and PC.",
+    "url": "https://www.engadget.com/2189057/senua-an-action-heavy-hellblade-sequel-arrives-in-2027/",
+    "platform": "Engadget"
+  },
+  {
+    "title": "A limited edition translucent green Xbox Series X and controller are coming this fall",
+    "summary": "Xbox's 25th anniversary collection drops in November.",
+    "url": "https://www.engadget.com/2189056/a-limited-edition-translucent-green-xbox-series-x-and-controller-are-coming-this-fall/",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Crazy Taxi World Tour reboots the series in 2027",
+    "summary": "Get ready to yell \"Yah yah yah yah yah\" all over again.",
+    "url": "https://www.engadget.com/2189054/crazy-taxi-world-tour-reboots-the-series-in-2027/",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Halo: Campaign Evolved hits PS5, Xbox and PC on July 28",
+    "summary": "Take a peek at the new missions in the refreshed Halo.",
+    "url": "https://www.engadget.com/2189052/halo-campaign-evolved-hits-ps5-xbox-and-pc-on-july-28/",
+    "platform": "Engadget"
+  },
+  {
+    "title": "Gears of War E-Day arrives October 6 as an Xbox and PC exclusive",
+    "summary": "One of Microsoft's biggest gaming franchises is sticking with Xbox.",
+    "url": "https://www.engadget.com/2189049/gears-of-war-e-day-arrives-october-6-as-an-xbox-and-pc-exclusive/",
+    "platform": "Engadget"
+  },
+  {
+    "title": "The developer of the Silent Hill 2 remake is releasing a Star Trek horror game",
+    "summary": "Bloober Team's Star Trek: Shadow Frontier is coming in 2027 to PC and consoles.",
+    "url": "https://www.engadget.com/2189044/bloober-team-star-trek-shadow-frontier-horror-game-releasing-next-year/",
+    "platform": "Engadget"
+  },
+  {
+    "title": "OpenAI reportedly has a major ChatGPT overhaul in store",
+    "summary": "The revamped AI tool will roll out in the coming weeks, according to The Financial Times.",
+    "url": "https://www.engadget.com/2189038/openai-reportedly-has-a-major-chatgpt-overhaul-in-store/",
+    "platform": "Engadget"
+  },
+  {
+    "title": "How to get your money's worth from YouTube Premium",
+    "summary": "If you're going to spend about $20 a month anyway, here's how to make sure you're doing more than just avoiding ads.",
+    "url": "https://www.engadget.com/2188574/youtube-premium-features-settings/",
+    "platform": "Engadget"
   },
   {
     "title": "US states are reportedly planning to sue to block Paramount's Warner Bros. takeover",
@@ -216,88 +300,34 @@
     "platform": "Engadget"
   },
   {
-    "title": "Cozy Grove: Camp Spirit is coming to all the consoles and PC on July 15",
-    "summary": "Spry Fox's most adorable life sim hits the big screens.",
-    "url": "https://www.engadget.com/2188803/cozy-grove-camp-spirit-is-coming-to-all-the-consoles-and-pc-on-july-15/",
-    "platform": "Engadget"
+    "title": "Sigma BF Review (2026): Eccentric but Strangely Lovable",
+    "summary": "Sigma’s new entry is both a bold design experiment and a pretty decent camera.",
+    "url": "https://www.wired.com/review/sigma-bf-camera/",
+    "platform": "Wired"
   },
   {
-    "title": "The big budget Avatar: The Last Airbender RPG is no longer in production",
-    "summary": "The Avatar RPG has been put in an iceberg.",
-    "url": "https://www.engadget.com/2188916/the-big-budget-avatar-the-last-airbender-rpg-is-no-longer-in-production/",
-    "platform": "Engadget"
+    "title": "You May Not Need a Giant Chef’s Knife When a Midsize Knife Does the Trick",
+    "summary": "These 5- to 6-inch blades are the secret workhorses of the kitchen, whether you’re a smaller person, have smaller hands, or just desire a smaller but still high-functioning knife.",
+    "url": "https://www.wired.com/story/you-may-not-need-a-giant-chefs-knife-when-a-midsize-knife-does-the-trick/",
+    "platform": "Wired"
   },
   {
-    "title": "NASA's Nancy Grace Roman Space Telescope is set to launch on August 30",
-    "summary": "NASA is targeting an August 30 launch for the Nancy Grace Roman Space Telescope, which has 100 times Hubble's field of view.",
-    "url": "https://www.engadget.com/2188889/nasa-nancy-grace-roman-space-telescope-is-set-to-launch-on-august-30/",
-    "platform": "Engadget"
+    "title": "Lauf eElja Electric Mountain Bike Review: Power Trip",
+    "summary": "Lauf’s sleek new entry feels closer to a traditional mountain bike than anything I’ve ridden before.",
+    "url": "https://www.wired.com/review/lauf-eelja-electric-mountain-bike/",
+    "platform": "Wired"
   },
   {
-    "title": "All the Summer Game Fest showcases you can catch today",
-    "summary": "Check out all the Summer Game Fest showcases you can watch today, June 6.",
-    "url": "https://www.engadget.com/2188873/summer-game-fest-wholesome-story-rich-gayming-showcases/",
-    "platform": "Engadget"
+    "title": "Best Red-Light Therapy for Hair Restoration and Regrowth (2026)",
+    "summary": "After 16 weeks of daily use, our WIRED testers saw visible hair regrowth with these red-light therapy devices.",
+    "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
+    "platform": "Wired"
   },
   {
-    "title": "The best Kindle alternatives for those looking to ditch Amazon",
-    "summary": "Whether you hate subscriptions like Kindle Unlimited or simply want to get away from Amazon for whatever reason, you'll find plenty of solid options available.",
-    "url": "https://www.engadget.com/2188542/kindle-alternatives-subscription-costs-compared/",
-    "platform": "Engadget"
-  },
-  {
-    "title": "Control Resonant's take on New York feels like the Backrooms",
-    "summary": "We played the opening of the Control sequel and saw just how weird Remedy's twisted New York is.",
-    "url": "https://www.engadget.com/2188831/control-resonant-gets-weird-as-remedy-s-take-on-new-york-feels-like-the-backrooms/",
-    "platform": "Engadget"
-  },
-  {
-    "title": "A musical puzzle box, Consume Me on iOS and other new indie games worth checking out",
-    "summary": "Plus, a whole bunch of neat demos ahead of Steam Next Fest.",
-    "url": "https://www.engadget.com/2188606/a-musical-puzzle-box-consume-me-on-ios-and-other-new-indie-games-worth-checking-out/",
-    "platform": "Engadget"
-  },
-  {
-    "title": "Google will pay SpaceX $920 million a month to use xAI's data centers",
-    "summary": "Google has just signed a $30 billion AI computing power deal with SpaceX.",
-    "url": "https://www.engadget.com/2188862/google-spacex-xai-data-center-deal-gemini/",
-    "platform": "Engadget"
-  },
-  {
-    "title": "EA's Star Wars Zero Company drops August 27",
-    "summary": "Star Wars Zero Company's developers released a gameplay trailer, which features a short appearance by Anakin Skywalker.",
-    "url": "https://www.engadget.com/2188845/star-wars-zero-company-release-date-august-27/",
-    "platform": "Engadget"
-  },
-  {
-    "title": "Stellar Blade's slick-looking sequel is officially called Blood Rain",
-    "summary": "It's raining blood, hallelujah.",
-    "url": "https://www.engadget.com/2188798/stellar-blade-slick-looking-sequel-is-officially-called-blood-rain/",
-    "platform": "Engadget"
-  },
-  {
-    "title": "Super Yooka-Laylee Kart looks like an old-school Mario Kart for the modern age",
-    "summary": "Playtonic is shifting the Yooka-Laylee series from platforming to familiar-looking arcade racing.",
-    "url": "https://www.engadget.com/2186860/super-yooka-laylee-kart-looks-like-an-old-school-mario-kart-for-the-modern-age/",
-    "platform": "Engadget"
-  },
-  {
-    "title": "Party with your grandma and prevent her murder in Apple Crumble, out this year",
-    "summary": "Duck Detective studio Happy Broccoli is back with a creepy-cute mystery called Apple Crumble.",
-    "url": "https://www.engadget.com/2188459/party-with-your-grandma-and-prevent-her-murder-in-apple-crumble/",
-    "platform": "Engadget"
-  },
-  {
-    "title": "'5D' platformer Screenbound arrives on September 10",
-    "summary": "Screenbound lets you control a 2D handheld game and a character in a 3D world at the same time.",
-    "url": "https://www.engadget.com/2187778/5d-platformer-screenbound-arrives-on-september-10/",
-    "platform": "Engadget"
-  },
-  {
-    "title": "Ithaca is a mysterious road-trip RPG from Bury Me, My Love studio Pixel Hunt",
-    "summary": "Ithaca asks how far will players go to save the planet.",
-    "url": "https://www.engadget.com/2188360/ithaca-is-a-mysterious-road-trip-rpg-from-bury-me-my-love-studio-pixel-hunt/",
-    "platform": "Engadget"
+    "title": "How to Watch Apple’s WWDC 2026 Keynote—and What to Expect",
+    "summary": "The annual developer event is where Apple announces operating system updates—like iOS 27—and maybe even teases future hardware. Here’s how to see it all.",
+    "url": "https://www.wired.com/story/how-to-watch-apple-wwdc-2026/",
+    "platform": "Wired"
   },
   {
     "title": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
@@ -390,34 +420,16 @@
     "platform": "Wired"
   },
   {
-    "title": "So Long, ‘Ferrynoia.’ Green Maritime Technology Is Here",
-    "summary": "From San Francisco to Stockholm, a new generation of electric ferries is entering passenger service, marking a tipping point for green maritime technology.",
-    "url": "https://www.wired.com/story/so-long-ferrynoia-green-maritime-technology-is-here/",
-    "platform": "Wired"
+    "title": "RIP Anthony Head: Our 10 favorite moments of Buffy's Giles",
+    "summary": "Head's true genius—and that of his character, Giles—lay in quietly filling in the gaps in every scene",
+    "url": "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/",
+    "platform": "Ars Technica"
   },
   {
-    "title": "How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study",
-    "summary": "The actual eco-friendliness of ecotourism varies considerably. One research station in the Peruvian Amazon is out to prove it can bring visitors to the area without disrupting the environment.",
-    "url": "https://www.wired.com/story/preserving-the-places-tourists-go-to-study/",
-    "platform": "Wired"
-  },
-  {
-    "title": "This Summer Travel Season Could Forever Alter the Future of Sustainable Aviation Fuel",
-    "summary": "As the conflict in Iran disrupts the world’s oil supply, airlines are looking for jet fuel alternatives. The answer: energy from used cooking oil and french fry grease.",
-    "url": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
-    "platform": "Wired"
-  },
-  {
-    "title": "The DOGE Boys Get VC Funding to Support Their Latest Enterprise",
-    "summary": "Former DOGE members and Elon Musk allies are backing a startup aimed at using AI to apply “learnings” from DOGE to the private sector.",
-    "url": "https://www.wired.com/story/the-doge-boys-get-vc-funding-to-support-their-latest-enterprise/",
-    "platform": "Wired"
-  },
-  {
-    "title": "Has Microsoft Lost Its Mojo (Again)?",
-    "summary": "Microsoft’s AI products aren’t selling, and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
-    "url": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
-    "platform": "Wired"
+    "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+    "summary": "How accurate does an AI system need to be?",
+    "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+    "platform": "Ars Technica"
   },
   {
     "title": "Scientists ejected from diabetes conference for distributing journal reprints",
@@ -528,466 +540,502 @@
     "platform": "Ars Technica"
   },
   {
-    "title": "These LLMs are the best at resisting Russian propaganda",
-    "summary": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\"",
-    "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
-    "platform": "Ars Technica"
-  },
-  {
-    "title": "Dashlane explains how attackers managed to download encrypted password vaults",
-    "summary": "By targeting large numbers of users, attackers increased their chances of success.",
-    "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
-    "platform": "Ars Technica"
-  },
-  {
-    "title": "Venture Capital Trends to Watch in Africa",
-    "summary": "As funding conditions tighten, investment into African startups held up in 2025. Bloomberg's Jennifer Zabasajja spoke with venture capital investor Tokunboh Ishmael from Alitheia Capital for a view from investors on the ground. (Source: Bloomberg)",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-07/venture-capital-trends-to-watch-in-africa",
+    "title": "Korea’s Lee Marks First Year With Vow to Find New Growth Engines",
+    "summary": "South Korean President Lee Jae Myung vowed to ramp up investment for a range of future growth engines and to leverage excess tax revenue generated by the surging semiconductor industry for the wider good.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-08/korea-s-lee-marks-first-year-with-vow-to-find-new-growth-engines",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
-    "summary": "Sriram Krishnan, a top White House adviser on artificial intelligence, is stepping down from the post.",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role",
+    "title": "Bitcoin Steadies After $60,000 Breach as Saylor Hints at Buying",
+    "summary": "Bitcoin steadied in Asia trading Monday after dropping below $60,000 late last week as Strategy Inc. Chairman Michael Saylor hinted at further purchases.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-08/bitcoin-steadies-after-60-000-breach-as-saylor-hints-at-buying",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Grindr Growing From Just Dating App to Politics, AI",
-    "summary": "Grindr Inc. unveiled a handful of new app features and shared more details around its premium subscription tier as part of a larger effort to integrate artificial intelligence across its LGBTQ dating platform. The premium plan unlocks access to new AI features and deeper personalization, Grindr said Monday in a statement. The company is also investing further in AI-powered safety tools and in behind-the-scenes operations, Chief Executive Officer George Arison said in an interview with Bloomberg ",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-06/grindr-growing-from-just-dating-app-to-politics-ai-video",
+    "title": "AXA Global Private CEO on Wealth Strategy",
+    "summary": "Sally Wan, CEO of AXA Global Private and AXA Greater China, discusses the outlook for the insurance firm's new platform launched at helping high-net-worth and ultra-high-net-worth clients manage their wealth, and look for investment opportunities. She speaks exclusively with Haidi Stroud Watts on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-08/axa-global-private-ceo-on-wealth-strategy-video",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Bitcoin Drop Tests Retail Investor Strength",
-    "summary": "For years, Wall Street has benefited from one of the most reliable forces in modern markets: a retail-trader army willing to buy almost anything. Friday offered a glimpse of what happens when several of those trades come under pressure at the same time. Artificial-intelligence stocks suffered their sharpest selloff in months, Bitcoin fell below $60,000 and bond yields surged as traders revived bets that the Federal Reserve’s next move could be a rate increase. Bloomberg Intelligence Senior Commo",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-06/bitcoin-drop-test-retail-investor-strength-video",
+    "title": "Korean Stocks Under Pressure, Jensen Huang in Seoul",
+    "summary": "South Korean stocks plunged as investors pulled back from artificial intelligence bets. Meanwhile, a tech-centered camaraderie was on display last week with Nvidia CEO Jensen Huang's night out in Seoul with South Korea's tech corporate royalty, including leaders from SK Group, LG Group and Naver Corp. (Source: Bloomberg)",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-08/korean-stocks-under-pressure-jensen-huang-in-seoul-video",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Elon Musk to Attend ASML’s Private Tech Event to Discuss Terafab",
-    "summary": "Elon Musk will virtually attend a closed door technology conference run by ASML Holding NV to discuss his Terafab project, which the chip-equipment maker considers a “serious endeavor.”",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-06/elon-musk-to-attend-asml-s-private-tech-event-to-discuss-terafab",
+    "title": "Nvidia CEO Says Selloff in Tech Stocks Is a Buying Opportunity",
+    "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang called a global tech stocks selloff that began last week a buying opportunity, saying the buildout of artificial intelligence has just begun.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-08/nvidia-ceo-shrugs-off-tech-stock-rout-with-ai-just-beginning",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Trump Signals Interest in US Owning Stakes in Top AI Labs",
-    "summary": "President Donald Trump expressed interest in the US government holding equity stakes in leading artificial intelligence developers, saying that he planned to discuss the idea of a partnership with AI companies’ executives as soon as next week. Bloomberg Surveillance Co-Host and Chief Political Correspondent Annmarie Horden joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-06/trump-shows-interest-in-us-owning-stakes-in-top-ai-labs-video",
+    "title": "アップルAI危機の舞台裏、新Siri誕生までの知られざる社内攻防－Power On",
+    "summary": "アップルがAI分野の劣勢を真剣に受け止めるきっかけとなった極秘会議。Siri刷新の舞台裏に迫る。",
+    "url": "https://www.bloomberg.com/jp/news/newsletters/2026-06-08/TGALO0KGCTH700",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Why Susquehanna Is Building a Prediction Markets Business",
-    "summary": "<p>Creating an asset class for bets on anything.</p>",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-06/how-susquehanna-is-expanding-into-prediction-markets",
+    "title": "JPMorgan Hires Nomura’s International AI Strategy Chief",
+    "summary": "JPMorgan Chase &amp; Co. is hiring Nomura Holdings Inc.’s international head of artificial intelligence strategy, according to people familiar with the matter, as the Wall Street bank steps up recruitment of AI specialists to boost productivity.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-08/jpmorgan-hiring-nomura-s-international-ai-strategy-chief",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Odd Lots: Why Susquehanna Builds Prediction Markets (Podcast)",
-    "summary": "Prediction markets that enable you to bet on pretty much everything are everywhere nowadays. But there’s still a big question over whether they can expand to include larger institutional investors like hedge funds. Part of the problem is that a lot of prediction market contracts are illiquid and trading volumes can sometimes be shallow. That’s where trading firm Susquehanna International Group comes in. In this episode, recorded live at New York’s City Winery, we talk to Jeremy Maletz, Susquehan",
-    "url": "https://www.bloomberg.com/news/audio/2026-06-06/odd-lots-why-susquehanna-builds-prediction-markets-podcast",
+    "title": "China’s Moonshot AI Seeks $30 Billion Value in New Funding Talks",
+    "summary": "Moonshot AI is seeking as much as $2 billion in a new funding round that would value the startup at $30 billion, initiating its third financing in six months to keep pace with rivals in China’s intensifying artificial intelligence race.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Jensen Huang Commands Seoul Stage With Night of Street Theater",
-    "summary": "For one Friday night, Hongdae wasn’t Seoul’s trendiest neighborhood. It was Jensen Huang’s stage.",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-06/jensen-huang-commands-seoul-stage-with-night-of-street-theatre",
+    "title": "Korea’s AI Impact Sparks Pressure Across Government Bond Market",
+    "summary": "Investor fervor for artificial intelligence that has driven South Korea’s volatile stock market to the top of global rankings is taking a toll on another market: government bonds.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-08/korea-s-chip-boom-sparks-pressure-across-government-bond-market",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Wall Street Week | AI-era Internet, Spaceport Investment, Bolivia’s Investability",
-    "summary": "This week, the dollar remains the world’s dominant currency, but economist Ken Rogoff thinks rising debt and geopolitical shifts are eroding its position as the world’s reserve currency. And, AI-powered search is reducing web traffic, forcing publishers to rethink how they attract audiences and generate revenue online. Will competition between the US and China to launch satellites create the next major infrastructure boom in the commercial space industry? Bolivia wants to benefit from foreign ca",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-05/wall-street-week-space-investment-boom-ai-vs-search-video",
+    "title": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips",
+    "summary": "Nvidia Corp. and SK Hynix Inc. have agreed to partner on designing future generations of memory chips for AI, a win for a South Korean leader vying with Samsung Electronics Co. in a red-hot arena.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-07/nvidia-sk-hynix-sign-multi-year-pact-to-develop-next-gen-chips",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Discussion on the Iconoclast Dinner Experience and Its Cultural Impact",
-    "summary": "Esi Eggleston Bracey, former Unilever Global Chief Growth & Marketing Officer, shared her involvement with the Iconoclast dinner experience, highlighting its significance as a coveted event in the culinary world. She described how the event, founded by Dr. Leslie, has been developed over eleven years to identify and bring together top influencers and power players in culinary cuisine. She speaks with Romaine Bostick & Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-05/discussion-on-the-iconoclast-dinner-its-impact-video",
+    "title": "Spotify Plans to Add Live Concert Video, Tickets",
+    "summary": "Spotify is looking to become a hub for live music",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-06-08/spotify-plans-to-add-live-concert-video-tickets",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Market Sell-Off Analyzed Amid NASDAQ 100 Decline and Rising Yields",
-    "summary": "Jeremy Siegel, Professor Emeritus of Finance at the Wharton School, discussed the recent market sell-off during a live financial news segment. The conversation focused on the sharp decline in the NASDAQ 100, which was described as an AI-led rout coinciding with climbing yields. He speaks with Romaine Bostick & Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-05/market-sell-off-analyzed-amid-decline-rising-yields-video",
+    "title": "Sheinbaum Unveils Affordable EV Prototype Backed by Government",
+    "summary": "An electric vehicle startup backed by the Mexican government unveiled its first prototype in a ceremony featuring President Claudia Sheinbaum, who praised the project as an affordable mobility option and a showcase for homegrown engineering.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-07/sheinbaum-unveils-affordable-ev-prototype-backed-by-government",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "The $200 Billion Data Center Transforming Louisiana",
-    "summary": "Meta's Mark Zuckerberg wanted to build a massive data center. And Louisiana leaders wanted Meta to choose their state as its home. But making that happen took a lot of negotiation &mdash; and secrecy. Bloomberg reporter Riley Griffin takes host Sarah Holder inside the deal. (Source: Bloomberg)",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-05/the-200-billion-data-center-transforming-louisiana-video",
+    "title": "Naver to Use Nvidia’s AI Models in Bid to Cement Lead in Korea",
+    "summary": "South Korea’s Naver Corp. agreed to build data centers based on Nvidia Corp.’s models in a move to clinch its dominance in the country’s artificial intelligence landscape.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-07/naver-to-use-nvidia-s-ai-models-in-bid-to-cement-lead-in-korea",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Marvell Technology, Flex to Join S&amp;P 500 Later This Month",
-    "summary": "Marvell Technology Inc. and Flex Ltd. will join the S&amp;P 500 in the latest quarterly rebalance, S&amp;P Dow Jones Indices said Friday.",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-05/marvell-technology-flex-set-to-join-s-p-500-later-this-month",
+    "title": "Starmer to Roll Out UK Job Center Tools to Beat AI Work Threat",
+    "summary": "UK Prime Minister Keir Starmer will promise to prevent any community from being left behind in the “tech revolution” by using artificial intelligence tools to help people find work.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-07/starmer-to-roll-out-uk-job-center-tools-to-beat-ai-work-threat",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "DocuSign Shares Drop After Full-Year Guidance Disappoints Investors",
-    "summary": "DocuSign's shares declined amid a broadly negative market day following the company's full-year guidance, which failed to excite investors. Allan Thygesen, CEO of DocuSign, discussed the company's AI-powered intelligent agreement management platform, highlighting strong adoption with 40,000 customers currently live on the platform. He speaks with Romaine Bostick and Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-05/docusign-shares-drop-as-full-year-guidance-disappoints-video",
+    "title": "Stocks Face Rising Risk With Mega AI Deals Ready to Flood Market",
+    "summary": "A flood of new shares from companies looking to fund their artificial intelligence ambitions is raising questions on Wall Street about whether there will be enough buyers to soak them all up and what this pile of fresh equity will mean for stock prices more broadly.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-07/ai-s-mega-stock-deals-raise-specter-of-more-shares-than-buyers",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Jobs Report Fuels Fed-Rate Hike Bets | The Close 6/5/2026",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Edward Jones Head of Investment Strategy Mona Mahajan, Docusign CEO Allan Thygesen, Guggenheim Partners Senior Analyst of Retail & Commerce Simeon Siegel, Sperling Economics President Gene Sperling, Interactive Brokers Chief Strategist Steve Sosnick, Wharton School Professor Emeritus of Finance Jeremy Siegel, KPMG Chief Econ",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-05/the-close-6-5-2026-video",
+    "title": "Kevin O’Leary’s Huge Data Center in Canada Faces a Skeptical Public",
+    "summary": "A proposal by a Kevin O’Leary-backed firm to build Canada’s largest data center in northwestern Alberta is facing pushback from some residents and Indigenous groups.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-07/kevin-o-leary-s-huge-data-center-in-canada-faces-a-skeptical-public",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "SpaceX Inks $30 Billion Computing Power Deal With Google",
-    "summary": "Bloomberg's Bailey Lipschultz breaks down a busy week in SpaceX news, as the aerospace company prepares for an IPO. SpaceX and Google entered into an agreement for cloud services where Google has agreed to pay SpaceX $920 million per month for computing, something Lipschultz says is indicative of the expansion of the scope of work SpaceX is looking to do.  (Source: Bloomberg)",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-05/spacex-inks-30-billion-computing-power-deal-with-google-video",
+    "title": "Why an AI 'Death Spiral' Threatens the Internet",
+    "summary": "For decades, publishers depended on search engines to send readers to their websites, where advertising helped fund the creation of online content. But the rise of AI-powered search is changing that model. Researchers like Rand Fishkin say “zero-click” searches are increasingly keeping users inside platforms rather than sending them to publishers, while Rutgers professor Caitlin Petre warns that falling traffic could threaten the long-term economics of journalism and content creation. Yet some l",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-07/why-an-ai-death-spiral-threatens-the-internet-video",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Apollo Wraps Up $35 Billion Debt to Buy AI Chips for Anthropic",
-    "summary": "Apollo Global Management Inc. and Blackstone Inc. have finalized a $35 billion financing package for Anthropic PBC to expand its AI infrastructure, marking the latest mega-deal in the artificial intelligence race.",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic",
+    "title": "Inside Apple’s Secret Meeting That Led It to Finally Take AI Seriously",
+    "summary": "Also: What to expect at WWDC 2026.",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "Google-Tied Prepaid Energy Bonds See Flood of Muni Trader Demand",
-    "summary": "Google parent Alphabet Inc.’s municipal-bond market debut was met by a surge of investor interest.",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-05/google-tied-prepaid-energy-bonds-see-flood-of-muni-trader-demand",
+    "title": "Nvidia’s CEO Says New Vera Chip Will Use SK Hynix’s Memory Chips",
+    "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang said its new Vera central processing units will use SK Hynix Inc.’s memory chips as the two companies prepare to do more business in the coming year.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-07/nvidia-s-ceo-says-new-vera-chip-will-use-sk-hynix-s-memory-chips",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "BOE’s Bailey Warns of Possible AI Rationing on Capacity Limits",
-    "summary": "Bank of England Governor Andrew Bailey suggested that artificial intelligence may need to be rationed because a lack of energy capacity will restrain the ability for every economic sector to deploy the new technology.",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-05/boe-s-bailey-warns-of-possible-ai-rationing-on-capacity-limits",
+    "title": "UK to Buy AI Chips From British Tech Firms, Telegraph Reports",
+    "summary": "The UK will offer to buy artificial intelligence chips from technology companies in an effort to encourage them to stay in Britain, the Telegraph reported on Sunday.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
     "platform": "Bloomberg Tech"
   },
   {
-    "title": "FF7 Revelation Director On Fixing Rebirth’s Most Criticized/Hated Feature",
-    "summary": "<p class=\"wp-block-paragraph\"><strong>Jess Cogswell sits down with Naoki Hamaguchi to talk about the Final Fantasy 7 Revelation reveal including questions on Tifa, Cid and Vincent's gameplay, more on the job system, an update to mini games, and Naoki Hamaguchi's favorite thing him and the team got to recreate in the game from the original.</strong></p>",
-    "url": "https://www.gamespot.com/videos/ff7-revelation-director-on-fixing-rebirths-most-criticized-hated-feature/",
+    "title": "End of Abyss Is A Fantastic (And Hard) Addition To A New Era Of Survival Horror",
+    "summary": "<p class=\"wp-block-paragraph\">Trying to distill End of Abyss to a single sentence is difficult. I can call it a Metroid Prime-like, but it's also a survival-horror game with a sprinkle of Dead Space, but then I'd be remiss to not mention the souls-like influence too. Yes, it can be reductive to narrow a game down to its influences, but it's a testament to what makes End of Abyss interesting: its ability to execute on so many different elements so well, making it one of my most-anticipated games ",
+    "url": "https://www.gamespot.com/articles/end-of-abyss-is-a-fantastic-and-hard-addition-to-a-new-era-of-survival-horror/",
     "platform": "GameSpot"
   },
   {
-    "title": "How Crossfire’s Adaptive Cover Puts Pressure on Players",
-    "summary": "<p class=\"wp-block-paragraph\"><strong>Taylor Kurosaki and Jacob Minkoff from That's No Moon joins Tamoor Hussain to talk more about the reveal of Crossfire, how they want to innovate on the third person cover shooter genre, how adaptive cover creates pressure on players and more.</strong></p>",
-    "url": "https://www.gamespot.com/videos/how-crossfires-adaptive-cover-puts-pressure-on-players/",
+    "title": "Xbox Clarifies Its Exclusivity Strategy Moving Forward, Wants You To Buy An Xbox",
+    "summary": "<p class=\"wp-block-paragraph\">Today's <a href=\"https://www.gamespot.com/articles/xbox-game-showcase-2026-all-the-biggest-announcements-so-far/\" id=\"https://www.gamespot.com/articles/xbox-game-showcase-2026-all-the-biggest-announcements-so-far/\">Xbox Games Showcase</a> was the first under the leadership of Xbox CEO Asha Sharma, who has pledged to <a href=\"https://www.gamespot.com/articles/microsoft-gaming-is-dead-to-be-replaced-by-return-to-xbox-branding-report/1100-6539586/\" id=\"https://www.game",
+    "url": "https://www.gamespot.com/articles/xbox-clarifies-its-exclusivity-strategy-moving-forward-wants-you-to-buy-an-xbox/",
     "platform": "GameSpot"
   },
   {
-    "title": "Resident Evil: Veronica Can Fix One Of The Series’ Biggest Mistakes",
-    "summary": "<p class=\"wp-block-paragraph\">At this year's <a href=\"https://www.gamespot.com/articles/summer-game-fest-live-2026-all-the-biggest-announcements-and-games/\">Summer Game Fest Live</a>, Capcom finally revealed the long-rumored remake of Resident Evil Code: Veronica, retitled to the much simpler Resident Evil: Veronica. Originally released for the Dreamcast in 2000, Code: Veronica is the last of the “classic” Resident Evil titles to receive a remake in the modern era.&nbsp;</p>\n\n\n\n<p class=\"wp-bloc",
-    "url": "https://www.gamespot.com/articles/resident-evil-veronica-can-fix-one-of-the-series-biggest-mistakes/",
+    "title": "End of Abyss Is A Fantastic (And Hard) Addition To A New Era Of Survival Horror",
+    "summary": "<p class=\"wp-block-paragraph\"><strong>While its influences are clear, End of Abyss is laying the foundation for one of my most anticipated games of the year.</strong></p>",
+    "url": "https://www.gamespot.com/videos/end-of-abyss-is-a-fantastic-and-hard-addition-to-a-new-era-of-survival-horror/",
     "platform": "GameSpot"
   },
   {
-    "title": "Final Fantasy 7 Revelation: 22 New Screenshots Showcasing Its World, Combat, And More",
-    "summary": "<p class=\"wp-block-paragraph\">It's hard to believe, but after almost a decade, the Unknown Journey will conclude in <a href=\"https://www.gamespot.com/articles/final-fantasy-7-revelation-gets-its-first-trailer-at-summer-game-fest/\" rel=\"noreferrer noopener\" target=\"_blank\">Final Fantasy Revelation</a> next year. Officially shown off at <a href=\"https://www.gamespot.com/articles/summer-game-fest-live-2026-all-the-biggest-announcements-and-games/\" rel=\"noreferrer noopener\" target=\"_blank\">Summer Ga",
-    "url": "https://www.gamespot.com/articles/final-fantasy-7-revelation-22-new-screenshots-showcasing-its-world-combat-and-more/",
+    "title": "Spyro Devs Don’t See Many Comparisons To Its Flying, Except Iron Man Or Flight Sims",
+    "summary": "<p class=\"wp-block-paragraph\">The <a href=\"https://www.gamespot.com/articles/spyro-the-dragon-returns-after-20-years-and-hes-finally-taking-flight/\" id=\"https://www.gamespot.com/articles/spyro-the-dragon-returns-after-20-years-and-hes-finally-taking-flight/\">announcement of a new Spyro the Dragon game</a> in more than two decades during the <a href=\"https://www.gamespot.com/articles/xbox-game-showcase-2026-all-the-biggest-announcements-so-far/\" id=\"https://www.gamespot.com/articles/xbox-game-sho",
+    "url": "https://www.gamespot.com/articles/spyro-devs-dont-see-many-comparisons-to-its-flying-except-iron-man-or-flight-sims/",
     "platform": "GameSpot"
   },
   {
-    "title": "New Weapons In Fortnite Chapter 7 Season 3: What You Need To Know",
+    "title": "What Ugly Truth Will God Of War Laufey’s Faye See Reflected In Her Sword?",
+    "summary": "<p class=\"wp-block-paragraph\">The <a href=\"https://www.gamespot.com/articles/new-god-of-war-game-revealed-at-state-of-play/\">20-minute gameplay reveal for God of War Laufey</a> puts a lot of focus on protagonist Faye's new sword. And while we don't yet know what the sword is called or where it originally came from, I've already got so many questions about the blade. Most pressing, I want to know how Faye's new weapon will act as a thematic mirror for her, much as the Blades of Chaos and the Levi",
+    "url": "https://www.gamespot.com/articles/what-ugly-truth-will-god-of-war-laufeys-faye-see-reflected-in-her-sword/",
+    "platform": "GameSpot"
+  },
+  {
+    "title": "Marathon May Never Be Popular, And That’s Why It’s So Good",
+    "summary": "<p class=\"wp-block-paragraph\">Marathon is burdened with the past. Its twin namesakes, the titular colony ship and the trilogy of classic boomer shooters for the Apple Macintosh, are both corpses plundered for new life. The protagonists of this new, rebooted game are scavengers, quite literally picking over the bones of what came before.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">This fact has colored the reception of Marathon from its very first announcement. The fact that Marathon was set to be",
+    "url": "https://www.gamespot.com/articles/marathon-may-never-be-popular-and-thats-why-its-so-good/",
+    "platform": "GameSpot"
+  },
+  {
+    "title": "Fable’s Chicken Obsession Goes Even Deeper Than We Imagined",
+    "summary": "<p class=\"wp-block-paragraph\"></p>\n\n\n\n<p class=\"wp-block-paragraph\">Microsoft and Playground Games have announced the preorder bonuses for the Fable reboot, and wouldn't you know it, one of the perks is a chicken suit.</p>\n\n\n\n<p class=\"wp-block-paragraph\">For anyone just catching up, the Fable franchise is basically <em>obsessed </em>wth chickens, so it's fitting that one of the preorder perks is a chicken suit. The \"legendary\" costume includes a beak, feathers, and \"questionable dignity,\" accor",
+    "url": "https://www.gamespot.com/articles/fables-chicken-obsession-goes-even-deeper-than-we-imagined/",
+    "platform": "GameSpot"
+  },
+  {
+    "title": "Gears Of War: E-Day Is Drastically Changing Movement For The First Time In The Series",
+    "summary": "<p class=\"wp-block-paragraph\">During the Gears of War: E-Day Direct, which took place after a packed <a href=\"https://www.gamespot.com/articles/xbox-game-showcase-2026-all-the-biggest-announcements-so-far/\">Xbox Showcase at Summer Game Fest</a>, we got a good look at some of the big changes The Coalition is bringing to the Gears of War formula established nearly two decades ago. In short: Marcus can jump.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Gears of War has been defined by its big, brutish prot",
+    "url": "https://www.gamespot.com/articles/gears-of-war-e-day-is-drastically-changing-movement-for-the-first-time-in-the-series/",
+    "platform": "GameSpot"
+  },
+  {
+    "title": "How The New Spyro Is Handling The Big-Name Options For Its Lead Voice Actor",
+    "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/feeds/mashup/A Realm Beyond\">Spyro: A Realm Beyond</a> is the first new Spyro game, not associated with the Toys to Life Skylanders spin-off, in years. In the intervening time the definitive voice of Spyro, Tom Kenny, has become one of the biggest names in the business thanks to voicing the mega-hit SpongeBob Squarepants. But despite the success, Kenny wasn't too big for his square britches. Spyro creative director Lou Studdert told",
+    "url": "https://www.gamespot.com/articles/how-the-new-spyro-is-handling-the-big-name-options-for-its-lead-voice-actor/",
+    "platform": "GameSpot"
+  },
+  {
+    "title": "Fable Reboot Story Expansion Announced 8 Months Before The Game Even Releases",
+    "summary": "<p class=\"wp-block-paragraph\">Microsoft and Playground Games <a href=\"https://www.gamespot.com/articles/fable-release-date-announced-with-a-look-at-new-and-old-villains/\" id=\"https://www.gamespot.com/articles/fable-release-date-announced-with-a-look-at-new-and-old-villains/\">showed off the Fable reboot at the Xbox Games Showcase</a>, but the event didn't include all of the big announcements.</p>\n\n\n\n<p class=\"wp-block-paragraph\">After the showcase ended, Playground <a href=\"https://www.fablethega",
+    "url": "https://www.gamespot.com/articles/fable-reboot-story-expansion-announced-8-months-before-the-game-even-releases/",
+    "platform": "GameSpot"
+  },
+  {
+    "title": "Xbox’s Showcase Wanted Exclusives To Be A Big Deal, But Made Everything More Confusing",
+    "summary": "<p class=\"wp-block-paragraph\">With new Xbox CEO Asha Sharma leading her first <a href=\"https://www.gamespot.com/articles/xbox-game-showcase-2026-all-the-biggest-announcements-so-far/\" id=\"https://www.gamespot.com/articles/xbox-game-showcase-2026-all-the-biggest-announcements-so-far/\">Xbox Games Showcase</a> during Summer Game Fest, one thing was clear. In a very short amount of time, Sharma and her team have taken Xbox console exclusivity to heart, with not one, but two previously announced titl",
+    "url": "https://www.gamespot.com/articles/xboxs-showcase-wanted-exclusives-to-be-a-big-deal-but-made-everything-more-confusing/",
+    "platform": "GameSpot"
+  },
+  {
+    "title": "Gears Of War: E-Day Open Beta: Start Dates And How To Get In Early",
+    "summary": "<p class=\"wp-block-paragraph\">Gears Of War: E-Day's big showing at the <a href=\"https://www.gamespot.com/articles/xbox-game-showcase-2026-all-the-biggest-announcements-so-far/\" id=\"https://www.gamespot.com/articles/xbox-game-showcase-2026-all-the-biggest-announcements-so-far/\">Xbox Games Showcase </a>was primarily focused on single-player, but the game will have a multiplayer mode, too. </p>\n\n\n\n<p class=\"wp-block-paragraph\">While more details on multiplayer are being saved for later, Microsoft d",
+    "url": "https://www.gamespot.com/articles/gears-of-war-e-day-open-beta-start-dates-and-how-to-get-in-early/",
+    "platform": "GameSpot"
+  },
+  {
+    "title": "Crazy Taxi: World Tour Uses Generative AI, Sega Reveals",
+    "summary": "<p class=\"wp-block-paragraph\">Sega has disclosed that Crazy Taxi: World Tour is using AI-generated content, according to the game's <a href=\"https://store.steampowered.com/app/2924540/Crazy_Taxi_World_Tour/\">Steam page</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The corporation states, \"We use generative AI as a support tool for developers, aiming to provide better content to our users and enable developers to focus more on creative tasks.\" It goes on to clarify that AI has not been used in refere",
+    "url": "https://www.gamespot.com/articles/crazy-taxi-world-tour-uses-generative-ai-sega-reveals/",
+    "platform": "GameSpot"
+  },
+  {
+    "title": "New Weapons And Movement In Fortnite Chapter 7 Season 3: What You Need To Know",
     "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/articles/everything-new-in-fortnite-chapter-7-season-3/\" id=\"1781962\">Fortnite Chapter 7 Season 3</a> is changing up the Battle Royale meta in a number of ways, but none are more significant than the new set of weapons and items you'll be using, and facing off against, for the next few months. Epic Games has tossed four entirely new weapons, including one of John Wick's many trusty pistols, and one new movement item into the loot po",
     "url": "https://www.gamespot.com/articles/new-weapons-in-fortnite-chapter-7-season-3-what-you-need-to-know/",
     "platform": "GameSpot"
   },
   {
-    "title": "Halloween: The Game’s Scary New Story Trailer Shows Michael Myers Finding His Mask And Knife",
-    "summary": "<p class=\"wp-block-paragraph\">A new trailer for Halloween: The Game premiered today at the Future Games Show, and it's terrifying. </p>\n\n\n\n<p class=\"wp-block-paragraph\">The new trailer focuses on the game's single-player mode, in which players take on the role of Michael Myers as they set out to terrorize the people of <a href=\"https://halloweenmovie.fandom.com/wiki/Haddonfield,_Illinois\" id=\"https://halloweenmovie.fandom.com/wiki/Haddonfield,_Illinois\">Haddonfield</a>.</p>\n\n\n\n<p class=\"wp-block",
-    "url": "https://www.gamespot.com/articles/halloween-the-games-scary-new-story-trailer-shows-michael-myers-finding-his-mask-and-knife/",
+    "title": "Everything New In Fortnite Chapter 7 Season 3: Sprites, Guns, And A Whole New Map",
+    "summary": "<p class=\"wp-block-paragraph\">With <a href=\"https://www.gamespot.com/games/fortnite/\" id=\"251129\">Fortnite</a> Chapter 7 Season 3, summer has officially arrived in the metaverse. If you thought Epic's constant shakeups to the Battle Royale meta in Season 2 were wild, just wait 'til you get a load of this update, which adds a major new core gameplay mechanic and introduces a nearly entirely new map in the middle of the chapter. It's gonna be a lot to process, so let's dive right in.</p>\n\n\n\n<h2 cl",
+    "url": "https://www.gamespot.com/articles/everything-new-in-fortnite-chapter-7-season-3/",
     "platform": "GameSpot"
   },
   {
-    "title": "Where To Go To Unlock John Wick’s Dog In Fortnite Chapter & Season 3",
-    "summary": "<p class=\"wp-block-paragraph\">While there's been some grumbling abut the inclusion of a \"pen &amp; ink\" style of John Wick in the <a href=\"https://www.gamespot.com/articles/everything-new-in-fortnite-chapter-7-season-3/\" id=\"1781962\">Fortnite Chapter 7 Season 3</a> battle pass--since Epic has been selling <a href=\"https://fortnite.gg/cosmetics?id=527\">the original John Wick skin</a> in the item shop for seven years--there is one unquestionable upside to having him around. John Wick didn't come a",
-    "url": "https://www.gamespot.com/articles/where-to-go-to-unlock-john-wicks-dog-in-fortnite-chapter-season-3/",
-    "platform": "GameSpot"
-  },
-  {
-    "title": "Hitman Classic Trilogy Remasters Are Coming, See The Improved Graphics",
-    "summary": "<p class=\"wp-block-paragraph\">While fans await the next mainline Hitman game, IO Interactive and Saber Interactive have announced that the original three games in the series are being remastered in a bundle called the Hitman Classic Trilogy Remastered.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Specifically, Hitman: Codename 47, Hitman 2: Silent Assassin, and Hitman: Contracts are included in the bundle.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-e",
-    "url": "https://www.gamespot.com/articles/hitman-classic-trilogy-remasters-are-coming-see-the-improved-graphics/",
-    "platform": "GameSpot"
-  },
-  {
-    "title": "Final Fantasy 7 Revelation’s New FITS System Lets You Turn Cloud Into A Black Mage",
-    "summary": "<p class=\"wp-block-paragraph\">When the Unknown Journey continues in <a href=\"https://www.gamespot.com/articles/final-fantasy-7-revelation-gets-its-first-trailer-at-summer-game-fest/\" rel=\"noreferrer noopener\" target=\"_blank\">Final Fantasy 7 Revelation</a>, Cloud and his companions are going to embark on it while debuting some fashionable new combat gear. Revelation introduces a new gameplay mechanic&nbsp;called FITS (Function Integrated Tactical Suitware), which is inspired by the jobs system of",
-    "url": "https://www.gamespot.com/articles/final-fantasy-7-revelations-new-fits-system-lets-you-turn-cloud-into-a-black-mage/",
-    "platform": "GameSpot"
-  },
-  {
-    "title": "Final Fantasy Revelation Is A Definitive Conclusion, But Could Make Way For Side Stories In The Future",
-    "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/articles/final-fantasy-7-revelation-gets-its-first-trailer-at-summer-game-fest/\">Final Fantasy Revelation</a> is the third game in the remake trilogy that kicked off with Final Fantasy Remake back in 2020, promising to conclude the epic tale that has been significantly added compared to its PlayStation original. But with Revelation capping off Cloud and company's adventure, is there space for more stories within this universe?</p>\n\n",
-    "url": "https://www.gamespot.com/articles/final-fantasy-revelation-is-a-definitive-conclusion-but-could-make-way-for-side-stories-in-the-future/",
-    "platform": "GameSpot"
-  },
-  {
-    "title": "Final Fantasy 7 Revelation Wants Minigames To Feel Like A Choice Again",
-    "summary": "<p class=\"wp-block-paragraph\">Final Fantasy 7 Rebirth's minigames were polarizing when they were first&nbsp;introduced, and for <a href=\"https://www.gamespot.com/articles/final-fantasy-7-revelation-gets-its-first-trailer-at-summer-game-fest/\" rel=\"noreferrer noopener\" target=\"_blank\">Final Fantasy 7 Revelation</a>, Square Enix has reworked how it will \"deliver\" them to players. One of the main complaints with Rebirth's minigames&nbsp;was the sheer volume of them and how completing them was manda",
-    "url": "https://www.gamespot.com/articles/final-fantasy-7-revelation-wants-minigames-to-feel-like-a-choice-again/",
-    "platform": "GameSpot"
-  },
-  {
-    "title": "How Best To Use The New Sprites In Fortnite Chapter 7 Season 3",
-    "summary": "<p class=\"wp-block-paragraph\">In <a href=\"https://www.gamespot.com/articles/everything-new-in-fortnite-chapter-7-season-3/\" id=\"1781962\">Fortnite Chapter 7 Season 3</a>, the sprites are back! These lovable little spirits,&nbsp;which we first met back in Chapter 6 Season 1, have returned to the Battle Royale island following the cataclysmic confrontation between the Ice King and the Foundation in the Shattered live event. Now, there's a lot more of them than there used to be, and they're about to",
-    "url": "https://www.gamespot.com/articles/how-best-to-use-the-new-sprites-in-fortnite-chapter-7-season-3/",
-    "platform": "GameSpot"
-  },
-  {
-    "title": "God Of War Laufey May Feature Gods Who Were Killed In The Previous Games",
-    "summary": "<p class=\"wp-block-paragraph\">Throughout the original God of War trilogy and its spin-offs, Kratos left a lot of dead gods in his wake. Some of those late deities may come back to haunt Kratos's wife, Faye, in the upcoming title, <a href=\"https://www.gamespot.com/games/god-of-war-laufey/\" id=\"1777898\">God of War Laufey</a>. While Kratos is still among the living, Ariel Lawrence--the director of God of War Laufey--hinted that one of his first foes could return.</p>\n\n\n\n<p class=\"wp-block-paragraph",
-    "url": "https://www.gamespot.com/articles/god-of-war-laufey-may-feature-gods-who-were-killed-in-the-previous-games/",
-    "platform": "GameSpot"
-  },
-  {
-    "title": "Godzilla Is Apparently Not Afraid Of GTA 6",
-    "summary": "<p class=\"wp-block-paragraph\">With Rockstar's GTA 6 set to <a href=\"https://www.gamespot.com/articles/gta-6-has-been-very-hard-to-avoid-and-will-blot-out-the-sun-for-the-industry-helldivers-2-dev-says/1100-6536279/\" id=\"https://www.gamespot.com/articles/gta-6-has-been-very-hard-to-avoid-and-will-blot-out-the-sun-for-the-industry-helldivers-2-dev-says/1100-6536279/\">\"blot out the sun\"</a> when it arrives on November 19, numerous developers are purposefully avoiding releasing their games near it. ",
-    "url": "https://www.gamespot.com/articles/godzilla-is-apparently-not-afraid-of-gta-6/",
-    "platform": "GameSpot"
-  },
-  {
-    "title": "007 First Light Budget Was Not $200 Million, Exec Says As Game Passes 3 Million Sales",
-    "summary": "<p class=\"wp-block-paragraph\">The new James Bond game, 007 First Light, has passed 3 million sales, according to IO Interactive CEO Hakan Abrak, who also pushed back against the claim that the game cost $200 million to develop.</p>\n\n\n\n<p class=\"wp-block-paragraph\">He told <a href=\"https://www.ign.com/articles/007-first-light-dev-io-interactive-says-its-now-sold-3-million-copies-tracking-well-above-our-forecasts-at-this-point\" id=\"https://www.ign.com/articles/007-first-light-dev-io-interactive-sa",
-    "url": "https://www.gamespot.com/articles/007-first-light-budget-was-not-200-million-exec-says-as-game-passes-3-million-sales/",
-    "platform": "GameSpot"
-  },
-  {
-    "title": "Silent Hill 2 remake studio is back with more sci-fi horror, and this time it's taking Star Trek to a mysterious, hostile world",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/star-trek-shadow-frontier-header.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Well here's something that wasn't on my Summer Game Fest bingo card. <a href=\"https://www.eurogamer.net/companies/bloober-team\">Bloober Team</a>, the studio behind the likes of Observer and 2024's sublime <a href=\"https://www.eurogamer.net/games/silent-hill-2\">Silent Hill 2</a> remake, has unveiled its latest foray into the dread world of horror: a Star Trek gam",
-    "url": "https://www.eurogamer.net/star-trek-shadow-frontier-bloober-team-announced",
+    "title": "Citizen Sleeper creator's new game is a \"fungalpunk\" RPG in which you're a parasite, infecting the lives of people in a city inspired by post-punk Britain",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/signet-city-citizel-sleeper-art.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/citizen-sleeper\">Citizen Sleeper</a> creator Gareth Damian Martin's new game is something quite different: a first-person \"fungalpunk\" narrative role-playing game inspired by post-punk Britain, in which you play as a literal parasite, infecting and navigating the lives of people in Signet City.</p> <p><a href=\"https://www.",
+    "url": "https://www.eurogamer.net/citizen-sleeper-devs-new-game-signet-city",
     "platform": "Eurogamer"
   },
   {
-    "title": "Monster Hunter Wilds confirmed for Nintendo Switch 2",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/HKGKXisXMAAmfuu.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Remember those rumours of a <a href=\"https://www.eurogamer.net/platforms/switch-2\">Nintendo Switch 2</a> port of <a href=\"https://www.eurogamer.net/games/monster-hunter-wilds\">Monster Hunter Wilds</a> that wouldn't quite go away? Dataminers believed they've discovered evidence that <a href=\"https://www.eurogamer.net/dataminers-think-theyve-discovered-even-more-proof-that-monste",
-    "url": "https://www.eurogamer.net/monster-hunter-wilds-nintendo-switch-2",
+    "title": "Stealth classic Thief: The Dark Project is getting the remaster treatment from retro specialist Nightdive Studios",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/thief-remastered-header.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Retro specialist Nightdive is at it again. After successfully tackling <a href=\"https://www.eurogamer.net/games/system-shock\">System Shock</a> and its sequel (giving them the remake and remaster treatment respectively), Nightdive is once again returning to the world of legendary developer Looking Glass Studios and sprucing up another of its beloved early immersive sims. ",
+    "url": "https://www.eurogamer.net/thief-the-dark-project-remastered-nightdive-studios",
     "platform": "Eurogamer"
   },
   {
-    "title": "Surprise! Blasphemous 2: The Third Sin is a new - and free - expansion, and it's out now",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/unnamed_tfX2g8f.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Surprise! <a href=\"https://www.eurogamer.net/games/blasphemous-2\">Blasphemous 2</a>: The Third Sin is a new &ndash; and free &ndash; expansion, and it's out now.</p> <p><a href=\"https://www.eurogamer.net/blasphemous-2-the-third-sin-expansion\">Read more</a></p>",
-    "url": "https://www.eurogamer.net/blasphemous-2-the-third-sin-expansion",
+    "title": "Xbox's Gears of War: E-Day and Clockwork Revolution are not timed exclusives, as PlayStation 5 misses out on upcoming releases",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/A-puppet-in-Clockwork-Revolution.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>We just got <a href=\"https://www.eurogamer.net/gears-of-war-e-day-release-platform-skipping-ps5-rumour\">another look at Gears of War: E-Day</a> and <a href=\"https://www.eurogamer.net/steampunk-rpg-clockwork-revolution-arrives-2027-as-an-xbox-console-exclusive\">Clockwork Revolution at this evening's Xbox Games Showcase</a>. While <a href=\"https://www.eurogamer.ne",
+    "url": "https://www.eurogamer.net/xboxs-gears-of-war-e-day-and-clockwork-revolution-are-not-timed-exclusives-as-playstation-5-misses-out-on-upcoming-releases",
     "platform": "Eurogamer"
   },
   {
-    "title": "Sci-fi RPG Exodus even has a Mass Effect-like morality system, except it's not Paragon and Renegade but Paladin and Immortal",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/exodus-sgf-header.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p><a href=\"https://www.eurogamer.net/sci-fi-rpg-exodus-looks-like-mass-effect-but-time-dilation-makes-big-difference\">As if sci-fi role-playing Exodus didn't already look enough like Mass Effect</a>, developer Archetype has revealed a binary morality system for the game that works in almost exactly the same way - except it's not Paragon and Renegade points we're earning but Pala",
-    "url": "https://www.eurogamer.net/aexodus-mass-effect-morality-system",
+    "title": "Crazy Taxi World Tour officially announced, Sega immediately upsets everyone by announcing it used generative AI",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/crazy-taxi-.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>It's been a rollercoaster day for <a href=\"https://www.eurogamer.net/games/crazy-taxi\">Crazy Taxi</a>. Today, at Xbox's showcase, we saw the first trailer for the long-teased rebooted game in the series. In a new trailer (below) Sega announced that the game is set to launch on <a href=\"https://www.eurogamer.net/platforms/switch-2\">Nintendo Switch 2</a>, PlayStation 5, Windows PC, an",
+    "url": "https://www.eurogamer.net/crazy-taxi-world-tour-officially-announced-sega-immediately-upsets-everyone-by-announcing-it-used-generative-ai",
     "platform": "Eurogamer"
   },
   {
-    "title": "Citizen Sleeper 1 and 2 are coming to Nintendo Switch 2 later this month",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/citizensleeper2_cropped.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/citizen-sleeper\">Citizen Sleeper</a> &ndash; and its sequel, <a href=\"https://www.eurogamer.net/games/citizen-sleeper-2-starward-vector\">Citizen Sleeper 2: Starward Vector</a> &ndash; are coming to <a href=\"https://www.eurogamer.net/platforms/switch-2\">Nintendo Switch 2</a> later this month.</p> <p><a href=\"https://www.eurogamer.n",
-    "url": "https://www.eurogamer.net/citizen-sleep-1-2-switch-2-release-date",
+    "title": "Xbox unveils retro-inspired console and controller to celebrate its 25th anniversary, and they're launching this November",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/XBOX-Wireless-Controller-X25-Special-Edition_1-d75d6cc00415223ed301-1900x1080.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>It's Xbox's 25th birthday this year, don't you know, and Microsoft is celebrating in a multitude of ways. It's <a href=\"https://www.eurogamer.net/xbox-unveils-new-logo\">made its logo transparent</a>, for starters, and it's <a href=\"https://www.eurogamer.net/xbox-is-now-xbox\">decided to go all-caps</a>. But if that's s",
+    "url": "https://www.eurogamer.net/xbox-limited-edition-console-controller-25th-anniversary",
     "platform": "Eurogamer"
   },
   {
-    "title": "The Sinking City 2 arrives this August, and there's a demo you can play right now",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/the-sinking-city-2-header-cropped.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Developer Frogwares' Lovecraftian horror sequel, <a href=\"https://www.eurogamer.net/games/the-sinking-city-2\">The Sinking City 2</a>, is launching 18th August on PC, PS5, and Xbox Series X/S. Additionally, an <a href=\"https://store.steampowered.com/app/2825860/The_Sinking_City_2/\">hour-long The Sinking City 2 demo is now available on Steam</a>.</p> <p><a href=\"",
-    "url": "https://www.eurogamer.net/the-sinking-city-2-release-date-free-demo",
+    "title": "Steampunk RPG Clockwork Revolution arrives 2027, as an Xbox console exclusive",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/A-lady-in-very-ornate-clothing-in-Clockwork-Revoltution.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Steampunk RPG Clockwork Revolution will be an Xbox console exclusive on its release in 2027. It is also coming to PC</p> <p><a href=\"https://www.eurogamer.net/steampunk-rpg-clockwork-revolution-arrives-2027-as-an-xbox-console-exclusive\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/steampunk-rpg-clockwork-revolution-arrives-2027-as-an-xbox-console-exclusive",
     "platform": "Eurogamer"
   },
   {
-    "title": "At Summer Game Fest 2026, video games retreat to the safety of the past",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/sgf-old-header.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>One of the enduring questions over the past few months - or really years - has been what happens next. Video games have seen arguably their greatest upheaval as a medium, as an exodus of investor cash and evisceration of talent, particularly in North America and Europe, led to a grim drought of the bigger-budget blockbusters that would have normally kept the industry ticking over",
-    "url": "https://www.eurogamer.net/summer-game-fest-2026-video-games-retreat-past-opinion",
+    "title": "Call of Duty: Modern Warfare 4's DMZ extraction mode gets an action-packed trailer at the Xbox showcase",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/MW4_DMZ_08_BRANDED.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Call of Duty: Modern Warfare 4's extraction shooter mode has been revealed in full.</p> <p><a href=\"https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-extraction-mode-xbox-games-showcase\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-extraction-mode-xbox-games-showcase",
     "platform": "Eurogamer"
   },
   {
-    "title": "Palworld is finally leaving early access - here's when",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/Screenshot-2026-06-06-at-19.11.37.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>It's finally happening: <a href=\"https://www.eurogamer.net/palworld-beginner-tips-tricks-9409\">Palworld</a> is leaving early access on 10th July.</p> <p><a href=\"https://www.eurogamer.net/palworld-version-1-release-date\">Read more</a></p>",
-    "url": "https://www.eurogamer.net/palworld-version-1-release-date",
+    "title": "Persona 6 is real, coming to Xbox Series X/S, PS5 and PC, but that's about all we know",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/HKOrZF2bcAAxuMC.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>At this evening's Summer Game Fest 2026 showcase, Atlus finally lifted the lid on Persona 6.</p> <p><a href=\"https://www.eurogamer.net/persona-6-is-real-coming-to-xbox-series-xs-ps5-and-pc-but-thats-about-all-we-know\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/persona-6-is-real-coming-to-xbox-series-xs-ps5-and-pc-but-thats-about-all-we-know",
     "platform": "Eurogamer"
   },
   {
-    "title": "Studio behind Martha is Dead, the game too extreme for PlayStation, debuts gameplay from its psychological serial killer horror When Sirens Fall Silent",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/dotd-wsfs-header.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>LKA, the studio behind 2016's acclaimed The Town of Light and its controversial 2024 follow-up Martha is Dead, has shared first gameplay of its next project. When Sirens Fall Silent is a psychological serial killer horror and it's coming to PC next year.</p> <p><a href=\"https://www.eurogamer.net/when-sirens-fall-silent-new-gameplay\">Read more</a></p>",
-    "url": "https://www.eurogamer.net/when-sirens-fall-silent-new-gameplay",
+    "title": "Spyro: A Realm Beyond brings the beloved purple dragon back into the spotlight at the Xbox Games showcase",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/Gem_Announce_Screenshot_01.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Prayers have been answered and the coping can end at last. Spyro is back at long last, with Spyro: A Realm Beyond set to release in spring 2027 on the Xbox Series X/S, PS5, PC, and <a href=\"https://www.eurogamer.net/platforms/switch-2\">Nintendo Switch 2</a>.</p> <p><a href=\"https://www.eurogamer.net/spyro-a-realm-beyond-reveal-xbox-showcase\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/spyro-a-realm-beyond-reveal-xbox-showcase",
     "platform": "Eurogamer"
   },
   {
-    "title": "Acclaimed co-op series Trine is returning for a fresh adventure with new and familiar faces, and a heist that goes wrong",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/Trine6_01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>If your life's been lacking a bit of colour lately, have no fear: developer Frozenbyte's acclaimed co-op platforming series <a href=\"https://www.eurogamer.net/games/trine\">Trine</a> is back for a sixth outing, and once again it's the aesthetic equivalent of a Dulux catalogue. It's not too far off release either. Trine 6: Together in Time, in all its kaleidoscopic glory, comes to PlayS",
-    "url": "https://www.eurogamer.net/trine-6-september-playstation-xbox-switch-pc",
+    "title": "Plague Tale prequel Resonance pushes Sophia into the spotlight in its latest trailer, and it's launching this August",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/plague-tale-resonance-header.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Resonance: A Plague Tale Legacy, the third game in developer Asobo's acclaimed historical action-adventure series, is coming to Xbox Series X/S, PlayStation 5, and PC on 27th August.</p> <p><a href=\"https://www.eurogamer.net/plague-tale-resonance-release-date\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/plague-tale-resonance-release-date",
     "platform": "Eurogamer"
   },
   {
-    "title": "Yooka-Laylee is back in a SNES-style kart racer from some of the team behind Diddy Kong Racing",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/super-yooka-laylee-kart-header.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>It's somehow been seven years since <a href=\"https://www.eurogamer.net/games/yooka-laylee\">Yooka-Laylee</a>'s last proper adventure (I'm not sure 2025's remake, as <a href=\"https://www.eurogamer.net/yooka-replaylee-brings-big-improvements-to-the-retro-throwback-but-loses-some-of-its-old-school-charm-along-the-way\">enjoyable as it was</a>, entirely counts), but the",
-    "url": "https://www.eurogamer.net/super-yooka-laylee-kart-announced-playtonic",
+    "title": "Persona 4 Revival launches into an already-stacked February 2027, will be on Xbox Game Pass on Day One",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/P4R-Release_06-07-26.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>It's been a while, but we've finally learned more about <a href=\"https://www.eurogamer.net/games/persona-4\">Persona 4</a> Revival during today's Xbox livestream. Per a new trailer from Atlus, Persona 4 Revival launches on 18th February on PlayStation 5, Xbox Series X/S, and PC. \n</p> <p><a href=\"https://www.eurogamer.net/persona-4-revival-release-date-feburary-2027\">Read mo",
+    "url": "https://www.eurogamer.net/persona-4-revival-release-date-feburary-2027",
     "platform": "Eurogamer"
   },
   {
-    "title": "What we've been playing - \"Have you ever downloaded a game on Steam just to boot it up and delete it five minutes later?\"",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/delete-AdobeStock_274406420.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Bertie and Connor break the rules slightly, but it's okay because Bertie organises What We've Been Playing and Connor regularly contributes to it, so they both get a pass. Elsewhere, believes again that another game has been tailormade for them - I'm b",
-    "url": "https://www.eurogamer.net/what-weve-been-playing-deleted-steam",
+    "title": "Final Fantasy's Tifa Lockhart joins Street Fighter 6 in surprise crossover reveal, but not everyone is happy about it",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/Screenshot-2026-06-07-at-18.26.07.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Final Fantasy's Tifa Lockhart is coming to <a href=\"https://www.eurogamer.net/games/street-fighter-6\">Street Fighter 6</a>.</p> <p><a href=\"https://www.eurogamer.net/street-fighter-6-tifa-tekken\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/street-fighter-6-tifa-tekken",
     "platform": "Eurogamer"
   },
   {
-    "title": "IO Interactive's James Bond game 007 First Light sells 2.7 million copies in its first week, as dev reiterates free Year One content",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/007_371QA3p.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>007 First Light is already racking up some pretty impressive sales figures for <a href=\"https://www.eurogamer.net/companies/io-interactive\">IO Interactive</a>. Today, in a presentation given to the press after <a href=\"https://www.eurogamer.net/summer-game-fest-2026-live-report\">the Summer Game Fest 2026 showcase</a>, IO studio director Hakan Abrak told Eurogamer that the game sold ",
-    "url": "https://www.eurogamer.net/io-interactives-james-bond-game-007-first-light-sells-27-million-copies-in-its-first-week-as-dev-reiterates-free-year-one-content",
+    "title": "Wo Long 2: Wings of Ember makes a scorching debut at the Xbox Games Showcase, set to release in early 2027",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/wo-long-2.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Wo Long 2: Wings of Ember has been revealed at the Xbox Games Showcase. It's releasing in early 2027 for the Xbox Series X/S, PS5, PC, and <a href=\"https://www.eurogamer.net/platforms/switch-2\">Nintendo Switch 2</a>.</p> <p><a href=\"https://www.eurogamer.net/wo-long-2-wings-of-ember-reveal\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-reveal",
     "platform": "Eurogamer"
   },
   {
-    "title": "Day of the Devs 2026 - everything announced in the big Summer Game Fest indie showcase",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/day-of-the-devs-june-2026-header.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Summer Game Fest's glitzy flagship showcase might be over for another year, but that doesn't mean we're done just yet - <a href=\"https://www.eurogamer.net/summer-game-fest-2026-time-where-to-watch\">far from it</a>! There'll be more bluster to come on Sunday when Microsoft shares its wares during the Xbox Games Showcase, for instance (unless its <a href=\"https://",
-    "url": "https://www.eurogamer.net/day-of-the-devs-2026-everything-announced-summer-game-fest-indie-showcase",
+    "title": "State of Decay 3 releases 2027, seven years after it was first announced",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/Image-from-State-of-Decay-3-showing-a-male-character-with-a-crossbow-and-a-backpack.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/state-of-decay-3\">State of Decay 3</a> is due to release next year, across Xbox Series X/S, PlayStation 5 and PC. It will also be coming to Game Pass.</p> <p><a href=\"https://www.eurogamer.net/state-of-decay-3-releases-2027-seven-years-after-it-was-first-announced\">Read m",
+    "url": "https://www.eurogamer.net/state-of-decay-3-releases-2027-seven-years-after-it-was-first-announced",
     "platform": "Eurogamer"
   },
   {
-    "title": "Aion 2's global release date announced at Summer Game Fest",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/aion-2-jpg.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Aion 2 - the sequel to legendary Korean MMORPG Aion - has had its global release date revealed at Summer Game Fest.</p> <p><a href=\"https://www.eurogamer.net/aion-2-global-release-date-announced-at-summer-game-fest\">Read more</a></p>",
-    "url": "https://www.eurogamer.net/aion-2-global-release-date-announced-at-summer-game-fest",
+    "title": "Ninja Theory reveals Hellblade 3, except it's named Senua because it's evolved into something else - a full action-adventure game",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/senua-face-header.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>We're getting a third <a href=\"https://www.eurogamer.net/games/hellblade\">Hellblade</a> game except it's not called Hellblade 3 because it's a different thing to what's come before. Senua, as it's simply known, is a full-fat action-adventure, with more exploration, more puzzles, and deeper combat.</p> <p><a href=\"https://www.eurogamer.net/hellblade-3-senua-announcement-ninja-t",
+    "url": "https://www.eurogamer.net/hellblade-3-senua-announcement-ninja-theory",
     "platform": "Eurogamer"
   },
   {
-    "title": "The Wolf Among Us 2 finally arrives next year, a decade after it was announced, but a remaster of the acclaimed original is coming first",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/wolf-among-us-2-header.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>It's finally happening, apparently. After a protracted and extremely tumultusous decade of development, <a href=\"https://www.eurogamer.net/games/the-wolf-among-us-2\">The Wolf Among Us 2</a> is supposedly now launching next year. And there's a remaster of the much-loved original on the way to tide us over until then.</p> <p><a href=\"https://www.eurogamer.net/the-wolf-among",
-    "url": "https://www.eurogamer.net/the-wolf-among-us-2-finally-arrives-next-year-a-decade-after-it-was-announced-but-a-remaster-of-the-acclaimed-original-is-coming-first",
+    "title": "Metro 2039 goes to war with the underground's Führer in a moody first gameplay trailer, as February 2027 release window confirmed",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/metro-2039-header-2.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Following <a href=\"https://www.eurogamer.net/metro-2039-much-darker-out-this-winter\">Metro 2039's striking cinematic unveiling</a> back in April, developer 4A Games has revealed first proper gameplay of its gritty post-apocalyptic horror shooter, narrowing down its previously announced \"winter\" release date to February next year.</p> <p><a href=\"https://www.eurogamer.net/met",
+    "url": "https://www.eurogamer.net/metro-2039-gameplay-trailer-february-2027-release",
     "platform": "Eurogamer"
   },
   {
-    "title": "Monster Hunter Ascendance is to Wilds what Iceborne was to Monster Hunter World, coming 2027",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/monster-hunter-wilds-ascendance-announced-releasing-2027-v0-arpmn7wnhj5h1.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p><a href=\"https://www.eurogamer.net/monster-hunter-wilds-review\">Monster Hunter Wilds</a>' first expansion, Ascendance, has finally been revealed. In a trailer at Summer Games Fest 2026, Capcom unveiled the future of the game with a massive new expansion called Ascendance.</p> <p><a href=\"https://www.eurogamer.net/monster",
-    "url": "https://www.eurogamer.net/monster-hunter-ascendance-wilds-coming-2027",
+    "title": "Halo: Campaign Evolved arrives in July, and it's still coming to PS5 despite Xbox shake-ups",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/HKOhvpLXwAE-Iry.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>One of the easiest guesses you could've made going into the 2026 summer showcase season was that Xbox would announce the release date for <a href=\"https://www.eurogamer.net/games/halo-campaign-evolved\">Halo: Campaign Evolved</a>. The game, which had been rumoured for about a year, was <a href=\"https://www.eurogamer.net/xbox-mascot-and-long-time-microsoft-exclusive-halo-is-coming",
+    "url": "https://www.eurogamer.net/halo-campaign-evolved-release-date",
     "platform": "Eurogamer"
   },
   {
-    "title": "Maverick Games reveals Clutch, an open-world racer set in the rather gorgeous-looking French Riviera",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/Jane-Perry-in-Clutch.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Clutch - the cinematic, open-world, action-driving game from the team at Maverick Games, and which is being headed up by former <a href=\"https://www.eurogamer.net/games/forza-horizon\">Forza Horizon</a> creative director Mike Brown - just got itself a very slick new trailer at this evening's Summer Game Fest, showing of its rather lovely rendition of Monaco and the French Ri",
-    "url": "https://www.eurogamer.net/maverick-games-reveals-clutch-an-open-world-racer-set-in-the-rather-gorgeous-looking-french-riviera",
+    "title": "Fable gets a moody story trailer at the Xbox Games Showcase, coming to Xbox, PS5, and PC next February",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/fable-evil-guy-fire-1.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Fable has just got a new release date trailer at the Xbox Games Showcase. It'll be releasing on Xbox Series X/S, PS5, and PC on the 23rd February, 2027.\n</p> <p><a href=\"https://www.eurogamer.net/fable-gets-a-moody-release-date-trailer-at-the-xbox-games-showcase-releasing-february-2027\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/fable-gets-a-moody-release-date-trailer-at-the-xbox-games-showcase-releasing-february-2027",
     "platform": "Eurogamer"
   },
   {
-    "title": "Final Fantasy 7 Remake Part 3 is called Revelation, coming to PS5, Xbox and Switch 2 simultaneously Spring 2027",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/revelation_ZdlOhQY.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p><a href=\"https://www.eurogamer.net/companies/square-enix\">Square Enix</a> has finally announced, as part of <a href=\"https://www.eurogamer.net/sony-state-of-play-june-2026-time-where-to-watch\">today's Summer Games Fest showcase</a>, some more information about the third instalment of <a href=\"https://www.eurogamer.net/final-fantasy-7-remake-review-a-faithful-remake-with-a-few",
-    "url": "https://www.eurogamer.net/final-fantasy-7-remake-part-3-is-called-revelation-coming-to-ps5-xbox-and-switch-2-simultaneously",
+    "title": "Gears of War: E-Day reportedly no longer coming to PlayStation 5",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/Gears-of-War-E-Day-screenshot.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p><strong>UPDATE 6.09pm: </strong>And, just when I hit publish, Asha Sharma confirmed that Gears of War: E-Day will be an Xbox console exclusive. It arrives on 6th October, and will be available day one with Game Pass. </p> <p><a href=\"https://www.eurogamer.net/gears-of-war-e-day-release-platform-skipping-ps5-rumour\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/gears-of-war-e-day-release-platform-skipping-ps5-rumour",
     "platform": "Eurogamer"
   },
   {
-    "title": "Stellar Blade Blood Rain takes a big swing with a Summer Game Fest reveal trailer",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/stellar-blade-evie-face-and-glove.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p><a href=\"https://www.eurogamer.net/stellar-blade-guides-tips-tricks-9430\">Stellar Blade</a> Blood Rain has just been revealed at Summer Game Fest, with an action-packed new gameplay trailer.</p> <p><a href=\"https://www.eurogamer.net/stellar-blade-blood-rain-takes-a-big-swing-with-a-summer-game-fest-reveal-trailer\">Read more</a></p>",
-    "url": "https://www.eurogamer.net/stellar-blade-blood-rain-takes-a-big-swing-with-a-summer-game-fest-reveal-trailer",
+    "title": "Surprise! Cult hit Vampire Survivors is getting a new name, Vampire Survivors - First Survivaton, plus a new free expansion pack",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/Screenshot-2026-06-07-at-17.50.34.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Award-winning Vampire Survivors has announced a new expansion pack and a new name: Vampire Survivors - First Survivaton.</p> <p><a href=\"https://www.eurogamer.net/vampire-survivors-new-name-first-survivaton-bloodmoon-dlc\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/vampire-survivors-new-name-first-survivaton-bloodmoon-dlc",
     "platform": "Eurogamer"
   },
   {
-    "title": "Walmart Placeholder Page Lists Gears Of War: E-Day For PS5 [Update]",
-    "summary": "<img alt=\"Marcus Fenix looks back in anger.\" class=\"attachment-full size-full wp-post-image\" height=\"450\" src=\"https://kotaku.com/app/uploads/2026/06/Marcus.jpg\" style=\"height: auto; margin: auto;\" width=\"800\" /><br /><br />The upcoming shooter is at the center of a battle over the future of Xbox exclusivity",
-    "url": "https://kotaku.com/walmart-placeholder-page-lists-gears-of-war-e-day-for-ps5-2000703476",
+    "title": "9 Details From The Final Fantasy 7 Revelation Reveal Trailer We Can’t Stop Thinking About",
+    "summary": "<img alt=\"Cloud and co. appear in the wilderness.\" class=\"attachment-full size-full wp-post-image\" height=\"1068\" src=\"https://kotaku.com/app/uploads/2026/06/ff7.jpg\" style=\"height: auto; margin: auto;\" width=\"1900\" /><br /><br />Has that blink-and-you'll-miss-it Sephiroth and Cloud scene in <i>Final Fantasy 7 Revelation's</i> trailer been edited to remove a spoiler?",
+    "url": "https://kotaku.com/9-details-from-the-final-fantasy-7-revelation-reveal-trailer-we-cant-stop-thinking-about-2000703598",
     "platform": "Kotaku"
   },
   {
-    "title": "Hideo Kojima Says He’s Not Interested In AI: ‘Maybe AI Could Create Art, But While I Live, I Don’t Think I’ll See It’",
-    "summary": "<img alt=\"Hideo Kojima and Nicolas Winding Refn appear in an AI-generated sci-fi scene.\" class=\"attachment-full size-full wp-post-image\" height=\"467\" src=\"https://kotaku.com/app/uploads/2026/06/Kojima-e1780796245334.jpg\" style=\"height: auto; margin: auto;\" width=\"815\" /><br /><br />The Death Stranding 2 director recently appeared in an AI-generated promo for a new art exhibit",
-    "url": "https://kotaku.com/hideo-kojima-says-hes-not-interested-in-ai-maybe-ai-could-create-art-but-while-i-live-i-dont-think-ill-see-it-2000703473",
+    "title": "Everything We Learned From The Gears Of War: E-Day Direct",
+    "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/05_GoW_EDAY_PlaysLikeNew_Final-7ef1be5a3c94e92a7462-1900x1080-1.jpg\" style=\"height: auto; margin: auto;\" width=\"1900\" /><br /><br />The next Gears game is a completely new start for the franchise",
+    "url": "https://kotaku.com/everything-we-learned-from-the-gears-of-war-e-day-direct-2000703747",
     "platform": "Kotaku"
   },
   {
-    "title": "Stellar Blade: Blood Rain’s Reveal Trailer Is Raising Some People’s GenAI Alarm Bells",
-    "summary": "<img alt=\"Stellar Blade Blood Rain Image From Official Trailer Shift Up\" class=\"attachment-full size-full wp-post-image\" height=\"1005\" src=\"https://kotaku.com/app/uploads/2026/06/Stellar-Blade-Blood-Rain-image-from-official-trailer-Shift-Up.jpg\" style=\"height: auto; margin: auto;\" width=\"1786\" /><br /><br />Some believe <i>Stellar Blade: Blood Rain's</i> reveal trailer includes elements that are 'very visibly AI slop'",
-    "url": "https://kotaku.com/stellar-blade-blood-rains-reveal-trailer-is-raising-genai-alarm-bells-for-some-people-2000703444",
+    "title": "Gorgeous Slice-Of-Life Game Vivarium Brings That Old-School Anime Energy",
+    "summary": "<img alt=\"Vivarium\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/vivarium.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />Ah, to live in a tiny terrarium...",
+    "url": "https://kotaku.com/vivarium-game-xbox-life-sim-old-school-anime-energy-2000703752",
     "platform": "Kotaku"
   },
   {
-    "title": "Marathon Players Who Accidentally Bought The Deluxe Upgrade Will Get The Game For Free",
-    "summary": "<img alt=\"A Thief runner holds up a rifle.\" class=\"attachment-full size-full wp-post-image\" height=\"738\" src=\"https://kotaku.com/app/uploads/2026/04/marathon-5.jpg\" style=\"height: auto; margin: auto;\" width=\"1322\" /><br /><br />Bungie is digging out of some unexpected season 2 launch snafus",
-    "url": "https://kotaku.com/marathon-players-who-accidentally-bought-the-deluxe-upgrade-will-get-the-game-for-free-2000703448",
+    "title": "Microsoft Explains Its Reversal On Exclusives: ‘We Want People To Have A Reason To Buy An Xbox’",
+    "summary": "<img alt=\"An Xbox logo appears.\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://kotaku.com/app/uploads/2026/06/xbox.jpg\" style=\"height: auto; margin: auto;\" width=\"1280\" /><br /><br />Some first-party games will never come to PlayStation 5 but lots of others will",
+    "url": "https://kotaku.com/xboxs-strategy-on-exclusives-is-more-confusing-than-ever-2000703739",
     "platform": "Kotaku"
   },
   {
-    "title": "GOG Apologises For Accidentally Emailing Everyone Nazi Symbols",
-    "summary": "<img alt=\"Image From The Library Of Letourneau&#039;s And Northernlion&#039;s Youtube Video The Most Minkus Spray Of All Time\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/Image-from-The-Library-of-Letourneaus-and-Northernlions-YouTube-video-The-most-MINKUS-spray-of-all-time.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />The official X account for the PC storefront apologized for making 'a series of mistakes' in it",
-    "url": "https://kotaku.com/gog-apologises-for-accidentally-emailing-everyone-nazi-symbols-2000703435",
+    "title": "Time-Bending Action-RPG Clockwork Revolution Goes Full Steampunk Heist Mode In New Gameplay Trailer",
+    "summary": "<img alt=\"A woman wearing a feathered costume looks confused.\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/ClockworkRevolution.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />It's releasing in 2027 as an Xbox exclusive",
+    "url": "https://kotaku.com/time-bending-action-rpg-clockwork-revolution-goes-full-steampunk-heist-mode-in-new-gameplay-trailer-2000703702",
     "platform": "Kotaku"
   },
   {
-    "title": "Monster Hunter Wilds Reveals The Elder Dragons Are Coming In A New Expansion And, Surprise, There’s A Switch 2 Port In The Works",
-    "summary": "<img alt=\"A hunter fires a cannon at a monster.\" class=\"attachment-full size-full wp-post-image\" height=\"713\" src=\"https://kotaku.com/app/uploads/2026/06/monster-hunter.jpg\" style=\"height: auto; margin: auto;\" width=\"1268\" /><br /><br />Capcom is all in on supporting Nintendo's latest handheld hybrid",
-    "url": "https://kotaku.com/monster-hunter-wilds-reveals-the-elder-dragons-are-coming-in-a-new-expansion-and-surprise-theres-a-switch-2-port-2000703218",
+    "title": "Why Do You Need Generative AI To Make Crazy Taxi?",
+    "summary": "<img alt=\"Crazy Taxi Soda Cans\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/crazy-taxi-soda-cans.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />Answer: You don't!",
+    "url": "https://kotaku.com/why-do-you-need-generative-ai-to-make-crazy-taxi-2000703713",
     "platform": "Kotaku"
   },
   {
-    "title": "Godzilla Is The Only One Not Afraid Of GTA 6 As Another November Release Date Finally Leaks",
-    "summary": "<img alt=\"Godzilla smashes mech Godzilla.\" class=\"attachment-full size-full wp-post-image\" height=\"540\" src=\"https://kotaku.com/app/uploads/2026/06/godiziall.jpg\" style=\"height: auto; margin: auto;\" width=\"960\" /><br /><br />A cult-favorite GameCube game is reportedly coming back",
-    "url": "https://kotaku.com/godzilla-is-the-only-one-not-afraid-of-gta-6-as-another-november-release-date-finally-leaks-2000703439",
+    "title": "Everything We Saw At Xbox’s 2026 Summer Showcase",
+    "summary": "<img alt=\"Bafkreifu7yjd5vym6vr5p2d2s4tyzidek5w3j2ld6mfbox564a3wvusuau\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/bafkreifu7yjd5vym6vr5p2d2s4tyzidek5w3j2ld6mfbox564a3wvusuau.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />From <i>Gears of War</i> to <i>Fable</i> to <i>Halo</i> and much more, here's everything that was featured at today's big Xbox event",
+    "url": "https://kotaku.com/everything-we-saw-at-xboxs-2026-summer-showcase-2000703605",
     "platform": "Kotaku"
   },
   {
-    "title": "A Beloved Final Fantasy 7 Character Is Getting Rebuilt From The Ground Up For Street Fighter 6",
-    "summary": "<img alt=\"Tifa appears in SF6.\" class=\"attachment-full size-full wp-post-image\" height=\"446\" src=\"https://kotaku.com/app/uploads/2026/06/tifa.jpg\" style=\"height: auto; margin: auto;\" width=\"714\" /><br /><br />Tifa will be coming to Capcom's fighter with her very own magic system",
-    "url": "https://kotaku.com/a-beloved-final-fantasy-7-character-is-getting-rebuilt-from-the-ground-up-for-street-fighter-6-2000703222",
+    "title": "Oh Nice, Spyro Is Back And Looks Great",
+    "summary": "<img alt=\"Image\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/image.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />The next <i>Spyro</i> adventure is coming to consoles and PC next year",
+    "url": "https://kotaku.com/oh-nice-spyro-is-back-and-looks-great-2000703677",
     "platform": "Kotaku"
   },
   {
-    "title": "Fans Are Sad And Confused After Discovering Final Fantasy 7 Revelation Will Change The Actor Who Plays Sephiroth [Update]",
-    "summary": "<img alt=\"A close up shows Sephiroth&#039;s face.\" class=\"attachment-full size-full wp-post-image\" height=\"1068\" src=\"https://kotaku.com/app/uploads/2026/06/FFVII_Revelation_June_Screenshots_19.jpg\" style=\"height: auto; margin: auto;\" width=\"1900\" /><br /><br />Tyler Hoechlin won't be playing the One-Winged Angle for the climactic conclusion",
-    "url": "https://kotaku.com/fans-are-sad-and-confused-after-discovering-final-fantasy-7-revelation-will-change-the-actor-who-plays-sephiroth-2000703224",
+    "title": "Persona 6′s Big Reveal Was…Kind Of A Let-Down",
+    "summary": "<img alt=\"Persona 6 Logo\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://kotaku.com/app/uploads/2026/06/persona-6-logo.jpeg\" style=\"height: auto; margin: auto;\" width=\"1280\" /><br /><br />We got...tombstones and a logo?",
+    "url": "https://kotaku.com/persona-6-finally-officially-revealed-2000703045",
     "platform": "Kotaku"
   },
   {
-    "title": "Everything We Saw At Summer Game Fest 2026",
-    "summary": "<img alt=\"Image (65)\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://kotaku.com/app/uploads/2026/06/image-65.jpg\" style=\"height: auto; margin: auto;\" width=\"1200\" /><br /><br />It's time for another onslaught of World Premieres",
-    "url": "https://kotaku.com/everything-we-saw-at-summer-game-fest-2026-2000703088",
+    "title": "New Hellblade Game Simply Titled Senua And Will Be Out Next Year",
+    "summary": "<img alt=\"Senua Screenshot 05 8f0460a7413220bbe06e 1900x1080\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/Senua_Screenshot_05-8f0460a7413220bbe06e-1900x1080-1.jpg\" style=\"height: auto; margin: auto;\" width=\"1900\" /><br /><br />The developers at Ninja Theory have dropped the <i>Hellblade</i> moniker for the game's third entry",
+    "url": "https://kotaku.com/new-hellblade-game-simply-titled-senua-and-will-be-out-next-year-2000703672",
     "platform": "Kotaku"
   },
   {
-    "title": "Stellar Blade Is Back With A New Game But The Same Jiggle",
-    "summary": "<img alt=\"A screenshot from Stellar Blade: Blood Rain.\" class=\"attachment-full size-full wp-post-image\" height=\"902\" src=\"https://kotaku.com/app/uploads/2026/06/Stellar-Blade-Summer-Game-Fest.jpg\" style=\"height: auto; margin: auto;\" width=\"1600\" /><br /><br />After trying for several minutes to guess what game this was, it became very obvious very quickly.",
-    "url": "https://kotaku.com/stellar-blade-is-back-with-a-new-game-but-the-same-jiggle-2000703186",
+    "title": "There’s A Translucent Green Xbox Series X That Looks So Awesome I Don’t Want To Know The Price",
+    "summary": "<img alt=\"Xbox Wireless Controller X25 Special Edition appears in a bedroom.\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/XBOX-Wireless-Controller-X25-Special-Edition_1-d75d6cc00415223ed301.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />The limited edition console is a tribute to Xbox's 25th anniversary",
+    "url": "https://kotaku.com/theres-a-translucent-green-xbox-series-x-that-looks-so-awesome-i-dont-want-to-know-the-price-2000703669",
     "platform": "Kotaku"
   },
   {
-    "title": "Final Fantasy 7 Remake: Part 3 Is Officially Titled Revelation, Coming Next Spring",
-    "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/seproth.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />Time for the reunion",
-    "url": "https://kotaku.com/final-fantasy-7-remake-part-3-is-officially-titled-revelation-2000703021",
+    "title": "Persona 4 Revival Doesn’t Seem To Have That Much Life To It",
+    "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2025/05/94ae0b526db97620b82a3b7227812ca5.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />The Xbox showcase finally revealed a release date for <i>Persona 4 Revival</i> but not much else",
+    "url": "https://kotaku.com/persona-4-remake-coming-in-february-2000703641",
     "platform": "Kotaku"
   },
   {
-    "title": "Wolf Among Us 2 Is Actually Coming Out Next Year, Plus A Remaster Of The First Game Arrives Soon",
-    "summary": "<img alt=\"Twitch Video Player 1h43m18s\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://kotaku.com/app/uploads/2026/06/Twitch-video-player-1h43m18s.jpg\" style=\"height: auto; margin: auto;\" width=\"1280\" /><br /><br />Telltale and WB are teaming up to finally release the long-awaited sequel",
-    "url": "https://kotaku.com/wolf-among-us-2-is-actually-coming-out-next-year-plus-a-remaster-of-the-first-game-arrives-soon-2000703184",
+    "title": "Crazy Taxi Is Officially Back, And It’s Going On A World Tour",
+    "summary": "<img alt=\"Crazy Taxi\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://kotaku.com/app/uploads/2026/06/Crazy-Taxi.jpeg\" style=\"height: auto; margin: auto;\" width=\"1280\" /><br /><br />Yeah yeah yeah yeah yeah",
+    "url": "https://kotaku.com/crazy-taxi-officially-back-world-tour-2000703032",
     "platform": "Kotaku"
   },
   {
-    "title": "That Upcoming Star Wars XCOM-Like Game Will Feature Anakin Skywalker",
-    "summary": "<img alt=\"Anakinstarwars\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/anakinstarwars.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />You can now pre-order <i>Star Wars Zero Company</i> for consoles and PC",
-    "url": "https://kotaku.com/that-upcoming-star-wars-xcom-like-game-will-feature-anakin-skywalker-2000703166",
+    "title": "Here’s Two Minutes Of What Halo: Campaign Evolved’s Unreal Engine 5 Makeover Looks Like And The Release Date",
+    "summary": "<img alt=\"Master Chief stands in a shuttle.\" class=\"attachment-full size-full wp-post-image\" height=\"540\" src=\"https://kotaku.com/app/uploads/2026/06/Master-Chief-2.jpg\" style=\"height: auto; margin: auto;\" width=\"992\" /><br /><br />Master Chief is playing all the hits",
+    "url": "https://kotaku.com/heres-two-minutes-of-what-halo-campaign-evolveds-unreal-engine-5-makeover-looks-like-and-the-release-date-2000703650",
     "platform": "Kotaku"
   },
   {
-    "title": "Paramount’s Among Us Series Is Out Today, But Don’t Call An Emergency Meeting To Watch It",
-    "summary": "<img alt=\"Pr Horz 16x9 3840x2160\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/PR_Horz_16x9_3840x2160.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />Check out the new standalone story game instead",
-    "url": "https://kotaku.com/paramount-among-us-series-out-today-2000702494",
+    "title": "Xbox Finally Shows Gameplay Of Long-Delayed State Of Decay 3",
+    "summary": "<img alt=\"Summer Game Fest Xbox Games Showcase 2026 (4k60fps) Live Now! (3)\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://kotaku.com/app/uploads/2026/06/SUMMER-GAME-FEST_-XBOX-Games-Showcase-2026-4K60FPS-Live-Now-3.jpeg\" style=\"height: auto; margin: auto;\" width=\"1280\" /><br /><br />First announced over 5 years ago, the open-world zombie game finally seems real",
+    "url": "https://kotaku.com/xbox-finally-shows-gameplay-of-long-delayed-state-of-decay-3-2000703639",
     "platform": "Kotaku"
   },
   {
-    "title": "It’s Finally Time For Guild Wars 3",
-    "summary": "<img alt=\"Guildwars\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/guildwars.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />And on console for the first time",
-    "url": "https://kotaku.com/its-finally-time-for-guild-wars-3-2000703153",
+    "title": "The Notorious Jack Of Blades Returns To Fable in February",
+    "summary": "<img alt=\"Fblelblads\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/Fblelblads.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />Out of the void again",
+    "url": "https://kotaku.com/the-notorious-jack-of-blades-returns-to-fable-in-february-2000703620",
     "platform": "Kotaku"
   },
   {
-    "title": "This New Gundam Game Looks So Cool I Almost Thought It Was Armored Core",
-    "summary": "<img alt=\"A Gundam is on fire.\" class=\"attachment-full size-full wp-post-image\" height=\"456\" src=\"https://kotaku.com/app/uploads/2026/06/Twitch-video-player-40m42s-e1780695550861.jpg\" style=\"height: auto; margin: auto;\" width=\"821\" /><br /><br /><i>Gundam Rogue Orbit</i> is coming next year",
-    "url": "https://kotaku.com/this-new-gundam-game-looks-so-cool-i-almost-thought-it-was-armored-core-2000703141",
+    "title": "Xbox Confirms Gears Of War: E-Day Will Stay Exclusive And Not Come To PlayStation 5",
+    "summary": "<img alt=\"Dom and Marcus can&#039;t believe it.\" class=\"attachment-full size-full wp-post-image\" height=\"1311\" src=\"https://kotaku.com/app/uploads/2024/06/70dea0d5f7605de511031beb3e8faf35.jpg\" style=\"height: auto; margin: auto;\" width=\"2329\" /><br /><br />The first-party shooter has become a litmus test for new CEO Asha Sharma's vision for the platform",
+    "url": "https://kotaku.com/xbox-confirms-gears-of-war-e-day-will-stay-exclusive-and-not-come-to-playstation-5-2000703617",
     "platform": "Kotaku"
   },
   {
-    "title": "This New Game Wants To Change Cover Shooters Forever",
-    "summary": "<img alt=\"Twitch Video Player 44m32s\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://kotaku.com/app/uploads/2026/06/Twitch-video-player-44m32s.jpg\" style=\"height: auto; margin: auto;\" width=\"1280\" /><br /><br /><i>Crossfire</i>'s adaptive cover system is amazing and could be a real game changer for the genre",
-    "url": "https://kotaku.com/this-new-game-wants-to-change-cover-shooters-forever-2000702568",
+    "title": "Gears Of War E-Day Gameplay Shows Off The Chaotic Moment Locust Arrived",
+    "summary": "<img alt=\"Summer Game Fest Xbox Games Showcase 2026 (4k60fps) Live Now! 54m46s\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://kotaku.com/app/uploads/2026/06/SUMMER-GAME-FEST-XBOX-Games-Showcase-2026-4K60FPS-Live-Now-54m46s.jpg\" style=\"height: auto; margin: auto;\" width=\"1280\" /><br /><br />The <i>Gears of War</i> prequel shows Marcus Fenix in normal clothes",
+    "url": "https://kotaku.com/gears-of-war-e-day-gameplay-shows-off-the-chaotic-day-locust-arrived-2000703612",
     "platform": "Kotaku"
   },
   {
-    "title": "Yakuza Studio’s Next Big Game Will Revive Tupac Digitally, For Some Reason",
-    "summary": "<img alt=\"Tupac Shakur in Stranger Than Heaven\" class=\"attachment-full size-full wp-post-image\" height=\"899\" src=\"https://kotaku.com/app/uploads/2026/06/image-3-1.jpg\" style=\"height: auto; margin: auto;\" width=\"1816\" /><br /><br /><i>Stranger than Heaven</i> will feature the digital zombie of Tupac Shakur.",
-    "url": "https://kotaku.com/yakuza-studios-next-big-game-will-revive-tupac-digitally-for-some-reason-2000703097",
+    "title": "Watch Xbox’s Biggest Summer Gaming Showcase In Years Right Right Here",
+    "summary": "<img alt=\"Master Chief holds an energy weapon.\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/02/steam-deck-1.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />The future of the platform's exclusivity is on the line",
+    "url": "https://kotaku.com/watch-xboxs-biggest-summer-gaming-showcase-in-years-right-right-here-2000703604",
     "platform": "Kotaku"
   },
   {
-    "title": "Gen Atlas Is The New Name For Ico Creator Fumito Ueda’s Project Robot",
-    "summary": "<img alt=\"Atlas\" class=\"attachment-full size-full wp-post-image\" height=\"805\" src=\"https://kotaku.com/app/uploads/2026/06/atlas.jpg\" style=\"height: auto; margin: auto;\" width=\"1432\" /><br /><br />The man behind <i>Shadow of the Colossus</i> and <i>The Last Guardian</i> is back with his first game in a decade",
-    "url": "https://kotaku.com/gen-atlas-project-robot-fumito-ueda-ico-summer-game-fest-2000703112",
+    "title": "Ro Laren Stars In Star Trek Horror Game From Silent Hill Remake Makers",
+    "summary": "<img alt=\"Startrekshadow\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/06/startrekshadow.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />Shortly after debuting their <i>Saw</i> adaptation, the Polish horror studio announced they will be putting a hot-headed Bajoran through the wringer as well",
+    "url": "https://kotaku.com/ro-laren-stars-in-star-trek-horror-game-from-silent-hill-remake-makers-2000703593",
     "platform": "Kotaku"
+  },
+  {
+    "title": "First look: The Galaxy S26 FE just popped up with a real-world image",
+    "summary": "Galaxy S26 FE has a new camera bump.",
+    "url": "https://www.androidauthority.com/galaxy-s26-fe-wpc-image-3675280/",
+    "platform": "Android Authority"
+  },
+  {
+    "title": "How I use Google Photos’ editing tools to make my pictures pop without looking fake",
+    "summary": "There is a fine line between dramatic and tasteful edits.",
+    "url": "https://www.androidauthority.com/google-photos-editing-tips-3674037/",
+    "platform": "Android Authority"
+  },
+  {
+    "title": "7 photo gallery apps you should use instead of Samsung Gallery",
+    "summary": "There's no direct replacement for Samsung Gallery, but one of the options below might end up scratching a similar itch.",
+    "url": "https://www.androidauthority.com/samsung-gallery-apps-3673569/",
+    "platform": "Android Authority"
+  },
+  {
+    "title": "I’m a sucker for clean UI — these are the 9 best-looking Android apps I’m using in 2026",
+    "summary": "Form triumphs function here, but these apps still pack plenty of the latter.",
+    "url": "https://www.androidauthority.com/best-looking-android-app-designs-2026-3673845/",
+    "platform": "Android Authority"
+  },
+  {
+    "title": "I spent years investing into Google’s ecosystem — and now I’m regretting it",
+    "summary": "Google's changed, but it already has all my data.",
+    "url": "https://www.androidauthority.com/stuck-in-google-3673636/",
+    "platform": "Android Authority"
+  },
+  {
+    "title": "I test 40 phones every year. This $500 BlackBerry lookalike is one of my favorites",
+    "summary": "Keyboards are back, and I'm here for it.",
+    "url": "https://www.androidauthority.com/unihertz-titan-2-elite-hands-on-3673626/",
+    "platform": "Android Authority"
+  },
+  {
+    "title": "I finally ditched my Google TV for the Apple TV — and I couldn’t be happier",
+    "summary": "From intrusive ads to sluggish menus, here’s why Apple TV 4K became my favorite living room upgrade.",
+    "url": "https://www.androidauthority.com/ditching-google-tv-for-apple-tv-best-decision-why-3673444/",
+    "platform": "Android Authority"
+  },
+  {
+    "title": "I like Pixel phones, but these 5 features are why I stick with Samsung",
+    "summary": "Google still has catching up to do.",
+    "url": "https://www.androidauthority.com/samsung-galaxy-vs-google-pixel-opinion-3673822/",
+    "platform": "Android Authority"
   },
   {
     "title": "Google TV’s screensaver is nice, but where oh where is my native Photos app?",
@@ -1062,52 +1110,16 @@
     "platform": "Android Authority"
   },
   {
-    "title": "Google denies plans to make AI Mode Chrome’s default for search",
-    "summary": "We won't be forced into AI Mode on Chrome — at least, not anytime soon.",
-    "url": "https://www.androidauthority.com/google-denies-ai-mode-chrome-3675152/",
-    "platform": "Android Authority"
+    "title": "The smartphone with a giant 8,500-mAh battery and a light show - Xiaomi Poco X8 Pro Max review",
+    "summary": "A huge deal? | The Poco X8 Pro Max sets new standards in the mid-range segment with its Dimensity 9500s, 8,500-mAh battery, and 100-watt fast charging. A bright 6.83-inch AMOLED display, IP68 protection, and an ultrasonic fingerprint sensor round out the phone's total package. Meanwhile, weaknesses are present in its camera and software. Our in-depth review will determine whether the Poco X8 Pro Max truly lives up to its \"Pro Max\" title.",
+    "url": "https://www.notebookcheck.net/The-smartphone-with-a-giant-8-500-mAh-battery-and-a-light-show-Xiaomi-Poco-X8-Pro-Max-review.1316214.0.html",
+    "platform": "Notebook Check"
   },
   {
-    "title": "GameHub’s ‘biggest update’ yet cuts its size in half and adds major Steam and EA upgrades",
-    "summary": "GameHub's latest update is one you don't want to skip.",
-    "url": "https://www.androidauthority.com/gamehub-606-update-availabe-3675131/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Google Photos is working to streamline copying and pasting images into other apps",
-    "summary": "Photos is developing a new \"Copy photo\" button that skips the share sheet.",
-    "url": "https://www.androidauthority.com/google-photos-copy-3675093/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Valve quietly announces Steam Machine release window",
-    "summary": "There's still no word on pricing.",
-    "url": "https://www.androidauthority.com/valve-steam-machine-release-window-3675116/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Samsung’s next Galaxy Watches just cleared a major hurdle — but there’s a catch",
-    "summary": "Regulatory filings confirm both the Galaxy Watch 9 and Watch Ultra 2 stick with the same 10W charging speeds.",
-    "url": "https://www.androidauthority.com/galaxy-watch-9-watch-ultra-2-regulatory-listings-3675126/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Chrome is now ‘faster than ever,’ and Google wrote a technical love letter to prove it",
-    "summary": "Google lays out the engineering behind Chrome's recent performance boost.",
-    "url": "https://www.androidauthority.com/google-chrome-faster-than-ever-benchmarks-3674956/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Mysterious new Philips Hue icons could hint at plans to take on Nanoleaf",
-    "summary": "Philips Hue may have accidentally revealed two new upcoming products.",
-    "url": "https://www.androidauthority.com/philips-hue-mysterious-icons-3675084/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "T-Mobile’s most affordable 5G home internet plan just got worse",
-    "summary": "Also: more expensive.",
-    "url": "https://www.androidauthority.com/t-mobile-5g-home-internet-speed-cap-3675049/",
-    "platform": "Android Authority"
+    "title": "Temporal Melo-D AI guitar review: Rethinking musical composition",
+    "summary": "Lets users play music like a game. | The Tempolar Melo-D is a stringless, foldable smart instrument that utilizes AI to simplify the songwriting process. While AI may alienate traditionalists, its extensive sound library makes it possible to quickly bring musical ideas to life.",
+    "url": "https://www.notebookcheck.net/Tempolar-Melo-D-hands-on-Looks-like-a-guitar-plays-like-an-abstraction.1316610.0.html",
+    "platform": "Notebook Check"
   },
   {
     "title": "ZimaCube 2 review: This home server is more than just a NAS – a self-hosting powerhouse",
@@ -1118,7 +1130,7 @@
   {
     "title": "Keychron K3 HE review: Semi-affordable low profile magnetic keyboard punches way above its weight class",
     "summary": "Great for gaming, not an office embarrassment. | The Keychron K3 HE is a low-profile, wireless, Hall-effect gaming keyboard that comes in at an affordable price and delivers all the fancy analogue input features and customisation that gamers want. Further, the K3 HE is plenty portable and looks just as good at a professional workstation as it does next to an RTX 5090 gaming PC.",
-    "url": "https://www.notebookcheck.net/Keychron-K3-HE-review-Low-profile-magnetic-keyboard-punches-way-above-its-weight-class.1274872.0.html",
+    "url": "https://www.notebookcheck.net/Keychron-K3-HE-review-Low-profile-magnetic-keyboard-punches-well-above-its-weight-class.1274872.0.html",
     "platform": "Notebook Check"
   },
   {
@@ -1218,16 +1230,82 @@
     "platform": "Notebook Check"
   },
   {
-    "title": "Razer Blade 16 review: Intel Core Ultra delivers faster frame rates",
-    "summary": "Intel Panther Lake over AMD Zen 5. | The previously AMD-exclusive Razer Blade 16 can now be configured with Intel CPUs and the differences are quite noticeable — often for the better. However, be prepared to pay even more for all the upgrades.",
-    "url": "https://www.notebookcheck.net/Razer-Blade-16-review-Intel-Core-Ultra-delivers-faster-frame-rates.1303661.0.html",
-    "platform": "Notebook Check"
+    "title": "Anycubic Photon Mono 4 dips below $190 saving you 21% off its retail price — Amazon deal saves $50 on this entry-level resin 3D printer",
+    "summary": "The Anycubic Photon Mono 4 is on-sale at $189.99, giving you a $50 discount and saving you 21% off its retail price.",
+    "url": "https://www.tomshardware.com/pc-components/anycubic-photon-mono-4-dips-below-usd190-saving-you-21-percent-off-its-retail-price-amazon-deal-saves-usd50-on-this-entry-level-resin-3d-printer",
+    "platform": "Tom’s Hardware"
   },
   {
-    "title": "Is big, lasts forever - Amazfit T-Rex Ultra 2 in the test",
-    "summary": "The rubble. | With Amazfit, T-Rex stands for particularly robust watches - also in terms of appearance. The T-Rex Ultra 2 offers even more of everything: more size, more titanium, more battery life. We tested the smartwatch in everyday life and during sports.",
-    "url": "https://www.notebookcheck.net/Suitable-for-expeditions-Amazfit-T-Rex-Ultra-2-smartwatch-in-test.1308068.0.html",
-    "platform": "Notebook Check"
+    "title": "MSI, Gigabyte debut new 5K 27-inch Mini-LED monitors with 2,304 dimming zones and glossy panel — both models double the native 180 Hz refresh rate to 330 Hz at 1440p",
+    "summary": "New Mini-LED monitors from MSI and Gigabyte featuring 5K panels with 2,304 dimming zones and glossy coatings have just been announced. These feature dual- and even triple-mode support, along with full-fat DP 2.1 80 Gbps ports and high peak brightness numbers for HDR. They're also color-accurate enough for professional work.",
+    "url": "https://www.tomshardware.com/monitors/msi-gigabyte-debut-new-5k-27-inch-mini-led-monitors-with-2-304-dimming-zones-and-glossy-panel-both-models-double-the-native-180-hz-refresh-rate-to-330-hz-at-1440p",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Ukraine’s birds adapt to battlefield environment, weaving nests out of drone fiber-optic cables — resourceful wildlife adapts to miles of littered drone fibers",
+    "summary": "Birds in Donbas have been discovered feathering their nests with optical fiber.",
+    "url": "https://www.tomshardware.com/networking/ukraines-birds-adapt-to-battlefield-environment-weaving-optical-fiber-nests-for-warmth-canny-feathered-friends-repurpose-scraps-of-this-spun-off-insulator-material",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "AMD's RDNA 5 gaming GPUs are coming late next year, according to AIBs at Computex — manufacturers expect new Team Red cards in the second half of 2027 alongside Nvidia",
+    "summary": "AIB partners for AMD at the Computex 2026 show floor have said they expect next-gen RDNA 5 gaming GPUs to land sometime in the second half of 2027, or maybe even in early 2028. That launch schedule lines up closely with Nvidia's RTX 60 series, which is also expected in late 2027 based on current rumors.",
+    "url": "https://www.tomshardware.com/pc-components/gpus/amds-rdna-5-gaming-gpus-are-coming-late-next-year-according-to-aibs-at-computex-manufacturers-expect-new-team-red-cards-in-the-second-half-of-2027-alongside-nvidia",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "ASML becomes Europe's most valuable company ever as analysts bet on higher EUV output — its market cap hit $674 billion this week",
+    "summary": "ASML closed Wednesday, June 3rd, as the most valuable company in European history, reaching a market cap of $668 billion.",
+    "url": "https://www.tomshardware.com/tech-industry/asml-beocmes-europes-most-valuable-company-ever-as-analysts-bet-on-higher-euv-output",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Google signs $920M monthly compute deal with SpaceX — company’s projected annual data center revenue to exceed its combined proceeds from Starlink, launch services, and AI in 2025",
+    "summary": "Google's $920-million-a-month deal with SpaceX will let it secure 110,000 Nvidia GPUs starting October 2026. This is the second data center deal that SpaceX has secured in a matter of weeks, especially as it's quickly approaching its IPO on June 12, 2026.",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-signs-usd920m-monthly-compute-deal-with-spacex-companys-projected-annual-data-center-revenue-to-exceed-its-combined-proceeds-from-starlink-launch-services-and-ai-in-2025",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "RetroPad is a ‘full-feature-parity version of Notepad from XP’ in just 2,749 bytes — x86 assembly coded apps comes from Windows legend Dave W Plummer",
+    "summary": "A 'full-feature-parity version of Notepad' has been written in x86 assembly and it weighs in at under 3KB.",
+    "url": "https://www.tomshardware.com/software/windows/retropad-is-a-full-feature-parity-version-of-notepad-from-xp-in-just-2-749-bytes-x86-assembly-coded-apps-comes-from-windows-legend-dave-w-plummer",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Russia’s new ‘Starlink‑Style’ Rassvet fleet loses its first satellite after weeks — Object 4 drops out of orbit but 15 others remain",
+    "summary": "Object 4, one of 16 satellites in the first operational batch of Russia's Rassvet broadband network, re-entered Earth's atmosphere on approximately June 6th.",
+    "url": "https://www.tomshardware.com/tech-industry/russias-rassvet-constellation-loses-its-first-satellite-to-orbital-decay",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95 — proves 2007 phones can just about match 1998 PCs",
+    "summary": "Argentine developer Dante Leoncini has gotten the original Half-Life running at 30 FPS on a Nokia N95, the Symbian slider phone that launched in 2007.",
+    "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Elegoo Jupiter 2 Resin 3D Printer review: The giant returns for round two",
+    "summary": "Elegoo’s Jupiter 2 is a resin powerhouse with a large print area and 16K high-quality 3D printing at a reasonable price.",
+    "url": "https://www.tomshardware.com/3d-printing/elegoo-jupiter-2-resin-3d-printer-review",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "AMD reaches almost 45% CPU share in the latest Steam Hardware Survey for Windows gaming PCs — Ryzen is steadily gaining ground against Intel's legacy domination",
+    "summary": "The latest Steam Hardware Survey is out and it's showing positive signs of growth for AMD, while Intel is unfortunately on a decline. The Red Team posted its best-ever CPU market share numbers in May 2026 with 45% of all CPUs on Windows being from AMD, while Intel is down to 55%, which is still more for now.",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-reaches-almost-45-percent-cpu-share-in-the-latest-steam-hardware-survey-for-windows-gaming-pcs-ryzen-is-steadily-gaining-ground-against-intels-legacy-domination",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Ludicrous overclock slams 1.7 volts into 6700K in an attempt to stop CPU from bottlenecking an RTX 3080 — 5.2 GHz on aging four-core pushes GPU utilization from 60% to 74%",
+    "summary": "YouTuber challenges himself to alleviate a CPU bottleneck with a Core i7-6700K paired with an RTX 3080 through overclocking.",
+    "url": "https://www.tomshardware.com/pc-components/cpus/youtube-slams-1-7-volts-into-6700k-in-an-attempt-to-stop-the-cpu-from-bottlenecking-an-rtx-3080-pushes-gpu-utilization-from-60-percent-to-74-percent",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Intel adds iGPU-less mobile chips to Core 200H lineup — Raptor Lake-based Core 7 230H and Core 5 205H sport disabled graphics for small form factor desktop boards",
+    "summary": "Intel introduces two new Raptor Lake CPUs in its Core 200H series lineup featuring disabled integrated graphics chips. The new CPUs are likely geared towards SFF desktops rather than laptops and 2-in-1 devices.",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-adds-igpu-less-mobile-chips-to-core-200h-lineup-raptor-lake-based-core-7-230h-and-core-5-205h-sport-disabled-graphics-for-small-form-factor-desktop-boards",
+    "platform": "Tom’s Hardware"
   },
   {
     "title": "AMD B650 expansion cards hit retail starting at $199 — add four M.2 PCIe 4.0 slots and 11 USB ports to any PC with a PCIe slot",
@@ -1272,202 +1350,142 @@
     "platform": "Tom’s Hardware"
   },
   {
-    "title": "Lexar regional manager says that RAM prices are expected to double by the end of the year — 'discounts' and stabilized prices result from distributors getting rid of old stock or sourcing products from other regions",
-    "summary": "Industry insiders say that RAM prices will continue to go up in the next eight to nine months, as the memory chip crisis goes from bad to worse. While retailers make moves to temporarily reduce prices, these will eventually run out, so if you need to buy RAM, you should buy it now.",
-    "url": "https://www.tomshardware.com/pc-components/ram/lexar-regional-manager-says-that-ram-prices-are-expected-to-double-by-the-end-of-the-year-discounts-and-stabilized-prices-result-from-distributors-getting-rid-of-old-stock-or-sourcing-products-from-other-regions",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Taiwanese startup FormulaV Line wants to break into US market with two new unique cases — company expects products to become available on Newegg later this year",
-    "summary": "Taiwanese startup FormulaV Line wants to break into the U.S. market with these two new and unique cases. It also showed off a plethora of other components, including PSUs, cooling solutions, and even a gaming chair on the showfloor at Computex 2026.",
-    "url": "https://www.tomshardware.com/pc-components/pc-cases/taiwanese-startup-formulav-line-wants-to-break-into-us-market-with-two-new-unique-cases-company-expects-products-to-become-available-on-newegg-later-this-year",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "G.Skill explains how AMD EXPO ULL unlocks additional performance — expanded profiles allow memory makers to include subtiming tweaks for the first time",
-    "summary": "AMD's EXPO Ultra Low Latency program, announced at Computex 2026, aims to give users a one-click route to lower memory latencies than its existing EXPO profiles",
-    "url": "https://www.tomshardware.com/pc-components/ram/g-skill-explains-how-amd-expo-ull-unlocks-additional-performance-expanded-profiles-allow-memory-makers-to-include-subtiming-tweaks-for-the-first-time",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Huawei-led team claims it post-trained DeepSeek's 1.6-trillion-parameter model — 1,000 Ascend 910C chips used in training",
-    "summary": "A research group that includes Huawei Technologies says it completed full-parameter post-training of DeepSeek's V4-Pro, a 1.6-trillion-parameter model.",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Unreleased RTX 3050 Ti engineering sample appears in photos and benchmarks — the RTX 3060 alternative that never happened",
-    "summary": "Hardware leaker shares photographs and benchmarks for Nvidia's GeForce RTX 3050 Ti desktop graphics card that was never released.",
-    "url": "https://www.tomshardware.com/pc-components/gpus/unreleased-rtx-3050-ti-engineering-sample-appears-in-photos-and-benchmarks-the-rtx-3060-alternative-that-never-happened",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Finland deploys new system to detect threats to undersea cables — distributed acoustic sensors measure vibrations from the seabed and informs the authorities and operators of suspicious activities",
-    "summary": "Finnish companies and academic institutions, alongside the Finnish Navy and Border Guards, worked together to develop a system that used existing undersea cables to detect potential disturbances on the seabed. This system would allow the authorities to respond to any detected anomaly, potentially preventing critical undersea infrastructure from getting damaged.",
-    "url": "https://www.tomshardware.com/tech-industry/finland-deploys-new-system-to-detect-threats-to-undersea-cables-distributed-acoustic-sensors-measure-vibrations-from-the-seabed-and-informs-the-authorities-and-operators-of-suspicious-activities",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Retro gaming enthusiast attempts loading games to Sega Genesis from a vinyl record player, recording game data as sound — Mega EverDrive Pro and Pi Pico 2 board not enough to overcome limitations of the turntable",
-    "summary": "A quirky tech enthusiast attempted to load Sega Genesis console games through a vinyl record player.",
-    "url": "https://www.tomshardware.com/video-games/retro-gaming/retro-gaming-enthusiast-attempts-loading-games-to-sega-genesis-from-a-vinyl-record-player-recording-game-data-as-sound-mega-everdrive-pro-and-pi-pico-2-board-not-enough-to-overcome-limitations-of-the-turntable",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "NSA using Claude Mythos for 'offensive cyber operations,' report claims — says 'half-a-dozen' Anthropic engineers embedded inside the agency",
-    "summary": "US National Security Agency reportedly using Mythos for conducting cyber-attacks — report reveals Anthropic engineers inside the NSA",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nsa-using-clause-mythos-for-offensive-cyber-operations-report-claims-says-half-a-dozen-anthropic-engineers-embedded-inside-the-agency",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Aoostar mini-PCs bring elite Ryzen power in a tiny footprint for under $400",
-    "summary": "Aoostar's Maco, G-Flip, and Gem12 Max mini-PCs go on sale for a limited time on AliExpress with free shipping from a local U.S. warehouse.",
-    "url": "https://www.tomshardware.com/desktops/mini-pcs/aoostar-mini-pcs-bring-elite-ryzen-power-in-a-tiny-footprint-for-under-usd400",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Intel will reportedly upgrade its Wildcat Lake refresh to an 8-core config next year, leak claims — top-end silicon tipped to feature 4 P-cores and 4 LP-E cores as part of 'Core 400' series",
-    "summary": "Intel's Wildcat Lake refresh that's supposedly debuting next year will shift focus to a more upmarket audience, only refreshing its Core 5 and Core 7 tiers. The new silicon at the top-end would feature 8 cores, up from 6 cores on Wildcat Lake right now, with the 4 P-cores and 4 LP-E cores. The Core 3 parts are claimed to remain unchanged.",
-    "url": "https://www.tomshardware.com/pc-components/cpus/intel-will-reportedly-upgrade-its-wildcat-lake-refresh-to-an-8-core-config-next-year-leak-claims-top-end-silicon-tipped-to-feature-4-p-cores-and-4-lp-e-cores-as-part-of-core-400-series",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Acer MA200 1TB SSD Review: Good enough, and that’s the point",
-    "summary": "The Acer MA200 is a competent M.2 2230 NVMe SSD with reasonably good performance and power-efficiency, even if it’s not the fastest drive out there.",
-    "url": "https://www.tomshardware.com/pc-components/ssds/acer-ma200-1tb-ssd-review",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Seattle to pass one-year AI data center moratorium next week — will use window to study community impact of AI buildouts",
-    "summary": "Two Seattle city council committees have passed a one-year moratorium and a resolution on data centers. The measures are still up for a vote in the full council, but many consider that simply as a formality.",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/seattle-to-pass-one-year-ai-data-center-moratorium-next-week-will-use-window-to-study-community-impact-of-ai-buildouts",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Nvidia is reportedly still planning fabled RTX 50 Super series for 2026, leak claims — lineup could now include a potential 'RTX 5060 Super' with 12GB of VRAM",
-    "summary": "For almost a year, the RTX 50 Super series has been part of the rumor mill, but with the AI boom snatching production lines, causing memory prices to skyrocket, hype for the lineup had died down. Now, a potential RTX 5060 Super with 12GB of VRAM is apparently in the works, with the 50 Super series as a whole allegedly getting \"back on track.\"",
-    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-is-reportedly-still-planning-fabled-rtx-50-super-series-for-2026-leak-claims-lineup-could-now-include-a-potential-rtx-5060-super-with-12gb-of-vram",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "问界汽车再谈浙江台州 M9 事故，华为巨鲸电池平台安全设计细节公布",
-    "summary": "<p>IT之家 6 月 7 日消息，鸿蒙智行问界汽车官方昨日发布问界 M9 答网友问，再次谈及了浙江台州发生的事故。</p><blockquote><p>经现场确认，事故为车辆行驶过程中，撞击前车掉落的大块金属部件，造成强物理冲击并持续拖行一段时间后导致起火，目前火已扑灭，未造成人员伤亡。事发前车辆三电系统状态正常，未见车辆其它自身异常，事故非车辆自身原因导致。</p></blockquote><p>问界汽车官方顺势介绍了华为巨鲸电池安全设计。据称，问界 M9 标配华为巨鲸电池平台，采用材料本征安全 + 电芯正置架构设计，<strong>电芯间隙填充航空级气凝胶，并配备耐高温云母板、纳米级陶瓷绝热层等</strong>，拥有 15 层系统化安全防护。问界官方表示，即使遇到此类极端场景，部分电芯出现损毁，依然可以有效阻止燃烧蔓延。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/5d082285-3452-466f-91",
-    "url": "https://www.ithome.com/0/961/059.htm",
+    "title": "别克昂科威达成 200 万辆整车下线里程碑，并推出全新车色“远山黛”",
+    "summary": "<p>IT之家 6 月 8 日消息，今日，别克昂科威家族迎来重要里程碑，第 200 万台整车昂科威于上汽通用汽车东岳“白金工厂”正式下线。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/3b59c866-10ce-4a8c-a805-f21b95257763.png?x-bce-process=image/format,f_auto\" /></p><p>与此同时，昂科威 Plus 全新车色「远山黛」正式登场，采用清漆层温变颜料、纳米闪片及超闪红蓝珠光等多重材质配方 8 层涂装工艺。此外，限时购买昂科威家族车型<strong>可享 1000 元抵 7000 元定金膨胀</strong>、日供低至 1.4 元的“1 元贷”购车方案、至高 10000 元置换补贴等多重购车福利。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/36",
+    "url": "https://www.ithome.com/0/961/376.htm",
     "platform": "ITHome"
   },
   {
-    "title": "2026 高考语文落下帷幕，卢伟冰晒出小米 Mimo 大模型写的北京卷作文",
-    "summary": "<p>IT之家 6 月 7 日消息，2026 年全国统一高考今天开考，今天上午进行的是语文科目考试，教育部教育考试院命制的语文作文试题共 2 道，北京、上海、天津采用自主命题。目前各地作文题已公布。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/ada55444-b70d-4227-bad2-0b136b0569cc.png?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto\" /></p><p>IT之家注意到，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文，<strong>晒出了使用小米 Mimo 大模型写的北京卷作文 ——《做规",
-    "url": "https://www.ithome.com/0/961/058.htm",
+    "title": "雷柏推出 VH800Pro 四模电竞耳机：280g 重量、40mm 动圈单元，249 元",
+    "summary": "<p>IT之家 6 月 8 日消息，雷柏现已在京东上架 VH800Pro 四模电竞耳机，该产品将于 6 月 11 日发售，提供全景 7.1 环绕音效，<strong>定价为 249 元</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/a2a1cd62-1c70-4223-b6c0-7b90d5bae09c.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/4b61a5a3-d635-4c03-8a50-272a9ba93ea2.png?x-bce-process=image/format,f_auto\" /></p><p>该耳机提供白霜蓝、树莓粉、赤焰黑三种配色，带有 RGB 灯效，整体重量 280g，使用人体工程学头梁设计，",
+    "url": "https://www.ithome.com/0/961/374.htm",
     "platform": "ITHome"
   },
   {
-    "title": "消息称小米机器人有望亮相 Xiaomi 17T 系列手机发布会",
-    "summary": "<p>IT之家 6 月 7 日消息，“新浪科技”在微博援引卢伟冰发布的视频，透露小米机器人有望在小米 17T 发布会中亮相。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/555e50e3-6801-4684-924e-dfdf4f1ae9c3.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，小米机器人<a href=\"https://www.ithome.com/0/943/977.htm\" target=\"_blank\">已于今年 4 月亮相小米投资者日活动</a>，这款机器人延续了 2022 年 CyberOne“铁大”具身人形设计，机身表面使用暗灰色面料，胸前印有醒目的小米标志，整体具有较强的科技感，不过具体技术细节暂不知悉。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfi",
-    "url": "https://www.ithome.com/0/961/057.htm",
+    "title": "四家商业火箭企业入围轻舟货运飞船发射服务，初步计划 2027 年 1 月首飞",
+    "summary": "<p>IT之家 6 月 8 日消息，中国招投标公共服务平台 6 月 5 日发布《轻舟货运飞船发射服务入围-中标候选人公示》，<strong>四家商业火箭企业成为中标候选人</strong>。</p><ul class=\" list-paddingleft-2\"><li><p>北京星河动力装备科技有限公司</p></li><li><p>北京中科宇航技术有限公司</p></li><li><p>东方空间技术（山东）有限公司</p></li><li><p>蓝箭航天空间科技股份有限公司</p></li></ul><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/2e8e773b-9eea-4a7d-9edd-3b45748cd312.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家查询招标公告获悉，轻舟货运飞船预计于 2027 年正式首飞，<strong>初步计划于 2027 年 1 月份发射</strong>，具体时",
+    "url": "https://www.ithome.com/0/961/370.htm",
     "platform": "ITHome"
   },
   {
-    "title": "珠海 / 澳门横琴口岸启用一站式车道“刷脸”服务，首月“智能通关”车辆超 22.9 万辆次",
-    "summary": "<p>IT之家 6 月 7 日消息，珠海 / 澳门横琴口岸“联合一站式”车道于 5 月 7 日实施“智能通关”，已备案司机可快捷通行，减少传统通关时取用实体证件等操作。</p><p>据“大湾区之声”报道，截至 6 月 7 日，横琴口岸联合一站式车道“刷脸”智能通关服务启用首月，经联合一站式车道累计通行车辆达 38.8 万辆次，<strong>其中选择“智能通关”服务的车辆超 22.9 万辆次，占总通行车辆数的 59.1%，较 4 月份试运行期间环比增长 31.5%</strong>。超半数跨境车主选择智能通关服务，跨境车流运行态势平稳有序。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/e950d995-4b7c-41df-8d65-712d36351e3d.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，驾驶人员首次需在“联合一站式”车道按提示交验本人有效出入",
-    "url": "https://www.ithome.com/0/961/056.htm",
+    "title": "Epic 喜加一：原价 25 元休闲模拟游戏 《Relaxing Simulator》免费领",
+    "summary": "<p>IT之家 6 月 8 日消息，因多人跳跃游戏<a href=\"https://www.ithome.com/0/959/073.htm\" target=\"_blank\">《Bunny Guys!》意外爆红</a>而受到外界关注的独立开发者 Ares-X 宣布旗下休闲模拟游戏 《Relaxing Simulator》在 Epic 游戏商店开启限时免费“喜加一”领取活动，<strong>本作在国区定价为 25 元，玩家可以在北京时间 6 月 15 日凌晨 1 点前领取</strong>，IT之家附 Epic 商品页（<a href=\"https://store.epicgames.com/p/relaxing-simulator-4cca47\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://store.epicgames.com/p/relaxing-simulator-4cca47</span></a>）。</p><p style=\"text-align: center;\"><img src=\"htt",
+    "url": "https://www.ithome.com/0/961/351.htm",
     "platform": "ITHome"
   },
   {
-    "title": "赛豆科技品牌发布会定档 6 月 9 日举行，消息称首款车型预计今年内推出",
-    "summary": "<p>IT之家 6 月 7 日消息，据赛豆科技官方微博最新分享，赛豆科技品牌发布会定档<strong> 6 月 9 日 19:00-20:00</strong> 举行。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/5861b2c0-87eb-463f-b5a8-7903a1a81f0b.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/35238d7a-7d49-4b46-8ea8-c5cbea055e7a.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，《晚点 Auto》5 月 30 日曾爆料称，<a ",
-    "url": "https://www.ithome.com/0/961/055.htm",
+    "title": "Steam 喜加一：原价 70 元恐怖游戏《Remothered: Broken Porcelain》免费领",
+    "summary": "<p>IT之家 6 月 8 日消息，由意大利开发团队 Stormind Games 打造的心理恐怖生存游戏《Remothered：Tormented Fathers》现已在 Steam 平台开启 24 小时限时“喜加一”活动，<strong>玩家可以在北京时间 6 月 9 日前免费领取这款在国区定价 70 元的作品</strong>，IT之家附 Steam 商品页（<a href=\"https://store.steampowered.com/app/633360/Remothered_Tormented_Fathers/\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://store.steampowered.com/app/633360/Remothered_Tormented_Fathers/</span></a>）。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/9c2",
+    "url": "https://www.ithome.com/0/961/339.htm",
     "platform": "ITHome"
   },
   {
-    "title": "领普超薄触屏智能开关 S5 上架：配 3.52 英寸彩屏，接入小米米家 App，129 元起",
-    "summary": "<p>IT之家 6 月 7 日消息，小米现已在有品上架领普超薄触屏智能开关 S5（<a href=\"https://c.duomai.com/track.php?aid=4705&amp;dm_fid=16052&amp;euid=&amp;site_id=261624&amp;t=https%3a%2f%2fwww.xiaomiyoupin.com%2fdetail%3fgid%3d183862%26spmref%3dYouPin_A.share.share_pop_copy.4.90920698\" target=\"_blank\">点此访问</a>），其接入了小米米家 App，白色定价为 129 元，灰色 / 黑色定价为 139 元。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/fdee9c63-161a-4863-a2ba-446e5572894e.jpg?x-bce-process=image/format,f_auto\" /></p><p>该开",
-    "url": "https://www.ithome.com/0/961/054.htm",
+    "title": "苹果 iPhone 显示最高气温接近 50 度，杭州临安气象局通报称 App 自身系统数据错误",
+    "summary": "<p>IT之家 6 月 8 日消息，浙江省杭州市临安区气象局今日（6 月 8 日）发布《关于 6 月 7 日夜里某品牌手机 App 预报错误的情况说明》。</p><p>针对 6 月 7 日夜里某知名手机品牌用户在自带天气预报 App 中发现<strong>临安区 2026 年 6 月 15 日最高气温接近 50℃</strong>（有用户显示 48℃、49℃ 甚至 53℃ 等版本）这一异常预报：</p><blockquote><p>经查证，<strong>该异常预报系该品牌手机自带天气预报 App 自身系统数据错误所致</strong>。我单位及上级气象部门均未发布未来 15 天预报有接近 50℃ 的极端高温天气。依据中国天气网杭州临安地区权威预报，2026 年 6 月 15 日临安区最高气温预报实为 32℃，最低气温 21℃。</p></blockquote><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/37414da0-cf1c-4185-9695-1b8",
+    "url": "https://www.ithome.com/0/961/337.htm",
     "platform": "ITHome"
   },
   {
-    "title": "2026 高考各地作文题公布，上海卷聚焦“科技改造世界时，也改造着我们的想象”",
-    "summary": "<p>IT之家 6 月 7 日消息，2026 年全国统一高考今天开考，今天上午进行的是语文科目考试，教育部教育考试院命制的语文作文试题共 2 道，北京、上海、天津采用自主命题。目前各地作文题已公布。其中，老人与 AI 的相关话题登上北京卷微写作，而“科技改造世界时，也改造着我们的想象”被写入了上海卷。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/926cf983-0475-469a-94e1-31b16ab2d834.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>图源：Pexels</figcaption><p>IT之家现汇总各地高考作文试题如下：</p><h3>全国 I 卷</h3><blockquote><p>阅读下面的材料，根据要求写作。（60 分）</p><p>词语是表达思想情感的载体，也是展现社会生活变化的窗口。当前，世界之变、时代之变、",
-    "url": "https://www.ithome.com/0/961/053.htm",
+    "title": "TrendForce：SpaceX IPO 将带动全球卫星产值 2027 年达 4470 亿美元，年增 14%",
+    "summary": "<p>IT之家 6 月 8 日消息，随着全球卫星宽带、手机直连卫星及 AI 运算需求快速成长，SpaceX 未来 IPO 动向备受市场关注。</p><p>TrendForce 集邦咨询表示，SpaceX 除持续扩大卫星宽带服务版图外，也积极布局手机直连卫星、AI 太空运算及太空太阳能 (Space-Based Solar Power, SBSP) 等新兴领域，并通过扩建自有太空 AI 运算芯片厂 Terafab，强化垂直整合能力，推动低轨卫星产业由通信服务迈向运算服务新阶段。随着卫星网络、AI 基础设施与太空应用加速融合，全球太空经济正进入新一轮成长周期，<strong>预估 2027 年全球卫星产业产值将达 4,470 亿美元，年成长率达 14%。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/e7b7b1e2-b048-4842-94a2-4774f8999ef4.jpg?x-bce-proce",
+    "url": "https://www.ithome.com/0/961/325.htm",
     "platform": "ITHome"
   },
   {
-    "title": "节约施工周期近 70%，全球首个“预制算力中心底座”在青岛投用",
-    "summary": "<p>IT之家 6 月 7 日消息，据央视新闻报道，昨天（6 日），全球首个预制算力中心底座在山东青岛正式启用。相较于传统算力中心节约施工周期近 70%，为当前算力基础设施建设提供更高效、更低碳的新方案。</p><p>据介绍，算力中心底座，简单来说就是算力中心的能源枢纽和电力堡垒，也可以称为算力中心的“心脏”，<strong>为算力中心提供持续稳定的电力</strong>。而底座的供电稳定性、能效利用率则直接关系到算力中心的整体工作能力。</p><p>算力中心底座外形酷似集装箱，长约 53 米，宽约 41 米，占地面积大概 2200 平方米。相较于传统的算力中心底座，它的占地面积减少了超 30%，整体成本也下降了 20%，最快 5 个月就可以完成施工，为算力中心提供持续稳定的电力，这也使得整体的土建成本节约近 80%。</p><p>报道提到，相较于传统算力中心底座，该设备不仅可以绿电直连，实现 100% 绿电消纳，<strong>让 Token 的用电成本也可以降低大约 30%</strong>，还配合储能设备的调控，打造了专属的算电协同智能体系，让电力和算力同频联动、精准适配，有望带",
-    "url": "https://www.ithome.com/0/961/052.htm",
+    "title": "新能源车“变胖”让老司机都犯愁，数据显示常见家用车 10 年变宽 20 厘米",
+    "summary": "<p>IT之家 6 月 8 日消息，据央视新闻 6 月 7 日报道，车好像在变大、车位好像在变窄，近些年来，不少人都有这样的感觉。</p><p>数据显示，<strong>如今家用热门新能源车中的大型 SUV、MPV 车型普遍接近甚至超过 2 米</strong>，车重也是动辄在 2 吨以上。日益变胖的新能源车，也给车主停车带来了困扰。</p><p>IT之家注意到，该报道发布后，“新能源车变胖让老司机都犯愁”相关话题也登上了微博热搜，不少网友也表示有相同的感受。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/1977460817/R31CD7Rjf?refer_flag=1001030103_\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/ba7a3a10-30e6-46dc-861c-5d60bd8ec7b8.",
+    "url": "https://www.ithome.com/0/961/314.htm",
     "platform": "ITHome"
   },
   {
-    "title": "华硕破晓 7 Pro 笔记本 14/16 英寸发售：至高可选锐龙 AI 7 445 处理器，7999 元起",
-    "summary": "<p>IT之家 6 月 7 日消息，华硕破晓 7 Pro 笔记本 14/16 英寸版本已在京东开售，新品最高可选 AMD 锐龙 AI 7 445 处理器，具备 2.5K 144Hz 屏幕，14 英寸版本定价 9499 元起，16 英寸版本售价 7999 元起，IT之家附该笔记本 SKU 如下：</p><ul class=\" list-paddingleft-2\"><li><p>14 英寸 AI 5 430 32GB+1TB：9499 元</p></li><li><p>14 英寸 AI 7 445 32GB+1TB：9999 元</p></li><li><p>16 英寸 AI 5 430 16GB+1TB：7999 元</p></li><li><p>16 英寸 AI 7 445 16GB+1TB：8499 元</p></li></ul><dir><a contenteditable=\"false\" href=\"https://u.jd.com/7rvmXXV\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-l",
-    "url": "https://www.ithome.com/0/961/047.htm",
+    "title": "OWC Stack AI 揭开神秘面纱，实为外置式群联 aiDAPTIV 内存化闪存方案",
+    "summary": "<p>IT之家 6 月 8 日消息，Other World Computing (OWC) 今年 5 月的时候曾宣布了一款名为 OWC Stack AI 的雷电 5“AI 加速器”与外置存储解决方案，不过当时并未对其技术原理进行深入介绍。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/5/de8631d8-6062-4e78-9afd-28a556bf1c24.jpg?x-bce-process=image/format,f_auto\" /></p><p>而在 COMPUTEX 2026 台北国际电脑展上，Stack AI 现身 OWC 展位。该产品的展牌确认其基于群联 aiDAPTIV 方案，是<strong>一种利用雷电 5 接口的外置式 AI 内存 NAND 扩充方案</strong>。</p><p>群联 aiDAPTIV 可将闪存纳入系统有效内存中，将部分 AI 内存需求卸载到高耐久性 SSD 上，降低 AI 对 DRAM 的依赖，让大型 AI 智能",
+    "url": "https://www.ithome.com/0/961/310.htm",
     "platform": "ITHome"
   },
   {
-    "title": "华硕 ROG 飞龙四代 360 ARGB LCD 一体式水冷散热器发售：冷头配 5.08 英寸面板，1699 元起",
-    "summary": "<p>IT之家 6 月 7 日消息，华硕 ROG 飞龙四代 360 ARGB LCD 一体式水冷散热器现已在京东发售，这是业界首款支持无线水冷技术的水冷，搭配 ROG X870E Glacial 等新一代主板可实现水冷 0 线材安装。其提供了标准版（LC）和颜值版（SLC）可选，<strong>区别就是颜值版采用中置短管隐藏水管设计，前者定价为 1699 元，后者定价为 1799 元</strong>。</p><p style=\"text-align: center;\"><img class=\"lazy\" src=\"https://img.ithome.com/newsuploadfiles/2026/4/779dd553-89b7-498d-b5af-b6384c414396.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" title=\"首款真无线水冷：华硕推出 ROG 飞龙 4 无线水冷，支持触点式无线快接\" /></p><figcaption>▲ 白色为 LC、黑色为 SLC</figcaption><p>系列散热器冷",
-    "url": "https://www.ithome.com/0/961/046.htm",
+    "title": "vivo X Fold6 折叠屏真机曝光，已定档本月发布",
+    "summary": "<p>IT之家 6 月 8 日消息，据新浪娱乐，演员、歌手朱珠今日亮相法网女单决赛现场，手中这款折叠屏手机格外抢镜，预计为尚未发布的 vivo X Fold6。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/2ebb1628-b3b2-474e-ae21-2c9c97be62d3.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/d1eea8a1-bb32-4175-91d4-e363fdb33472.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfile",
+    "url": "https://www.ithome.com/0/961/305.htm",
     "platform": "ITHome"
   },
   {
-    "title": "担忧 AI 生成虚假内容扰乱司法，英国警方被叫停使用 AI 撰写法庭陈述",
-    "summary": "<p>IT之家 6 月 7 日消息，据英国《金融时报》报道，由于担忧人工智能生成的不准确内容会扰乱司法流程，英国多个警察部门已接到通知，停止使用人工智能系统撰写法庭陈述及开展其他刑事司法相关工作。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/11/49e3c3c3-5ece-4eb9-bb3b-fc680292d666.png?x-bce-process=image/format,f_auto\" /></p><p>英国警方人工智能中心（<span class=\"link-text-start-with-http\">Police.AI</span>）负责人亚历克斯・默里表示，他已介入干预部分警队。这些警队在未完成全面合规评估的情况下，就开始使用市面上的商用人工智能工具。</p><p>“我们已经叫停了部分相关应用。”默里称，他告知相关警队：“立刻暂停使用，我们需要放缓推进节奏。”</p><p>他补充道，应用于刑事司法体系的",
-    "url": "https://www.ithome.com/0/961/045.htm",
+    "title": "经典经营游戏续作《动物园之星 2》实机视频公布，10 月 13 日发售",
+    "summary": "<p>IT之家 6 月 8 日消息，索尼 PlayStation 中国今日公布《动物园之星 2》官方实机游戏宣传视频，将登陆 PS5 平台。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/tv/show/1034:5307493598035998?mid=5307497286205941\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/488f7eb8-30c0-412d-8995-6f25f4383fc0.jpg?x-bce-process=image/format,f_auto\" /></a></p><blockquote><p>放飞创意，建造环球特色动物园，守护自然生灵百态。系列首次收录水生、飞行物种，动物阵容全面升级。践行自然保育使命，将动物放归至广袤无垠、支持自由规划的野生动物保护区。</p></blo",
+    "url": "https://www.ithome.com/0/961/301.htm",
     "platform": "ITHome"
   },
   {
-    "title": "星战竞速游戏《星球大战：银河赛车手》官宣视频公布，10 月 6 日发售",
-    "summary": "<p>IT之家 6 月 7 日消息，索尼 PlayStation 中国昨日公布《星球大战：银河赛车手》官方游戏剧情宣传视频，这款星战竞速游戏将于 10 月 6 日发售。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/tv/show/1034:5306809825820701?mid=5306810810765974\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/6de0c660-f273-487a-b99e-8bb7589e498e.jpg?x-bce-process=image/format,f_auto\" /></a></p><blockquote><p>帝国覆灭之后，银河系得到了重建，银河联赛也应运而生：这是一个未经官方认可的地下赛车联盟，在各大财团的资金支持下，飞行员会在混乱中一决高下，争夺冠军。</p",
-    "url": "https://www.ithome.com/0/961/044.htm",
+    "title": "消息称英伟达 GeForce RTX 50 系列显卡 SUPER 版本最快 2027 年初推出",
+    "summary": "<p>IT之家 6 月 8 日消息，台媒 <span class=\"link-text-start-with-http\">BenchLife.info</span> 本月 5 日根据其“认知”爆料称，NVIDIA（英伟达）GeForce RTX 50 系列显卡的 SUPER 版本<strong>最快也要到 2027 年初才会推出</strong>，发布时间最早也是 CES 2027。</p><p>GeForce RTX 50 SUPER 的最大升级点是将 16Gb (2GB) 的 GDDR7 更新至 24Gb (3GB) 版本，<strong>这会带来 50% 的显存容量提升</strong>。根据最新消息，<a href=\"https://www.ithome.com/0/960/451.htm\" target=\"_blank\">桌面端将推出 60 / 70 / 70 Ti / 80 级别的 SUPER 型号</a>；移动端则暂无消息。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img",
+    "url": "https://www.ithome.com/0/961/296.htm",
     "platform": "ITHome"
   },
   {
-    "title": "奕境 X9 华为乾崑车载光“三件套”公布，含百万像素智慧投影大灯、车载激光投影、XHUD 抬头显示",
-    "summary": "<p>IT之家 6 月 7 日消息，奕境汽车官方昨晚发文称，其已于 6 月 5 日正式启动“华为乾崑全栈技术之旅”。奕境汽车品牌总经理曾清林带队首站抵达华为全球光能力中心 —— 华为武汉研究所，参观了奕境 X9 车载光技术的诞生地。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/1237d0e1-2d37-4c54-950c-5f27537fce58.jpg?x-bce-process=image/format,f_auto\" /></p><p>奕境汽车官方也顺势公布了奕境 X9 全系搭载的华为乾崑车载光“三件套”，包括 HUAWEI XPIXEL 百万像素智慧投影大灯、HUAWEI XSCENE 车载激光投影和 HUAWEI XHUD 增强现实抬头显示。</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p><strong>HUAWEI X",
-    "url": "https://www.ithome.com/0/961/043.htm",
+    "title": "零跑 A10 纯电小车 OTA 升级：优化空调防霉菌模式，提升智能辅助驾驶功能",
+    "summary": "<p>IT之家 6 月 8 日消息，零跑汽车宣布零跑 A10 最新 OTA 已于 6 月 8 日开始陆续推送，带来三大功能升级。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/017182cd-b688-4b47-a226-862189106a85.jpg?x-bce-process=image/format,f_auto\" /></p><h2>IT之家整理如下：</h2><p><strong>空调防霉菌模式优化（本次 OTA 全系车型）</strong></p><ul class=\" list-paddingleft-2\"><li><p>提升空调防霉菌模式能力。</p></li></ul><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/5aeb65d7-db25-4421-9f33-89347c4dbdba.jpg?x-bce-",
+    "url": "https://www.ithome.com/0/961/295.htm",
     "platform": "ITHome"
   },
   {
-    "title": "快手发布 2026 年度未成年人保护报告：去年清理违规信息 82 万条，重点治理“网络欺凌、诱导打赏”等场景",
-    "summary": "<p>IT之家 6 月 7 日消息，快手平台现已发布《2026 年度未成年人保护报告》，过去一年里快手持续加强未成年人相关内容治理能力建设，平台全年累计清理涉未成年人违规信息 82 万条。</p><p>针对网络欺凌、诱导打赏、不良社交、虚假信息等重点风险场景，快手平台持续加强内容巡查与专项治理。在未成年人模式内容安全治理方面，平台建立“机器审核 + 人工抽检 + 人工审核 + 专项审核”多层次审核机制。</p><p>针对未成年人的直播行为，平台实行分级、从严管理。具体来看：对 16 岁及以下的未成年人，平台坚持“零容忍”原则，严禁开播，一经发现，将立即关停直播、回收直播权限；针对疑似 17 至 18 岁的用户，平台要求完成成年人身份核验后方可开播，同时严格限制涉及未成年人身心健康风险的内容，禁止诱导未成年人参与打赏、充值等。</p><p style=\"text-align: center;\"><img alt=\"图片 2\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/c133258d-49cc-4b40-bc2a-92bf546",
-    "url": "https://www.ithome.com/0/961/042.htm",
+    "title": "《007：初露锋芒》销量破 300 万份，CEO 否认游戏开发成本高达 2 亿美元",
+    "summary": "<p>IT之家 6 月 8 日消息，据 IO Interactive 首席执行官哈坎・阿布拉克透露，全新詹姆斯・邦德题材游戏《007：初露锋芒》销量已突破 300 万份。他同时驳斥了外界关于该游戏研发成本高达 2 亿美元（IT之家注：现汇率约合 13.59 亿元人民币）的说法。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/5/cdc0c3f1-f926-4963-a6a8-f021b4900b80.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p>阿布拉克在接受游戏资讯网站 IGN 采访时表示，《初露锋芒》确实是这家丹麦工作室迄今为止耗资最高的文娱作品，但 2 亿美元并非单纯的游戏研发预算，其中还包含以奖金形式发放给开发团队的各类款项。</p><p>“如果团队达成既定目标，我们会发放丰厚奖金，”阿布拉克说道，“这笔金额里还包含未来将要兑付的奖",
+    "url": "https://www.ithome.com/0/961/290.htm",
     "platform": "ITHome"
   },
   {
-    "title": "飞利浦推出“27M4N3500FQ”27 英寸显示器：2K 210Hz，829 元",
-    "summary": "<p>IT之家 6 月 7 日消息，飞利浦现已在天猫上架一款型号为“27M4N3500FQ”的 27 英寸显示器，该机主打 2K 210Hz，<strong>首发价 829 元</strong>，部分地区国补后低至 795.84 元。</p><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?traceId=215042cc17808018919632620e0c5a&amp;srItem=1&amp;e=lCVph4mTrNWlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWgpcJRl3wFwcV%2FlEyhmp8CdM%2FnaM0S%2FHLR1hi3sdT988FvxjcmbxG94q%2BtwW2ZgPHBIiUFD3UOtvR%2B%2FOvMhH571fxIrX2wC5HaGlLORcQ%2BKNNTwMLvlEHHFFippRKyzQ2vkveZnX4JCIgJbXcjkE91valHtfDBIdw36hBQToU3MX%2Fa",
-    "url": "https://www.ithome.com/0/961/040.htm",
+    "title": "长城炮 Hi4-T 皮卡 6 月 13 日重庆车展上市，预售 14.98 万起",
+    "summary": "<p>IT之家 6 月 8 日消息，长城炮今日宣布，Hi4-T 皮卡将于 6 月 13 日重庆车展上市。该车已经在 4 月北京车展开启预售，预售价为 14.98 万元起：</p><ul class=\"medium-size list-paddingleft-2\"><li><p>商用炮两驱精英型 PHEV：14.98 万元</p></li><li><p>商用炮四驱精英型 Hi4-T：16.98 万元</p></li><li><p>乘用炮四驱舒适型 Hi4-T：17.98 万元</p></li><li><p>乘用炮四驱尊享型 Hi4-T：18.98 万元</p></li></ul><p style=\"text-align: center;\"><img class=\"lazy no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/4/4d9dd230-e85e-4910-82b1-39ed7dcc38ce.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" title",
+    "url": "https://www.ithome.com/0/961/289.htm",
     "platform": "ITHome"
   },
   {
-    "title": "旅游新国标首次明确界定智慧化运营：实时客流监测，支持卫星通信",
-    "summary": "<p>IT之家 6 月 7 日消息，据央视新闻记者昨日（6 日）从国家标准委了解到，《旅行社老年旅游服务要求》《无障碍旅游服务规范旅游饭店》《旅游景区智慧化运营管理要求》《旅游购物场所服务质量要求》四项国家标准日前正式发布。</p><p>新国标覆盖了旅行社、旅游饭店、旅游景区、旅游购物场所四大旅游业态，贯通“吃住行游购娱”旅游六大要素，兼顾了老年群体、特殊群体、普通游客等各类人群差异化出游需求。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/c37aaeda-d5e5-4a99-b922-d74f83dc6524.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto\" /></p><",
-    "url": "https://www.ithome.com/0/961/039.htm",
+    "title": "群晖推出 4 盘位边缘存储 RS826+：面向中小企业，基于四核 V1500B",
+    "summary": "<p>IT之家 6 月 8 日消息，群晖 (Synology) 本月 5 日宣布推出面向中小企业 (SMB) 的紧凑型边缘与远程工作存储方案 RackStation RS826+，另有配备冗余电源的衍生型号 RS826RP+ 一同发布。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/cc87fe1f-fb90-4c77-97cc-1ac6c6b68dcd.png?x-bce-process=image/format,f_auto\" /></p><p>RS826+ <strong>基于 14nm 的 \"Zen 1\" 四核处理器锐龙嵌入式 V1500B</strong>，顺序读写速率分别可达 2000MB/s 和 1300MB/s。其采用 1U 高度机架式设计，具备 4 个 SATA 盘位、4 个 1GbE RJ45、2 个 USB 5Gbps，提供 1 条 PCIe Gen3 ×4 插槽，支持存储扩展单元。</p><p",
+    "url": "https://www.ithome.com/0/961/288.htm",
     "platform": "ITHome"
   },
   {
-    "title": "历时半世纪，银河系中心黑洞风终被发现",
-    "summary": "<p>IT之家 6 月 7 日消息，历经五十年探索，天文学家终于发现证据，证实银河系中心的超大质量黑洞人马座 A*（Sgr A*）会释放强劲星风。这一发现，让人类对超大质量黑洞周边、以及银河系核心区域的物理规律有了更为深入的认知。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/75d19533-9ad1-42a4-bdcf-8e14848bd354.png?x-bce-process=image/format,f_auto\" /></p><p>据IT之家了解，科学界很早便提出假说：黑洞吞噬物质时会释放能量，将周边物质向外推离，这一现象被称作黑洞风。人马座 A * 也存在这类活动，只不过它吞噬的气体和尘埃极其稀少，换算到人类身上，相当于每百万年才吃下一粒米。</p><p>难题在于，科学家始终未能在银河系中心找到黑洞风存在的实证，这也让该谜团在天文学界萦绕了近半个世纪，而如今谜底终于揭晓。</p><p>西北大学研究员、该",
-    "url": "https://www.ithome.com/0/961/038.htm",
+    "title": "小米手环 9 新版本先锋计划开启报名：功耗优化、睡眠监测算法升级，500 名额",
+    "summary": "<p>IT之家 6 月 8 日消息，小米集团手机部副总裁、可穿戴部总经理张雷今日宣布，小米手环 9 新版本先锋计划正式开启。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/2e67cb52-72f5-4fa5-a05a-824a02593248.jpg?x-bce-process=image/format,f_auto\" /></p><p><strong>本次更新带来多项实用升级：</strong>功耗策略全面优化，设备更省电、续航更持久；睡眠监测算法升级，并支持获取小米手机状态，睡眠数据更准确；消息隐私体验进一步增强，垂腕佩戴时可关闭消息详情展示，让通知更安心。同时修复了多项已知问题，系统运行更稳定。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6",
+    "url": "https://www.ithome.com/0/961/287.htm",
     "platform": "ITHome"
   },
   {
-    "title": "网游转单机，《龙之谷》制作人新作《龙之剑：觉醒》试玩版上线 Steam",
-    "summary": "<p>IT之家 6 月 7 日消息，《龙之谷》制作人朴正植的工作室 Hound13 旗下新作《龙之剑：觉醒（DragonSword：Awakening）》目前已在 Steam 平台开启限时试玩（6 月 24 日 1:00 结束），试玩版支持简体中文，IT之家附商品页（<a href=\"https://store.steampowered.com/app/4570720/DragonSword__Awakening/\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://store.steampowered.com/app/4570720/DragonSword__Awakening/</span></a>）。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/532388fa-90cd-4dca-a46f-7c52b73c8fc9.jpg?x-bce-process=image/fo",
-    "url": "https://www.ithome.com/0/961/037.htm",
+    "title": "Brave 推出精简版网络浏览器 Origin，非 Linux 平台 60 美元买断",
+    "summary": "<p>IT之家 6 月 8 日消息，互联网公司 Brave 当地时间本月 4 日宣布正式推出精简版网络浏览器 Brave Origin。</p><p>Brave Origin <strong>支持用户管理或删除免费版 Brave 浏览器中常见的功能</strong>（IT之家注：如电子邮件别名、Leo AI、播放列表、视频通话、Wayback Machine 集成），仅保留广告拦截与隐私保护功能。</p><p>Brave 表示 Brave Origin 同步获得与 Brave 其它版本相同的修复程序、Chromium 补丁、安全 &amp; 隐私改进，同时提供同类产品中最迅捷的运行速度。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/1313f72d-51aa-46f3-8648-184b88434803.png?x-bce-process=image/format,f_auto\" /></p><p>Brave Or",
+    "url": "https://www.ithome.com/0/961/286.htm",
     "platform": "ITHome"
   },
   {
-    "title": "宏碁推出掠夺者 DDR4 马甲条 3600C16：三星 B-die 颗粒，32G（16G * 2）售 1799 元",
-    "summary": "<p>IT之家 6 月 7 日消息，宏碁现已在京东上架掠夺者 DDR4 马甲条 3600C16，其采用三星 B-die 颗粒，32GB（16GB *2）双条定价为 1799 元，提供“只换不修终身质保”。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/7gv9Xms\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/452988/34/1266/238690/6a22a82cF98978755/08ee32032003326d.jpg\" /></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">宏碁掠夺者 DDR4 马甲条</span></span><span c",
-    "url": "https://www.ithome.com/0/961/036.htm",
+    "title": "大上科技 Link 2 手机造型投屏器发售：配 6.7 英寸 60Hz 黑白墨水屏面板，1899 元",
+    "summary": "<p>IT之家 6 月 8 日消息，大上科技旗下 Link 2 手机造型投屏器（显示器）现已在京东发售，该机配备一块 6.7 英寸面板，<strong>定价为 1899 元</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/9db0a3ea-43f2-4ee9-82e7-42d8fb21fec3.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/e59e2918-f0be-403f-8bad-63808239c28b.png?x-bce-process=image/format,f_auto\" /></p><p>该机提供深空灰、冰川蓝两种配色，厚度 7mm，重量 155g，正面配备一块 6.7 英寸 300PPI 60Hz 黑白",
+    "url": "https://www.ithome.com/0/961/285.htm",
     "platform": "ITHome"
   },
   {
-    "title": "华为 nova 16 系列手机首销情况出炉，Pro 同期约为上一代的 170%",
-    "summary": "<p>IT之家 6 月 7 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为 nova 16 系列手机首销情况，以开售当日为标准（IT之家注：6 月 5 日）：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p><strong>华为 nova 16 同期约为华为 nova 15 的 140%</strong></p></li><li><p><strong>华为 nova 16 Pro 同期约为华为 nova 15 Pro 的 170%</strong></p></li><li><p><strong>华为 nova 16 Ultra 同期约为华为 nova 15 Ultra 的 35%</strong></p></li></ul></blockquote><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/3d760f2d-8f6c-49cc-80e8-98cabdbf1",
-    "url": "https://www.ithome.com/0/961/035.htm",
+    "title": "Livis Day 理想汽车软件与人工智能发布会定档 6 月 15 日，将探讨具身智能与未来方向",
+    "summary": "<p>IT之家 6 月 8 日消息，理想汽车今日宣布，Livis Day 理想汽车软件与人工智能发布会将于 6 月 15 日 16:30 举行，将探讨“具身智能到底是什么? 理想在软件和人工智能领域会驶向哪里?”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/0f97c461-73f0-4bcb-8a20-1c3e4e6e07b7.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，全新一代理想 L9 Livis 车型已经于上个月上市，定价为 50.98 万元，智能化成为该车主要宣传点之一。该车搭载的自研马赫 M100 是首款数据流架构端侧推理芯片，采用 5nm 车规级工艺，单芯算力可达 1280TOPs，<strong>号称“全球最强算力”</strong>。</p><p style=\"text-align: center;\"><img class=\"n",
+    "url": "https://www.ithome.com/0/961/284.htm",
     "platform": "ITHome"
+  },
+  {
+    "title": "大语言模型正在变成大编程模型",
+    "summary": "大语言模型的语言能力，好像并没有随着基础模型的迭代而提升？<a href=\"https://sspai.com/post/110746\" target=\"_blank\">查看全文</a>",
+    "url": "https://sspai.com/post/110746",
+    "platform": "SSPai"
+  },
+  {
+    "title": "派早报：乘用车越造越重，12 年增重近 400 公斤",
+    "summary": "<p>乘用车越造越重，12 年增重近 400 公斤</p><p>iFixit 拆解华强北山寨苹果产品</p><p>Cloudflare 收购 Vite 背后公司</p><p>rsync 疑因 AI 参与维护出现 bug，引发争议</p><p>OpenAI 与美国政府商讨捐赠股权</p><p>美国平均上路车龄达到 13 年</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/110847\" target=\"_blank\">查看全文</a>",
+    "url": "https://sspai.com/post/110847",
+    "platform": "SSPai"
+  },
+  {
+    "title": "接住来自空间站的信号：如何用手台接收 SSTV？",
+    "summary": "它不是玄学，也不是单纯的浪漫。它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验。<a href=\"https://sspai.com/post/110108\" target=\"_blank\">查看全文</a>",
+    "url": "https://sspai.com/post/110108",
+    "platform": "SSPai"
   },
   {
     "title": "2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处",
@@ -1512,22 +1530,64 @@
     "platform": "SSPai"
   },
   {
-    "title": "新玩意 243｜少数派的编辑们最近买了啥？",
-    "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/110736\" target=\"_blank\">查看全文</a>",
-    "url": "https://sspai.com/post/110736",
-    "platform": "SSPai"
+    "title": "“柔性按需+数字化升级”，希音为闽货出海按下“快进键”",
+    "summary": "<p>6月8日，第六届中国（厦门）国际跨境电商展览会正式启幕。本届展会围绕“跨境互联 货通全球”主题，持续深耕“跨境电商+产业带”融合路径，集中展出包括石狮、晋江本土鞋服箱包等在内的优势产业成果，打通优质制造产能与全球终端市场的对接通道。</p><p>全球知名时尚品牌、跨境电商龙头希音（SHEIN）携“自营+平台”双业务招商团队亮相展会现场，面向福建纺织服装产业带商家开展热门品类招商对接，还带来最新的招商全景解读，拆解其自营体系中“小单快反”柔性供应链落地路径与供应商赋能举措，并详解第三方商家如何依托“卖家自主+平台赋能”稳步实现高质量出海。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260608/6a2639e957b56.jpg?imageView2/2/w/740\" /></p><p style=\"text-align: center;\"><span style=\"font-size: 12px; color: #7F7F7F;\">（希音",
+    "url": "https://www.leiphone.com/category/industrynews/xUv8I6FoA9P83vjh.html",
+    "platform": "Leiphone"
   },
   {
-    "title": "它不会是下一场新冠：简单了解汉坦病毒",
-    "summary": "人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。<a href=\"https://sspai.com/post/110717\" target=\"_blank\">查看全文</a>",
-    "url": "https://sspai.com/post/110717",
-    "platform": "SSPai"
+    "title": "让机器人行动更有依据：复旦等提出 GuidedVLA，提升 VLA 可控可解释能力",
+    "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260608/6a262b38ab70c.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; pa",
+    "url": "https://www.leiphone.com/category/ai/BOuZx0Z8ALLO18p8.html",
+    "platform": "Leiphone"
   },
   {
-    "title": "比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署",
-    "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/110126\" target=\"_blank\">查看全文</a>",
-    "url": "https://sspai.com/post/110126",
-    "platform": "SSPai"
+    "title": "CVPR 2026 几何智能研究盘点：从看见形状，到理解运动与交互",
+    "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260608/6a2629b2a6792.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; pa",
+    "url": "https://www.leiphone.com/category/ai/DY9VohqHITkbu2i9.html",
+    "platform": "Leiphone"
+  },
+  {
+    "title": "CVPR 2026 | 支撑春晚合肥 7 分钟的4K画面奇观  PS-SR让视频超分不用在速度与质量间为难",
+    "summary": "<p style=\"margin-top: 0; margin-bottom: 0;\">鱼灯破水，凌空游城；火狮踏焰，奋跃腾空；一群剪纸奔马通体透亮，在壁中狂奔；一纸诗词垂挂成瀑，于天幕间翻卷——2026年央视春晚合肥分会场《合韵满江淮》，用一连串美轮美奂的超现实奇观，刷新了虚实融合的想象边界。</p><p style=\"margin-top: 0px; margin-bottom: 0px; text-align: center;\"><img border=\"0\" src=\"https://static.leiphone.com/uploads/new/images/20260608//6a2626ff0fea0.jpg?imageMogr2/quality/90\" /></p><p style=\"margin-top: 0; margin-bottom: 0;\">鲜有人知的是，支撑这些4K级画面的技术核心，来自智象未来团队提出的PS-SR，一个「伪单步」（Pseudo-Single-Step）视频超分框架。凭借这一突破性工作，该成果被计算机视觉顶级会议 CVPR 2026接收。</",
+    "url": "https://www.leiphone.com/category/ai/zXTiqznDMhoIzvbh.html",
+    "platform": "Leiphone"
+  },
+  {
+    "title": "CVPR 开幕式：全场泪目缅怀孙剑，广工本科生靠「古董显卡」逆袭 | CVPR 2026",
+    "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260608/6a26265b27290.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; pa",
+    "url": "https://www.leiphone.com/category/ai/6Ftw05ZU0izgNdJT.html",
+    "platform": "Leiphone"
+  },
+  {
+    "title": "CVPR 2026现场直击：CV与机器人的物理结界被彻底打破",
+    "summary": "<section><section><section><section><section></section><section><section><section><section></section></section></section><section><span><br /></span></section><p style=\"text-align: justify; margin-bottom: 24px; line-height: 1.75em;\"><span>6月4日，当维也纳多瑙河畔的 ICRA 2026 进入正会的最后一天，大洋彼岸的美国丹佛科罗拉多会议中心（Colorado Convention Center）已经人声鼎沸。许多我们前几天还在维也纳见到的熟悉面孔，各大顶尖高校的学者和硬科技企业的高管，此刻都正拖着行李箱，马不停蹄地出现在丹佛的街头。</span></p><p style=\"text-align: justify; margin-bottom: 24px; line-height: 1.75em;\"><span><span style=\"letter-",
+    "url": "https://www.leiphone.com/category/ai/dD8WSfVt3bwq1sEe.html",
+    "platform": "Leiphone"
+  },
+  {
+    "title": "斯坦福Jeannette Bohg教授：抛弃“人手崇拜”，灵巧手要「解构物理」 | ICRA 2026",
+    "summary": "<p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\"><br /></p><p style=\"margin-top: 0px; margin-bottom: 0px; text-align: center;\"><img border=\"0\" src=\"https://static.leiphone.com/uploads/new/images/20260608//6a2624289d66c.jpg?imageMogr2/quality/90\" /></p><p>&nbsp;</p><p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-family: 'Arial'; font-size: 11pt;\">2026年6月3日，ICRA 2026维也纳会议“操作、控制与具身设计”主题Keynote环节，斯坦福大学计算机科学系的</span><span style=\"font-family: 'Arial",
+    "url": "https://www.leiphone.com/category/robot/7bIdz0Vi001jq6lt.html",
+    "platform": "Leiphone"
+  },
+  {
+    "title": "普渡大学Aniket Bera教授：可靠自主机器人的“安全阀”，藏在“可检查接口”里 | ICRA 2026",
+    "summary": "<p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\"><br /></p><p>&nbsp;</p><p style=\"margin-top: 0px; margin-bottom: 0px; text-align: center;\"><img border=\"0\" src=\"https://static.leiphone.com/uploads/new/images/20260608//6a26239e591eb.jpg?imageMogr2/quality/90\" /></p><p>&nbsp;<br /></p><p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-family: 'Arial'; font-size: 11pt;\">2026年6月2日，国际机器人与自动化会议（ICRA 2026）在奥地利维也纳进入第二天。普渡大学（Purdue University）计算机科学系教授、IDE",
+    "url": "https://www.leiphone.com/category/robot/msKJXBpOWYL23WVc.html",
+    "platform": "Leiphone"
+  },
+  {
+    "title": "3D 还是 2D？哥大李昀烛：通用机器人基础模型的解药在“中间地带”  | ICRA 2026",
+    "summary": "<p>&nbsp;</p><p>作者｜岑峰</p><p><br /></p><p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-family: 'Arial'; font-size: 11pt;\">2026年6月1日，机器人领域最重要的学术会议国际机器人与自动化会议（ICRA）在奥地利维也纳召开。</span></p><p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-family: 'Arial'; font-size: 11pt;\">在首日举行的“Synthetic Data for Robot Learning” Workshop上，哥伦比亚大学助理教授</span>李昀烛<span style=\"font-family: Arial; font-size: 11pt;\">（Yunzhu Li）发表了题为“Structured &nbsp;World ",
+    "url": "https://www.leiphone.com/category/robot/LPcnomdfvrGTm2cO.html",
+    "platform": "Leiphone"
+  },
+  {
+    "title": "集齐1000种方式，抖音精选创作者为高考生“放大招”",
+    "summary": "<p>今天，1290万考生阔步踏入高考考场。</p><p>为迎接这一刻，自2026年3月起，抖音、抖音精选集结名师、学霸、名校及各赛道创作者，发起「抖音精选高考应援联盟」，他们用自己的方式出招出策，为每一位考生应援：</p><p>从考前备考复习的系统课程，联合名师公益出题送题，号召学长学姐直播义诊有问必答，再到千人高考应援接力……</p><p>1000种应援方式，只为今日护你冲向主场。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260608/6a2620d8f3c91.jpeg?imageView2/2/w/740\" /></p><p><strong>01.“数学帝”葛军老师领衔，独家课程为你应援</strong><strong>高考百日百课</strong></p><p>高考倒计时100天，抖音、抖音精选超前落地《高考百日百课》课程计划，特邀前高考出题人@葛军 等11位抖音名师学霸，针对语、数、英、政、史、地、物、化、生九门高考科目，系统化输",
+    "url": "https://www.leiphone.com/category/industrynews/Jv4WkDnUENee7Lby.html",
+    "platform": "Leiphone"
   },
   {
     "title": "比亚迪重磅发布中国首款4nm制程智驾芯片 布局高等级自动驾驶",
@@ -1572,12 +1632,6 @@
     "platform": "Leiphone"
   },
   {
-    "title": "华人学者闪耀维也纳，胡瑞珍、石冠亚、王晓龙等斩获ICRA核心大奖 | ICRA 2026",
-    "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260605/6a22a09f1c093.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; pa",
-    "url": "https://www.leiphone.com/category/robot/vXUDbgmmjD4EH4Ys.html",
-    "platform": "Leiphone"
-  },
-  {
     "title": "波恩大学 Maren Bennewitz 教授：让机器人在遮挡世界中主动获取信息 | ICRA 2026",
     "summary": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260605/6a22a0ad0ccd3.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inline-block; text-align: center; background-color: transparent;\" /></section><section style=\"padding-left: 16px; padding-right: 16px;\"><section style=\"width: 100%; display: flex; padding: 0px;\"><section style=\"width: 100%; padding-left: 0px; pa",
     "url": "https://www.leiphone.com/category/ai/Y65BpmoLEhUaqnNS.html",
@@ -1593,60 +1647,6 @@
     "title": "Pocket 4新品成618硬通货！400家大疆官方线下店入驻美团闪购",
     "summary": "<p>今日，DJI 大疆创新（以下简称“大疆”）与美团闪购正式达成合作，全国400家线下门店入驻。各地消费者选购运动相机、无人机、扫拖机器人、专业摄影设备时，可获得“闪购下单，本地门店发货，最快30分钟到手”的便捷服务。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260605/6a229fb8743de.png?imageView2/2/w/740\" /></p><p><strong>▲美团骑手在大疆门店取送商品。（摄影：亦可）</strong></p><p>记者从大疆方面获悉，品牌将即时零售视作重要的增量增长点。此次决定在重磅新品DJI Osmo Pocket 4发布后与美团闪购达成合作，大疆希望充分借力即时零售高效便利、备受年轻消费者欢迎的特点，进一步增强与消费者的良性互动。</p><p>当下，越来越多消费者追求“即买即享”，选择闪购智能数码设备。美团闪购数据显示：今年平台618活动首周期，平台上各地数码实体门店销量大幅增长；运动相机销量同",
     "url": "https://www.leiphone.com/category/industrynews/Ii10tVMY2qjNzfsZ.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "阿里Meoo支持对话生成微信小程序，已打通小程序创建、审核、发布全链路",
-    "summary": "<p>6月5日，阿里Meoo（秒悟）上线微信小程序生成功能，支持接入微信登录，用户无需精通代码，通过自然语言交互即可一键开发、调试微信小程序，例如团购小程序、动报名页、展示网页、运动打卡或记账的个人效率工具等，并打通了微信小程序从创建、审核，到发布和投入使用的全链路。Meoo的小程序生成功能降低了开发门槛，让企业、商家、创业者、个人用户均能以极低的成本和极高的效率，将业务需求或创意灵感转化为可直接落地的微信小程序。</p>",
-    "url": "https://www.leiphone.com/category/industrynews/wxqQfD1prf3OQfG4.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "618大促小米迎来开门红，摘得京东手机竞速榜国产冠军",
-    "summary": "<p style=\"text-align: justify; margin-top: 19pt; margin-bottom: 7pt;\"><span style=\"font-family: Arial; font-size: 10.5pt; text-align: left;\">2026 年 618 大促正在进行中，活动从 5 月中旬持续到 6 月18 日，大促进度过半。近日，各电商平台宣布启动开门红活动新政策。小米 618 迎来开门红，多个爆款手机、科技家电销量可圈可点。以京东手机竞速榜为例，截至6 月1 日下午 19点，小米摘得京东手机竞速榜国产累计销量冠军。值得一提的是，小米 15 Ultra直降 1500 元，成为本次 618 期间小米手机优惠力度最大的旗舰机。</span></p><p style=\"margin-top: 15pt; margin-bottom: 6pt;\"><span style=\"font-family: 'Arial'; font-size: 12pt; font-weight: bold;\">存储涨价持续发酵，618成锁定低价关键窗口</span>",
-    "url": "https://www.leiphone.com/category/industrynews/UuldegmKFW9zsxhE.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "腾讯文档行业首发「人机双写」，支持Word、PPT与数据图表",
-    "summary": "<p>6月5日，在2026腾讯云AI产业应用大会上，腾讯文档宣布全面升级，正式发布行业首创的「人机双写」能力。从专供人使用的编辑工具，正式进化为人与AI共同工作的新一代内容平台。</p><p>依托首发的「人机双写」能力，腾讯文档让AI办公从过去来回切屏、手动复制粘贴的繁琐模式，变成能在文档里与用户同屏接力干活的数字同事。比如，用户列好文字提纲，AI即可直接按照逻辑接力填补细节；在处理幻灯片或数据时，AI也能实时接力，一键生成排版精美的PPT或直观的可视化图表。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260605/6a2281cf628cc.png?imageView2/2/w/740\" /></p><p>&nbsp;这一突破性体验的背后，得益于腾讯文档与WorkBuddy的深度技术融合。腾讯文档原生采用了WorkBuddy的统一Agent内核，结合文档自研的高性能编辑引擎工具与丰富的品类专业Skill，实现了Agent对Word、PPT、表",
-    "url": "https://www.leiphone.com/category/industrynews/qSkgFVNBfMkyDldg.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
-    "summary": "<p style=\"text-align: justify;\">[中国，上海，2026年6月5日]&nbsp;今天，华为云INSPIRE创想者大会在上海西岸国际会展中心开幕。华为云在本次新品发布会上正式提出Agentic Infra新范式，并发布Agentic Infra通智一体化基础设施、新一代模型训推平台、企业级智能体平台等系列Agentic AI新品，打造企业级Agentic AI创新的“硅基黑土地”。大会还宣布正式上线“行业AI梦工厂”智慧医疗、具身智能、智能制造、科学计算四大专区，坚持用AI解行业难题，加速发展行业数智化生态。</p><p style=\"text-align: justify;\"><strong>定义Agentic Infra新范式，软硬芯协同做厚“硅基黑土地”</strong></p><p style=\"text-align: justify;\">华为公司董事、华为云CEO周跃峰指出，Agentic AI时代正在引发计算范式的根本性跃迁。</p><p style=\"text-align: center;\"><img src=\"https://static.l",
-    "url": "https://www.leiphone.com/category/citydigital/I7sO2yPT7tpnmnZk.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "中科闻歌发布 Decitron 决策机：跳出问答大模型，AI 迈入真实世界推演时代",
-    "summary": "<p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260605/6a227036ebc89.png?imageView2/2/w/740\" /></p><p style=\"text-align: center;\"><span style=\"font-size: 14px;\">决策机Decitron发布会现场</span></p><p>2026年6月5日，中科闻歌正式发布通用决策大模型——Decitron决策机。作为面向复杂事件、复杂系统和复杂决策打造的产品，Decitron决策机不只是回答问题，而是理解事件、推演路径、比较结果，帮助人类在复杂事务中做决策。</p><p>“AI已经开始像水和电一样进入现实世界和人们的生活。但当AI会聊天、会写作、会画画、会做视频之后，一个更重要的问题正在出现：AI能不能不只是回答问题，而是进一步推演世界、预测未来？”发布会上，中科闻歌董事长王磊抛出了这个关于AI下一阶段发展的关键问题。</p><p>正是基于对这一问题的思考，中",
-    "url": "https://www.leiphone.com/category/industrynews/JvMzCFCNVVx3dav9.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "独家解读丨时隔五年，OpenAI为何非要吃机器人这口「回头草」？",
-    "summary": "<section><section><section><section><section></section><section><section><section><section></section></section></section><section><span><br /></span></section><p style=\"text-align: center; margin-bottom: 24px; line-height: 1.75em;\"><span style=\"font-size: 15px;\"><span style=\"letter-spacing: 0.5px; font-weight: normal;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260605/6a22629301d0a.jpg?imageView2/2/w/740\" /></span></span></p><p style=\"text-align: justify; margin-bottom: 24px; lin",
-    "url": "https://www.leiphone.com/category/industrynews/0P8KvQPzWQpU9F40.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "东南亚家庭“新三大件”  储能电池商家在Lazada卖断货",
-    "summary": "<p>家庭储能，正在被东南亚消费者重新定义。在菲律宾、泰国等地，它已经和空调、冰箱成为家庭的&quot;新三大件&quot;。2025年以来，电价持续上涨、台风频发、地缘冲突推高能源成本等多重因素叠加，东南亚家庭储能、逆变器、户外电源需求集中爆发，并把这股结构性红利一路推上跨境电商货架。在东南亚电商平台 Lazada 上，新能源被纳入重点类目运营，一边帮中国商家加速出海，一边接住东南亚消费者紧迫而刚性的购买需求。</p><p><strong>东南亚的&quot;新三大件&quot;：家庭储能从可选消费升级为基础设施</strong></p><p>与国内平价、稳定的电力供应不同，东南亚多数国家的用电远没有这么省心。&quot;在东南亚很多国家基建相对薄弱，能源也会比较短缺。再加上近期面临的区域性能源紧张，部分城市限时限量供电。&quot;储能电池品牌时空经纬运营总经理大才介绍。一旦遇上台风、电网故障或电价跳涨，家庭储能就不再是锦上添花的可选项，而是一笔关于生活质量的硬性投资。</p><p>支撑需求扩张的，还有东南亚的人口结构。&quot;整个东南亚地区，30 岁以下的人口占比超过了 50",
-    "url": "https://www.leiphone.com/category/industrynews/0HflOOY6vDsrdTAR.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "ThinkAR AiLENS V1 AI智能眼镜正式于日本上市，亚洲市场布局持续扩展",
-    "summary": "<p>轻量化可穿戴AI设备，将实时翻译、AI助手、来电通知与提词功能直接呈现于用户视野之中。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260605/6a22466f350eb.png?imageView2/2/w/740\" /></p><p>东京/上海——2026年6月5日——ThinkAR今日宣布AiLENS V1 AI智能眼镜于日本正式上市。这款轻量化AI可穿戴设备以「让AI信息随时可见、即时获取、解放双手」为核心设计理念，标志着&nbsp;ThinkAR在亚洲重点市场持续扩展的下一阶段。</p><p>AiLENS V1可将实用信息直接显示于用户的视野范围内。通过与智能手机配对，用户无需频繁低头查看手机，即可获取实时翻译内容、AI&nbsp;助手回复、来电通知及提词信息。</p><p>产品支持76种语言的实时翻译，适用于商务出行、酒店旅游、零售服务、教育培训、跨国会议、业务演示及跨境客服等多元场景。无摄像头设计亦使其更易于在办公室、活动场",
-    "url": "https://www.leiphone.com/category/industrynews/AqCfShBxj7cZCuRD.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "解决千万人「如厕难」，智能如厕机器人能否打开新赛道？",
-    "summary": "<section style=\"margin-bottom: 16px;\"><span></span></section><section style=\"margin: 0px; padding: 0px; letter-spacing: 0.544px;\"><section><section><section style=\"margin: 3px auto 0px; padding: 0px; width: 482.156px; background-color: rgb(244, 244, 244);\"><section style=\"margin: 0px; padding: 0px; clear: both; text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260605/6a223a5949f25.jpg?imageMogr2/quality/90\" style=\"margin: 0px; padding: 0px",
-    "url": "https://www.leiphone.com/category/weiwu/D6OsK64LSF2KLUqX.html",
     "platform": "Leiphone"
   }
 ]

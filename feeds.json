@@ -1,5 +1,11 @@
 [
   {
+    "title": "TechCrunch Mobility: A robotaxi ultimatum",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+    "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+    "platform": "TechCrunch"
+  },
+  {
     "title": "Reed Jobs would rather talk about curing cancer than his last name",
     "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same window, creating all kinds of new opportunities; and AI has gone from a curiosity to, in Jobs's words, a huge part of what Yosemite does. \"I didn't expect Yosemite to be moving this fast,\" he said.",
     "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
@@ -7,7 +13,7 @@
   },
   {
     "title": "This slushie machine was a lifesaver during NYC’s heat wave",
-    "summary": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slushie machine builds on the popularity of the original [&#8230;]",
+    "summary": "Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.",
     "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
     "platform": "TechCrunch"
   },
@@ -114,10 +120,52 @@
     "platform": "TechCrunch"
   },
   {
-    "title": "Hugging Face’s CEO on why companies are done renting their AI",
-    "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
-    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-    "platform": "TechCrunch"
+    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+    "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+    "platform": "The Verge"
+  },
+  {
+    "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
+    "summary": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vespertine. But Drew Daniel, one half of Matmos, is fiendishly prolific. When he's not literally dreaming up new viral music genres, he's also putting out records [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
+    "platform": "The Verge"
+  },
+  {
+    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details [&#8230;]",
+    "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "platform": "The Verge"
+  },
+  {
+    "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off",
+    "summary": "SteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, and Switch is available in both black and white. The PlayStation version, which supports the same platforms except for Xbox, is [&#8230;]",
+    "url": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
+    "platform": "The Verge"
+  },
+  {
+    "title": "How Philips Hue got the smart home right",
+    "summary": "The state of the smart home can be frustrating, because it is just so obvious how things ought to work. You should be able to control everything from everywhere. Your spaces should adapt to what you're doing and how you're feeling. Making your home smart shouldn't require renovating, and the smarts should be mostly invisible. [&#8230;]",
+    "url": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history",
+    "platform": "The Verge"
+  },
+  {
+    "title": "Less is more with the Oura Ring 5",
+    "summary": "If you're reading an Oura Ring 5 review at The Verge, you likely fall into one of two camps: newcomers looking for a smartwatch alternative, or Oura users pondering an upgrade. In the case of the former, this is a great casual health tracker and the best smart ring on the market - but not [&#8230;]",
+    "url": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
+    "platform": "The Verge"
+  },
+  {
+    "title": "Blue Prince became a bonding — and learning — experience for my family",
+    "summary": "I've always been the gamer in the family. When my son was born nearly 11 years ago, gaming was one of the things I looked forward to sharing with him. Pulling up a chair next to me, he would watch as I played Sea of Thieves with friends, often wearing the too-big-for-his-head headset to talk [&#8230;]",
+    "url": "https://www.theverge.com/games/964262/blue-prince-family-bonding",
+    "platform": "The Verge"
+  },
+  {
+    "title": "The fight against AI data centers is just beginning",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power [&#8230;]",
+    "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+    "platform": "The Verge"
   },
   {
     "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
@@ -132,52 +180,52 @@
     "platform": "The Verge"
   },
   {
-    "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
-    "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW) through the modern age. As CEO of Image Line, [&#8230;]",
-    "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
-    "platform": "The Verge"
+    "title": "Summer Games Done Quick once again raises over $2 million for Doctors Without Borders",
+    "summary": "The annual speedrunning marathon event ran from July 5-11.",
+    "url": "https://www.engadget.com/2213171/summer-games-done-quick-raises-over-2-million-for-doctors-without-borders/",
+    "platform": "Engadget"
   },
   {
-    "title": "Nintendo’s Talking Flower got a small price cut",
-    "summary": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only kind of serious. The toy is based on a character from Super Mario Bros. Wonder that guides Mario through levels with quippy, whimsical [&#8230;]",
-    "url": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
-    "platform": "The Verge"
+    "title": "What are your plans for AI Appreciation Day?",
+    "summary": "The best way to celebrate AI Appreciation Day is to not.",
+    "url": "https://www.engadget.com/2213147/what-are-your-plans-for-ai-appreciation-day/",
+    "platform": "Engadget"
   },
   {
-    "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
-    "summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will provide scientific reports and advice to the UAP Governing Board, in an effort to \"resolve the nature of UAP,\" or [&#8230;]",
-    "url": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
-    "platform": "The Verge"
+    "title": "Pentagon releases new batch of UFO files, China's Tianwen-2 reaches its asteroid target, and more science stories",
+    "summary": "Catch up on the most interesting science news from the last week.",
+    "url": "https://www.engadget.com/2213137/pentagon-releases-ufo-files-china-tianwen-2-asteroid-science-news/",
+    "platform": "Engadget"
   },
   {
-    "title": "ICE are heavily armed killers. They’re also huge losers",
-    "summary": "Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who said [&#8230;]",
-    "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
-    "platform": "The Verge"
+    "title": "Xbox gamer wins lawsuit against Microsoft to restore account and digital library",
+    "summary": "Microsoft also has to pay roughly $400 in damages to the user.",
+    "url": "https://www.engadget.com/2213111/xbox-gamer-wins-lawsuit-against-microsoft-to-restore-account-and-digital-library/",
+    "platform": "Engadget"
   },
   {
-    "title": "A tasty RPG that will make you very hungry",
-    "summary": "Roleplaying games are often defined by excess. Storylines that span dozens of hours, side quests so big they could be their own game, massive worlds that require complex maps to explore, and casts so big you start forgetting character names. That's part of what makes these games feel like epic adventures, but it can also [&#8230;]",
-    "url": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
-    "platform": "The Verge"
+    "title": "Why GameCube games are so expensive (and why they're rarely sold at retro stores)",
+    "summary": "Vintage games can be hard to find, but Nintendo GameCube titles are exceptionally elusive.",
+    "url": "https://www.engadget.com/2210424/why-gamecube-games-so-rarely-sold/",
+    "platform": "Engadget"
   },
   {
-    "title": "The perfect kit for all your tiny repairs",
-    "summary": "Hi, friends! Welcome to Installer No. 135, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, crank the AC, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about cold plunges and Colson Whitehead and the food truck mafia, [&#8230;]",
-    "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
-    "platform": "The Verge"
+    "title": "Refreshed Apple Pencils may arrive next year with improved repairability",
+    "summary": "Thanks to upcoming EU regulations, the next Apple Pencil could feature replaceable batteries.",
+    "url": "https://www.engadget.com/2213077/refreshed-apple-pencils-may-arrive-next-year-with-improved-repairability/",
+    "platform": "Engadget"
   },
   {
-    "title": "Are you filthy enough for a $700 portable shower?",
-    "summary": "Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An itchy scalp and the vague smell of warm clams suddenly make the idea [&#8230;]",
-    "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
-    "platform": "The Verge"
+    "title": "Why Xiaomi phones aren't banned, but are rarely sold in the US",
+    "summary": "The Chinese company is allowed to sell its impressive phones in the States, but it doesn't. Here's why.",
+    "url": "https://www.engadget.com/2210461/why-xiaomi-not-banned-rarely-sold-usa/",
+    "platform": "Engadget"
   },
   {
-    "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
-    "summary": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received significant backlash over its technology and work with law enforcement agencies, and this letter kicked off yet another wave [&#8230;]",
-    "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
-    "platform": "The Verge"
+    "title": "The correct way to position your router's antennas depends on your home",
+    "summary": "Know where to place your router and how to position its antennas should get you better coverage.",
+    "url": "https://www.engadget.com/2210436/correct-way-to-position-router-antenna-depends-on-your-home/",
+    "platform": "Engadget"
   },
   {
     "title": "Phoebe Gates' AI shopping app Phia reportedly claimed unearned affiliate sales through fake clicks",
@@ -252,52 +300,46 @@
     "platform": "Engadget"
   },
   {
-    "title": "Meta deactivates feature that let you generate AI images of any public Instagram account",
-    "summary": "Meta has deactivated the Muse Image capability to create AI deepfakes of any public Instagram account you @-mention.",
-    "url": "https://www.engadget.com/2212843/meta-deactivates-muse-image-public-instagram-post-ai-images/",
-    "platform": "Engadget"
+    "title": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption",
+    "summary": "In at least two places, Uber has pushed a policy that could give it an advantage over developers of self-driving cars. The company says it’s fighting monopolies.",
+    "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
+    "platform": "Wired"
   },
   {
-    "title": "Apple calls OpenAI's hardware business 'rotten to its core' in trade secret theft lawsuit",
-    "summary": "The lawsuit also names io Products, the hardware company led by Jony Ive.",
-    "url": "https://www.engadget.com/2212759/apple-calls-openais-hardware-business-rotten-to-its-core-in-trade-secret-theft-lawsuit/",
-    "platform": "Engadget"
+    "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+    "summary": "Send the pool guy packing. Let one of these robotic buddies maintain your water quality instead.",
+    "url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+    "platform": "Wired"
   },
   {
-    "title": "Mamdani announces new Click-to-Cancel rule for New York City",
-    "summary": "The rule revives a proposed FTC protection that was abandoned last year.",
-    "url": "https://www.engadget.com/2212741/mamdani-announces-new-click-to-cancel-rule-for-new-york-city/",
-    "platform": "Engadget"
+    "title": "Here’s How Apple Is Updating Its Child Safety Features in iOS 27",
+    "summary": "Apple has announced several new Child Safety features coming soon to iPhones and other devices. Here’s what’s changing.",
+    "url": "https://www.wired.com/story/apple-child-safety-ios-27/",
+    "platform": "Wired"
   },
   {
-    "title": "OpenAI's browser isn't dead, it just moved to the ChatGPT app",
-    "summary": "Let's be real, OpenAI isn't giving up on the browser market, it is just changing its strategy.",
-    "url": "https://www.engadget.com/2212701/openai-browser-isnt-dead/",
-    "platform": "Engadget"
+    "title": "28 Best STEM Toys for Kids (2026): Learning Made Fun",
+    "summary": "We found lots of math-filled and science-rich toys for tiny nerds to assemble, bake, squish—or even tear apart and rebuild.",
+    "url": "https://www.wired.com/gallery/best-stem-toys-for-kids/",
+    "platform": "Wired"
   },
   {
-    "title": "The Meta Glasses backlash is changing how (or if) people use them",
-    "summary": "Backlash online is changing how (or if) people wear Meta's smart glasses.",
-    "url": "https://www.engadget.com/2212604/the-meta-glasses-backlash-is-changing-how-or-if-people-use-them/",
-    "platform": "Engadget"
+    "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+    "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+    "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+    "platform": "Wired"
   },
   {
-    "title": "StubHub CEO is helping fund mass scalpers on his own platform",
-    "summary": "Stubhub CEO Eric Baker is pouring millions of dollars into the ticket-scalping market, CBC reports.",
-    "url": "https://www.engadget.com/2212625/stubhub-ceo-is-helping-fund-mass-scalpers-on-his-own-platform/",
-    "platform": "Engadget"
+    "title": "Best External Hard Drives (2026): SSD to Store Data, Video, and More",
+    "summary": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.",
+    "url": "https://www.wired.com/story/best-portable-external-storage-drives/",
+    "platform": "Wired"
   },
   {
-    "title": "FCC grants approval for sun-reflecting space mirror that's been widely criticized by astronomers",
-    "summary": "Reflect Orbital wants to direct sunlight at night with a network of satellites.",
-    "url": "https://www.engadget.com/2212600/fcc-grants-approval-for-sun-reflecting-space-mirror/",
-    "platform": "Engadget"
-  },
-  {
-    "title": "Metal balls from space are popping up on Australia's beaches",
-    "summary": "Sadly, we don't think aliens were involved in this particular space balls incident.",
-    "url": "https://www.engadget.com/2211639/metal-balls-space-junk-on-australia-beaches/",
-    "platform": "Engadget"
+    "title": "The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot",
+    "summary": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
+    "url": "https://www.wired.com/gallery/best-pet-cameras/",
+    "platform": "Wired"
   },
   {
     "title": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
@@ -378,46 +420,10 @@
     "platform": "Wired"
   },
   {
-    "title": "What Watching a Soccer Final Does to Your Body, According to Science",
-    "summary": "A recent study tracked hundreds of soccer fans until their favorite team reached the final of a tournament. Their stress levels skyrocketed, and their heart rates jumped too.",
-    "url": "https://www.wired.com/story/what-watching-soccer-final-does-to-your-body/",
-    "platform": "Wired"
-  },
-  {
-    "title": "Hiboy P6 Fat Tire Electric Bike Review: Smooth Sailing",
-    "summary": "Take on sand, snow, mud, gravel—this is the ebike for all your off-roading adventures.",
-    "url": "https://www.wired.com/review/hiboy-p6-fat-tire-electric-bike/",
-    "platform": "Wired"
-  },
-  {
-    "title": "Meta’s Pursuit of the 'Careless People' Author Is Relentless and Self-Defeating",
-    "summary": "Yes, Sarah Wynn-Williams violated her deal to stay silent. But the power disparity bolsters the view that Meta is a heartless bully.",
-    "url": "https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/",
-    "platform": "Wired"
-  },
-  {
-    "title": "How to Share Your Location on an iPhone or Android Phone (2026)",
-    "summary": "Whether it’s through Google Maps or Emergency SOS, there are plenty of ways to quickly let your loved ones know where you are.",
-    "url": "https://www.wired.com/story/how-to-share-your-location-android-ios/",
-    "platform": "Wired"
-  },
-  {
-    "title": "Which MacBook to Buy (2026): My Honest Advice on Which to Buy",
-    "summary": "MacBooks are now more expensive than ever, and having tested all the latest models, here’s my honest advice on which to buy.",
-    "url": "https://www.wired.com/story/which-macbook-should-you-buy/",
-    "platform": "Wired"
-  },
-  {
-    "title": "The Best Pool Accessories to Upgrade Your Summer (2026)",
-    "summary": "These are the cleaning robots, water monitors, and toys actually worth buying for pool season.",
-    "url": "https://www.wired.com/story/best-pool-accessories/",
-    "platform": "Wired"
-  },
-  {
-    "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
-    "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
-    "url": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
-    "platform": "Wired"
+    "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
+    "summary": "New climate evidence adds context to these long voyages.",
+    "url": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
+    "platform": "Ars Technica"
   },
   {
     "title": "A Jupiter-size planet that escaped its star's death",
@@ -534,10 +540,58 @@
     "platform": "Ars Technica"
   },
   {
-    "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
-    "summary": "In neighboring Ohio, cases have reportedly reached over 500.",
-    "url": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
-    "platform": "Ars Technica"
+    "title": "How Once-Struggling SK Hynix Became a Trillion-Dollar Company",
+    "summary": "SK Hynix Inc. is hardly a household name. But the maker of memory chips, which two decades ago was struggling to survive, is now South Korea’s second-most valuable listed company, just behind Samsung Electronics Co.",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-what-to-know-about-us-listing-how-it-became-an-ai-powerhouse",
+    "platform": "Bloomberg Tech"
+  },
+  {
+    "title": "MiniMax Shares Slump After JPMorgan Cuts Target Price Further",
+    "summary": "MiniMax Group Inc.’s shares plunged, after JPMorgan Chase &amp; Co. slashed the Chinese AI model maker’s price target for the second time in less than a week on value dilution concerns caused by fresh fundraising.",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-13/minimax-shares-slump-after-jpmorgan-cuts-target-price-further",
+    "platform": "Bloomberg Tech"
+  },
+  {
+    "title": "アップルのMacチップ戦略転換、自動運転車の「失敗」がAI基盤築く－Power On",
+    "summary": "中止した自動運転車開発の技術遺産。現在のAI競争力を支える意外な理由とは。",
+    "url": "https://www.bloomberg.com/jp/news/newsletters/2026-07-13/TI3F02VTTCZK00",
+    "platform": "Bloomberg Tech"
+  },
+  {
+    "title": "Hyundai Motor Workers Strike Over Bonuses, Robot Job Security",
+    "summary": "Hyundai Motor Co. workers began a three-day partial strike on Monday as their union demands bigger bonuses following landmark deals at semiconductor companies, and seek guarantees jobs won’t be lost to AI and robots.",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-13/hyundai-hymtf-workers-strike-over-bonuses-ai-robot-job-security",
+    "platform": "Bloomberg Tech"
+  },
+  {
+    "title": "Netflix Combats Questions About Slowing Growth",
+    "summary": "Netflix’s growth is slowing. What comes next?",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-12/netflix-combats-questions-about-slowing-growth",
+    "platform": "Bloomberg Tech"
+  },
+  {
+    "title": "Apple’s M6, M7 and M8 Chips Show How AI Is Reshaping the Company",
+    "summary": "Also: New Apple Pencils are coming.",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro",
+    "platform": "Bloomberg Tech"
+  },
+  {
+    "title": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models",
+    "summary": "Three prominent artificial intelligence developers released new models over the past week. They all promise to be more advanced, but their biggest immediate selling point may not be what they can do but how little they charge to do it.",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models",
+    "platform": "Bloomberg Tech"
+  },
+  {
+    "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
+    "summary": "The founder of Chinese AI lab Zhipu argued that frontier artificial intelligence should remain broadly accessible rather than controlled by select individuals, weighing in on a growing debate about the risks posed by ever more powerful models.",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+    "platform": "Bloomberg Tech"
+  },
+  {
+    "title": "China EVs on Road Have Average Age of 1.8 Years, Newspaper Says",
+    "summary": "Chinese electric vehicles on the road are on average just 1.8 years old, compared with 8.2 years for gasoline-powered cars, 21st Century Business Herald reported, citing a report by the China Association of Automobile Manufacturers and Hejun Consulting.",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-12/china-evs-average-1-8-years-on-road-less-than-cell-phones",
+    "platform": "Bloomberg Tech"
   },
   {
     "title": "Apple Sues OpenAI Over AI Talent Fight",
@@ -555,108 +609,6 @@
     "title": "Why Fox is ‘the most Disciplined’ Media Entertainment Company in the Streaming Era",
     "summary": "Media veteran Michael Wolf discusses Allen & Company’s annual Sun Valley Conference and breaks down the mega deals that are reshaping the entertainment industry. He explains why free ad-supported content is the unsung winner of the streaming wars, and digs into the ways AI is changing the value of content.  (Source: Bloomberg)",
     "url": "https://www.bloomberg.com/news/videos/2026-07-11/michael-wolf-on-why-ai-is-changing-the-value-of-content-video",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "Tencent in Talks to Take Big Manus Stake After Meta Deal Unwound",
-    "summary": "Tencent Holdings Ltd. is in discussions to become the largest external shareholder in Manus, in a deal to buy back the agentic AI pioneer after Chinese regulators struck down Meta Platforms Inc.’s blockbuster acquisition.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-10/tencent-in-talks-to-become-largest-holder-of-manus-ft-reports-mrectviz",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
-    "summary": "OpenAI head of safety Johannes Heidecke is leaving the artificial intelligence company following a reorganization, according to Wired.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "US Eases Export Curbs on UAE, Opening Door for AI Chip Sales",
-    "summary": "The Trump administration plans to ease export restrictions on the United Arab Emirates, clearing the way for the Gulf state to buy a broad range of advanced technologies including semiconductors needed to boost its artificial intelligence ambitions.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "Apple Sues OpenAI for Trade Secret Theft in Pivotal Case",
-    "summary": "Apple Inc. sued OpenAI for trade secret theft, accusing the artificial intelligence startup and its hardware chief of engaging in a coordinated campaign to steal information about upcoming products.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "Hedge Fund Elliott Builds Stake in Software Firm CCC",
-    "summary": "Elliott Investment Management has built a large stake in car-insurance software provider CCC Intelligent Solutions Holdings Inc., which has been exploring a potential sale, according to people familiar with the matter.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-10/hedge-fund-elliott-builds-stake-in-software-firm-ccc",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "Gates Heir’s Shopping App Claimed Sales It Didn’t Drive",
-    "summary": "Phia, an advertising startup co-founded by Phoebe Gates, daughter of billionaire Microsoft Corp. co-founder Bill Gates, bills itself as a “personal shopping assistant” that helps users find the lowest prices on a broad range of clothes and fashion accessories.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-09/gates-heir-s-shopping-app-took-credit-for-sales-it-didn-t-drive",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle",
-    "summary": "South Korean memory chipmaker SK Hynix Inc. just pulled off the largest public listing by a foreign company in US market history. Shares soared 13% on their first day of trading.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "Apple Sues OpenAI for Trade Secret Theft",
-    "summary": "Apple sued OpenAI for trade secret theft, accusing the artificial intelligence startup and its hardware chief of engaging in a coordinated campaign to steal information about upcoming products. Apple alleges that OpenAI encouraged Apple employees to share information, components, drawings and other materials related to upcoming products. Mark Gurman reports. (Source: Bloomberg)",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "Lumen Completes Acquisition of Cloud Networking Firm Alkira",
-    "summary": "Chris Stansbury, CFO, of Lumen and Nina Trentmann, Bloomberg News Senior Editor join Bloomberg Businessweek Daily discuss their recent acquisition of Alkira, a cloud-native networking company that helps enterprises manage connectivity across cloud, data center, and edge environments through a single control plane. (Source: Bloomberg)",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-10/lumen-completes-acquisition-alkira-video",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "SK Hynix Climbs 13% After Record $26.5 Billion US Offering",
-    "summary": "SK Hynix Inc. delivered a 13% gain in its debut trading day on a US exchange, after breaking the record for the biggest first-time share sale by a foreign company.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-indicated-to-climb-17-after-26-5-billion-adr-offering",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "SK Hynix CEO Expects Memory Crunch to Last Beyond 2030",
-    "summary": "The memory-chip shortages that are roiling the computer, car and device markets will probably persist beyond 2030, according to SK Hynix Inc. Chief Executive Officer Kwak Noh-Jung.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-chief-expects-memory-shortage-to-last-into-next-decade",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "SK Hynix Starts Trading on Nasdaq, Opens 14% Above Offer Price | Bloomberg Tech 7/10/2026",
-    "summary": "Ed Ludlow sits down for an interview with SK Group Chairman Chey Tae-won from the Nasdaq to discuss SK Hynix's US listing, the biggest-ever by a foreign company. Meanwhile, Bloomberg’s David Gura takes a look at SK Hynix shares as they start trading on the Nasdaq, and dives deeper into the listing's impact on the rest of the US chip sector. (Source: Bloomberg)",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-tech-7-10-2026-video",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "Nasdaq President Sees SK Hynix Listing Growing Foreign IPO Pipeline",
-    "summary": "Nasdaq President Nelson Griggs says the record-breaking SK Hynix ADR listing is already attracting looks from more foreign companies that may consider US listings. He says JPMorgan Chase struck the right balance on the SK Hynix pricing. Griggs speaks to Bloomberg's Ed Ludlow in New York at the Nasdaq.  (Source: Bloomberg)",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-10/nasdaq-sees-sk-listing-growing-foreign-ipo-pipeline-video",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "SK Chairman Promises ‘Much, Much Bigger’ US Investment Plan",
-    "summary": "SK Group Chairman Chey Tae-won, fresh off a landmark US stock offering for the conglomerate’s memory-chip business, said he has an ambitious plan to invest more money in America.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-10/sk-chairman-says-he-has-much-much-bigger-us-investment-plan",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "SK Hynix ADRs Surge After Record $26.5 Billion US Offering",
-    "summary": "SK Hynix Inc.’s American depositary receipts surged above their offering price, after the South Korean memory chipmaker raised $26.5 billion in the largest-ever US listing by a foreign company.\n\nThe ADRs opened at $170 each on Friday in New York, versus an offering price of $149 apiece. The successful mega-listing brushed aside concern over recent volatility among chipmakers, demonstrating investors have plenty of appetite for direct exposure to SK Hynix’s dominant position in high-bandwidth mem",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-adrs-surge-after-record-26-billion-us-offering-video",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "SK Chairman Chey Tae-won on SK Hynix Debut, AI Demand and US Plans",
-    "summary": "Chey Tae-won, chairman of SK Hynix parent SK Group, says they waited a long time to list SK Hynix in the US and calls it a \"dream come true.\" The head of the South Korean chipmaker talks about raising $26.5 billion in the largest-ever US listing by a foreign company and also discusses the outlook for AI demand and his US investment plans. (Source: Bloomberg)",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-on-sk-hynix-debut-ai-demand-and-us-plans-video",
-    "platform": "Bloomberg Tech"
-  },
-  {
-    "title": "Payment Firms Emerge as Target in Fight Against Illegal Casinos",
-    "summary": "A trade body for European gambling companies has filed a complaint to the Lithuanian banking regulator seeking an investigation of a payment company that it alleges props up illegal online casinos.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-10/egba-seeks-probe-of-walletto-over-unlicensed-gambling-payments",
     "platform": "Bloomberg Tech"
   },
   {
@@ -750,6 +702,42 @@
     "platform": "GameSpot"
   },
   {
+    "title": "Summer Games Done Quick 2026 raises another $2.4 million for Doctors Without Borders",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/Kirby-Air-Raiders_Kirby_main.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Summer Games Done Quick (SGDQ) 2026 has finished up raising another $2.4 million (&pound;1.8m) for Doctors Without Borders/M&eacute;decins Sans Fronti&egrave;res.</p> <p><a href=\"https://www.eurogamer.net/sgdq-2026-raises-24-m\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/sgdq-2026-raises-24-m",
+    "platform": "Eurogamer"
+  },
+  {
+    "title": "Steam's \"no questions asked\" refund policy makes it \"super easy for players to abuse this rule\", says indie developer",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/ss_951767b5cc22d619992fcc91e859453ab7a2fce5.1920x1080.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>An indie developer who says they have had to refund 55,000 sales allegedly due to Steam's two-hour refund policy said it \"should not be possible\" for players to be refunded for games they leave positive reviews for.</p> <p><a href=\"https://www.eurogamer.net/indie-dev-steam-refund-policy\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/indie-dev-steam-refund-policy",
+    "platform": "Eurogamer"
+  },
+  {
+    "title": "God of War Laufey studio hints at 2027 release window following tweet that assures players it \"will be available on disc\"",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/god-of-war-laufey.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>We may not know the precise release date of the upcoming God of War Laufey, but a new tweet suggests we'll get it before the end of 2027.</p> <p><a href=\"https://www.eurogamer.net/god-of-war-laufey-disc-confirmed\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/god-of-war-laufey-disc-confirmed",
+    "platform": "Eurogamer"
+  },
+  {
+    "title": "Marvel Tōkon: Fighting Souls' single-player Episode Modes have been written by legendary writer, Kieron Gillen",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/Marvel-Tokon_teamup.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Marvel T&amp;omacrkon: Fighting Souls' single-player mode, Episode Mode, has been written by legendary comic writer and former games journalist, Kieron Gillen.</p> <p><a href=\"https://www.eurogamer.net/marvel-tokon-fighting-souls-episode-modes-kieron-gillen\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-episode-modes-kieron-gillen",
+    "platform": "Eurogamer"
+  },
+  {
+    "title": "Tomb Raider: Legacy of Atlantis actor wraps up \"on the last official session\" of recording",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/Lara-Croft-holds-her-two-pistols-at-arms-length-in-Tomb-Raider-Legacy-of-Atlantis.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Alix Wilton Regan, the new voice behind Crystal Dynamics and Flying Wild Hog's new Lara Croft, has confirmed she has finished up recording for Tomb Raider: Legacy of Atlantis.</p> <p><a href=\"https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-wraps-recording\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-wraps-recording",
+    "platform": "Eurogamer"
+  },
+  {
+    "title": "The Descent - how game devs learned to love ladders",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/ladders.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Before Xbox <a href=\"https://www.eurogamer.net/xbox-shuts-slew-of-bethesda-studios-including-redfall-hi-fi-rush-developers\">closed Arkane Austin</a>, the studio had 20 design philosophies plastered on its walls. One read, succinctly, \"Fuck ladders.\"</p> <p><a href=\"https://www.eurogamer.net/the-descent-how-game-devs-learned-to-love-ladders\">Read more</a></p>",
+    "url": "https://www.eurogamer.net/the-descent-how-game-devs-learned-to-love-ladders",
+    "platform": "Eurogamer"
+  },
+  {
     "title": "Warframe's next major update blends Blade Runner, The Sopranos, and film noir in a whole new solar system, coming later this year",
     "summary": "<img src=\"https://assetsio.gnwcdn.com/WF_TauDemo_Screenshotr_Brysko_3840x2160.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Digital Extremes has wrapped up this year's Tennocon Live event with a massive reveal trailer for <a href=\"https://www.eurogamer.net/games/warframe\">Warframe</a>'s next major update: Warframe: Tau. This update brings players to a <a href=\"https://www.eurogamer.net/games/blade-runner\">Blade Runner</a> and Sopranos-inspired locale, and tackles themes of add",
     "url": "https://www.eurogamer.net/warframe-tau-tennocon-reveal-blade-runner-sopranos",
@@ -834,40 +822,52 @@
     "platform": "Eurogamer"
   },
   {
-    "title": "\"It was like being back in 2016\" Pokémon Go celebrates 10th anniversary by recreating the original trailer's Times Square Mewtwo raid",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/Pokemon_Go_Times_Square_69.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Last night <a href=\"https://www.eurogamer.net/games/pokemon-go\">Pok&eacute;mon Go</a> celebrated its 10th anniversary by fulfilling the final promise of <a href=\"https://www.youtube.com/watch?v=QqeuXGxOIjo&amp;t\">the game's original trailer</a>: giving players the chance to battle Mewtwo in Times Square.</p> <p><a href=\"https://www.eurogamer.net/pokemon-go-10th-annive",
-    "url": "https://www.eurogamer.net/pokemon-go-10th-anniversary-mewtwo-times-square",
-    "platform": "Eurogamer"
+    "title": "Phoebe Bridgers Launches Itch.io Page With An Infinite Runner",
+    "summary": "<img alt=\"Bridgers\" class=\"attachment-full size-full wp-post-image\" height=\"755\" src=\"https://kotaku.com/app/uploads/2026/07/bridgers.jpg\" style=\"height: auto; margin: auto;\" width=\"1280\" /><br /><br />The indie superstar breaks her hiatus with a <i>RuneScape</i> inspired single and a <i>Subway Surfers</i> style micro game",
+    "url": "https://kotaku.com/phoebe-bridgers-launches-itch-io-page-with-an-infinite-runner-2000715034",
+    "platform": "Kotaku"
   },
   {
-    "title": "\"No thanks!\" - Assassin's Creed Black Flag remake Resynced being review bombed on Steam for single-player microtransactions",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/Black-Flag-store.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The remake of Assassin's Creed Black Flag, Resynced, is off to a flying start. Before it even launched, <a href=\"https://www.eurogamer.net/assassins-creed-black-flag-resynced-early-sales-shadows\">the game was already on track to out-perform,Assassin's Creed Shadows,</a> pulling in \"roughly $14m in gross revenue\" for publisher Ubisoft. Not bad!</p> <p><a href=\"https://www.euroga",
-    "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-steam-review-bomb-dlc",
-    "platform": "Eurogamer"
+    "title": "Expensive Games Are Fueling Steam’s Most Lucrative Year Despite Players Trending Towards Older Releases",
+    "summary": "<img alt=\"Steamrequiem\" class=\"attachment-full size-full wp-post-image\" height=\"793\" src=\"https://kotaku.com/app/uploads/2026/07/steamrequiem.jpg\" style=\"height: auto; margin: auto;\" width=\"1360\" /><br /><br />While the industry crumbles around it, the leading PC gaming portal is seeing its highest gross revenues off surprise hits, new demographics and higher priced blockbusters",
+    "url": "https://kotaku.com/expensive-games-are-fueling-steams-most-lucrative-year-despite-players-trending-towards-older-releases-2000715030",
+    "platform": "Kotaku"
   },
   {
-    "title": "Xbox leader Asha Sharma has joined a US government task force for employment, days after announcing restructuring that has left thousands of people without jobs",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/sharma-fed.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>After spearheading<a href=\"https://www.eurogamer.net/microsoft-xbox-layoffs-2026-double-fine-compulsion-ninja-theory\"> a restructuring of Xbox that resulted in 3200 job losses</a>,  Xbox CEO Asha Sharma has been asked to be an advisor to the US Federal Reserve for Productivity and Jobs, where she will seemingly lead a task force related to, ironically, employment.</p> <p><a href=\"htt",
-    "url": "https://www.eurogamer.net/asha-sharma-xbox-us-government-employment-task-force",
-    "platform": "Eurogamer"
+    "title": "Ubisoft Drops Claim That Monetization Makes Games ‘More Fun’ From Annual Report",
+    "summary": "<img alt=\"Ubisoftfun\" class=\"attachment-full size-full wp-post-image\" height=\"628\" src=\"https://kotaku.com/app/uploads/2026/07/ubisoftfun.jpg\" style=\"height: auto; margin: auto;\" width=\"1114\" /><br /><br />Unclear if they can hear themselves talk, the new internal report also cautions against game development cycles taking too long",
+    "url": "https://kotaku.com/ubisoft-drops-claim-that-monetization-makes-games-more-fun-from-annual-report-2000715026",
+    "platform": "Kotaku"
   },
   {
-    "title": "Dragon Age creator reckons the series is dead following Veilguard flop, but that doesn't mean he wouldn't have another go at it if given the chance",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/dragon-age-the-veilguard-lucanis-leaning-against-fireplace_d8rrCZZ.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Following the poor commercial performance of 2024's <a href=\"https://www.eurogamer.net/dragon-age-the-veilguard-walkthrough-tips-and-tricks-guide\">Dragon Age: The Veilguard</a>, Dragon Age creator David Gaider has said he believes developer BioWare's beloved fantasy RPG series is likely dead. But if some twist of fate ever meant",
-    "url": "https://www.eurogamer.net/dragon-age-future-david-gaider-bioware",
-    "platform": "Eurogamer"
+    "title": "Brazilian Court Forces Xbox To Restore Hacked Account And Pay Damages As Players Grapple With An All-Digital Future",
+    "summary": "<img alt=\"Image:\" class=\"attachment-full size-full wp-post-image\" height=\"734\" src=\"https://kotaku.com/app/uploads/2019/05/l5dyuzkmobnf1sreh4n8.jpg\" style=\"height: auto; margin: auto;\" width=\"1309\" /><br /><br />Microsoft reportedly assigned 12 lawyers to argue over $400 and some video games",
+    "url": "https://kotaku.com/brazilian-courts-force-xbox-to-restore-hacked-account-and-pay-damages-2000715020",
+    "platform": "Kotaku"
   },
   {
-    "title": "Bungie gives Destiny 2 players a final farewell gift as the game enters maintenance mode",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/d2-header-end.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/destiny-2\">Destiny 2</a> developer Bungie surprised fans earlier this week with something of a farewell gift. The developer <a href=\"https://x.com/Destiny2Team/status/2074571515530784976\">posted a code on X</a> that players <a href=\"https://t.co/yXhvWpj27e\">can redeem on Bungienet</a> to claim a free emblem.</p> <p><a href=\"https://www.euro",
-    "url": "https://www.eurogamer.net/destiny-2-farewell-gift-emblem-final-update",
-    "platform": "Eurogamer"
+    "title": "Vanillaware Artist Moved Into The Mountains For Six Years To Create Lush Love Letter To Old School RPGs",
+    "summary": "<img alt=\"Vanillaso1\" class=\"attachment-full size-full wp-post-image\" height=\"1001\" src=\"https://kotaku.com/app/uploads/2026/07/vanillaso1.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />Yoshio Nishimura’s <i>Veritas Tales: Witch of the Dark Castle</i> is a delightfully quirky love letter to the likes of <i>Grailquest</i> and <i>Deathtrap Dungeon</i>",
+    "url": "https://kotaku.com/vanillaware-artist-moved-into-the-mountains-for-six-years-to-create-lush-love-letter-to-old-school-rpgs-2000715013",
+    "platform": "Kotaku"
   },
   {
-    "title": "Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/ps-store-retail.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Earlier this month, <a href=\"https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028\">Sony announced that it's ending manufacturing of physical PlayStation discs beginning January 2028</a>. The shocking decision means future releases, both from Sony Interactive Entertainment and every other publisher on the planet, will only be available in digital fo",
-    "url": "https://www.eurogamer.net/retail-shop-games-cheaper-report-sony-ending-playstation-discs",
-    "platform": "Eurogamer"
+    "title": "Warframe Dev Calls The Sudden Death Of Destiny 2 Horrible News And Says It’s Terrifying To Not Be In Charge Of Your Own ‘Goodbye’",
+    "summary": "<img alt=\"Art shows characters for Warframe.\" class=\"attachment-full size-full wp-post-image\" height=\"1068\" src=\"https://kotaku.com/app/uploads/2026/07/warframe.jpg\" style=\"height: auto; margin: auto;\" width=\"1900\" /><br /><br />Business realities remain an existential threat to live service art",
+    "url": "https://kotaku.com/warframe-dev-calls-the-sudden-death-of-destiny-2-horrible-news-and-says-its-terrifying-to-not-be-in-charge-of-your-own-goodbye-2000715006",
+    "platform": "Kotaku"
+  },
+  {
+    "title": "Minecraft Adds The Ability To Sit 17 Years Later And It’s Reinventing Everything",
+    "summary": "<img alt=\"Minecraft characters sit around a camp fire.\" class=\"attachment-full size-full wp-post-image\" height=\"498\" src=\"https://kotaku.com/app/uploads/2026/07/sitting.jpg\" style=\"height: auto; margin: auto;\" width=\"888\" /><br /><br />Mojang, please don't nerf the cushion",
+    "url": "https://kotaku.com/minecraft-adds-the-ability-to-sit-17-years-later-and-its-reinventing-everything-2000714330",
+    "platform": "Kotaku"
+  },
+  {
+    "title": "Christopher Nolan Says Young People Absolutely Hate AI: ‘In Filmmaking It’s Hitting At Exactly The Wrong Time’",
+    "summary": "<img alt=\"Batman stands in front of computer screens.\" class=\"attachment-full size-full wp-post-image\" height=\"576\" src=\"https://kotaku.com/app/uploads/2026/07/batman.jpg\" style=\"height: auto; margin: auto;\" width=\"1016\" /><br /><br /><i>The Odyssey</i> director says it's hitting at the wrong time for Hollywood",
+    "url": "https://kotaku.com/christopher-nolan-points-out-that-everyone-hates-ai-2000714998",
+    "platform": "Kotaku"
   },
   {
     "title": "Official Avengers: Doomsday Art Gives Clearest Look At Returning X-Men, Mystique’s Awful New Haircut",
@@ -942,52 +942,64 @@
     "platform": "Kotaku"
   },
   {
-    "title": "Everything We Know About Marvel Tōkon: Fighting Souls, The Next Big Marvel Fighter",
-    "summary": "<img alt=\"Captain America gives Iron Man a punch to the gut.\" class=\"attachment-full size-full wp-post-image\" height=\"1100\" src=\"https://kotaku.com/app/uploads/2025/08/captain-america-vs-iron-man-in-m.jpg\" style=\"height: auto; margin: auto;\" width=\"2200\" /><br /><br />Arc System Works is stepping into the Marvel fighting game ring",
-    "url": "https://kotaku.com/marvel-tokon-fighting-souls-release-date-characters-pc-ps5-2000714734",
-    "platform": "Kotaku"
+    "title": "Pixel 11 Pro Fold leak shows off Google’s classy Pine color and a sleeker camera design",
+    "summary": "A new leak gives us our clearest look yet at the Pixel 11 Pro Fold in Pine while highlighting subtle design tweaks.",
+    "url": "https://www.androidauthority.com/google-pixel-11-pro-pine-leak-3686662/",
+    "platform": "Android Authority"
   },
   {
-    "title": "Assassin’s Creed Black Flag Resynced Unit Sales Figures Are The First Ubisoft Has Released In Many Years",
-    "summary": "<img alt=\"A pirate holds up guns on a ship.\" class=\"attachment-full size-full wp-post-image\" height=\"902\" src=\"https://kotaku.com/app/uploads/2026/04/Assassins-creed-black-flag.jpg\" style=\"height: auto; margin: auto;\" width=\"1633\" /><br /><br />Is that even allowed?",
-    "url": "https://kotaku.com/ubisoft-actual-sales-figure-assassins-creed-black-flag-resynced-2000714753",
-    "platform": "Kotaku"
+    "title": "PSA: T-Mobile’s free Wi-Fi offer ends tomorrow for United Airlines flights",
+    "summary": "Say goodbye to free in-flight Wi-Fi.",
+    "url": "https://www.androidauthority.com/tmobile-free-wifi-ends-on-united-flights-3686655/",
+    "platform": "Android Authority"
   },
   {
-    "title": "8 Incredible Speedruns You Have To Watch Right Now",
-    "summary": "<img alt=\"Games Done Quick Photo By Dj &quot;professorburtch&quot; Burtch\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://kotaku.com/app/uploads/2026/07/20260707-BUR-04027.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />Summer Games Fest Done Quick is not over yet, but there are plenty of gems you can watch on VOD",
-    "url": "https://kotaku.com/best-summer-games-done-quick-2026-speedruns-to-watch-2000714726",
-    "platform": "Kotaku"
+    "title": "Microsoft may make big changes to bring Android and Windows 11 closer together",
+    "summary": "Microsoft wants to deepen Android integration and make it more seamless on Windows.",
+    "url": "https://www.androidauthority.com/microsoft-more-deeply-integrating-android-in-windows-3686649/",
+    "platform": "Android Authority"
   },
   {
-    "title": "12 Great Nintendo Switch Games To Play On A Summer Beach Vacation",
-    "summary": "<img alt=\"Image: Nintendo\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://kotaku.com/app/uploads/2020/06/z2semou079x9yaorkwys.jpg\" style=\"height: auto; margin: auto;\" width=\"1280\" /><br /><br />Dock yourself in a beach chair and enjoy a video game or two",
-    "url": "https://kotaku.com/12-nintendo-switch-games-summer-beach-vacation-2000714245",
-    "platform": "Kotaku"
+    "title": "I used the Motorola Razr Fold and Pixel 10 Pro Fold, and only one keeps winning me over",
+    "summary": "Motorola hit all the right notes.",
+    "url": "https://www.androidauthority.com/i-used-motorola-razr-fold-and-google-pixel-10-pro-fold-3685952/",
+    "platform": "Android Authority"
   },
   {
-    "title": "Doom Maker id Software Pushes Back Against Concerns About Its Future: ‘We Still Have The Crew We Need To Build The Games And Tech We’re Known For’",
-    "summary": "<img alt=\"Art shows Doom Slayer killing demons.\" class=\"attachment-full size-full wp-post-image\" height=\"760\" src=\"https://kotaku.com/app/uploads/2026/07/doom.jpg\" style=\"height: auto; margin: auto;\" width=\"1344\" /><br /><br />The studio just shipped an expansion for <i>Doom: The Dark Ages</i>",
-    "url": "https://kotaku.com/doom-maker-id-software-pushes-back-against-concerns-about-its-future-we-still-have-the-crew-we-need-to-build-the-games-and-tech-were-known-for-2000714747",
-    "platform": "Kotaku"
+    "title": "Stop giving away your email address — use these 5 email alias services instead",
+    "summary": "A simple privacy upgrade to protect your personal email.",
+    "url": "https://www.androidauthority.com/best-email-alias-services-2026-3685703/",
+    "platform": "Android Authority"
   },
   {
-    "title": "EU Can’t Force Sony To Keep Making Physical Games, Says Consumer Rights Commissioner",
-    "summary": "<img alt=\"Ps5discs\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/07/ps5discs.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />The European Union won't stop the all-digital future that video game fans are facing",
-    "url": "https://kotaku.com/eu-cant-force-sony-to-keep-making-physical-games-says-consumer-rights-commissioner-2000714728",
-    "platform": "Kotaku"
+    "title": "3 reasons why I want to ditch Google, and 3 reasons why I can’t",
+    "summary": "As much as I rage against Google services, the company also has me in a chokehold.",
+    "url": "https://www.androidauthority.com/reasons-to-ditch-google-but-why-i-cant-3684072/",
+    "platform": "Android Authority"
   },
   {
-    "title": "Everything We Know About Fire Emblem: Fortune’s Weave, The Switch 2’s Big Strategy RPG",
-    "summary": "<img alt=\"Fire Emblem Fortunes Weave\" class=\"attachment-full size-full wp-post-image\" height=\"759\" src=\"https://kotaku.com/app/uploads/2026/07/Fire-Emblem-Fortunes-Weave.jpg\" style=\"height: auto; margin: auto;\" width=\"1350\" /><br /><br />Some little details suggest that <i>Fortune's Weave</i> might be a sequel to <i>Three Houses</i> set in a far-flung future",
-    "url": "https://kotaku.com/fire-emblem-fortunes-weave-characters-combat-three-houses-sequel-2000714670",
-    "platform": "Kotaku"
+    "title": "The TCL NXTPAPER 11 Plus is a budget Android tablet that finally does something different",
+    "summary": "This budget slate has got more personality than any $250 tablet has a right to.",
+    "url": "https://www.androidauthority.com/tcl-nxtpaper-11-plus-review-3681246/",
+    "platform": "Android Authority"
   },
   {
-    "title": "The Water In This 2002 Surfing Game Is Blowing People’s Minds",
-    "summary": "<img alt=\"Water Baby\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/07/water-baby.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><br /><br />Gnarly water Kelly Slater, most excellent dude",
-    "url": "https://kotaku.com/the-water-in-this-2002-surfing-game-is-blowing-peoples-minds-2000714695",
-    "platform": "Kotaku"
+    "title": "I couldn’t have been more wrong about the Fitbit Air — here’s what changed my mind",
+    "summary": "After three weeks with the Fitbit Air, I'm seriously questioning whether I still need my WHOOP subscription.",
+    "url": "https://www.androidauthority.com/i-couldnt-have-been-more-wrong-about-the-fitbit-air-3685038/",
+    "platform": "Android Authority"
+  },
+  {
+    "title": "Exposing the sneaky math behind your Android phone’s battery life claims in 2026",
+    "summary": "Brands like OnePlus and HONOR are trying to redefine battery health, and not entirely for the better.",
+    "url": "https://www.androidauthority.com/android-phone-battery-life-claims-sneaky-math-2026-3683394/",
+    "platform": "Android Authority"
+  },
+  {
+    "title": "5 carriers you should sign up for instead of Helium Mobile",
+    "summary": "Not excited about Noble's recent acquisition of Helium Mobile? Let's talk alternatives.",
+    "url": "https://www.androidauthority.com/helium-mobile-alternatives-3685358/",
+    "platform": "Android Authority"
   },
   {
     "title": "I tried DuckDuckGo’s new and free YouTube ad blocker. Here’s how it works",
@@ -1050,64 +1062,22 @@
     "platform": "Android Authority"
   },
   {
-    "title": "Bixby users are hearing weird voices they never selected",
-    "summary": "Bixby reportedly keeps switching between different voices after an update, and Samsung has now responded.",
-    "url": "https://www.androidauthority.com/bixby-strange-voices-since-update-3686574/",
-    "platform": "Android Authority"
+    "title": "Samsung Galaxy A57 5G Review: The new mid-range favorite?",
+    "summary": "A for All daily affairs. | The Samsung Galaxy A57 5G builds on its proven strengths: a brilliant display, long battery life, and solid performance. This review shows why this mid-range phone is impressive—and where a lack of innovation and minor shortcomings detract from the overall impression.",
+    "url": "https://www.notebookcheck.net/Samsung-Galaxy-A57-5G-Review-The-new-mid-range-favorite.1340192.0.html",
+    "platform": "Notebook Check"
   },
   {
-    "title": "Latest Galaxy Z Fold 8 leak offers your clearest look yet at Samsung’s new foldables",
-    "summary": "Samsung's new foldables are launching soon, but the leaks keep coming.",
-    "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-z-flip-8-renders-3686550/",
-    "platform": "Android Authority"
+    "title": "Maono P1 hands-on: A compact mobile audio interface for gamers, podcasters, and musicians",
+    "summary": "Mobile mixing. | The Maono P1 audio interface offers creators and gamers a capable audio interface that can be used to make broadcasts from laptops and phones. The mixer provides high mic gain, a low noise floor, and high-resolution music output.",
+    "url": "https://www.notebookcheck.net/Maono-P1-hands-on-A-compact-mobile-audio-interface-for-gamers-podcasters-and-musicians.1334832.0.html",
+    "platform": "Notebook Check"
   },
   {
-    "title": "Walmart may have pulled the Onn Full HD streaming stick — but for a very good reason",
-    "summary": "Walmart's entry-level Onn streaming stick has disappeared from the website.",
-    "url": "https://www.androidauthority.com/onn-hd-streaming-stick-disappears-on-walmart-3686553/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Magic Pointer app listing offers an early look at Gemini on Googlebooks",
-    "summary": "Google's Magic Pointer could change how you interact with Gemini on Googlebooks.",
-    "url": "https://www.androidauthority.com/google-releases-magic-pointer-app-play-store-3686556/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Disney Plus is throwing around the idea of adding a free tier",
-    "summary": "You might soon be able to watch Disney Plus without spending a dime.",
-    "url": "https://www.androidauthority.com/disney-plus-considers-free-tier-3686530/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Samsung’s next-gen SmartTag trackers could be just months away",
-    "summary": "It's been three years, but Samsung's next SmartTag tracker could be coming soon.",
-    "url": "https://www.androidauthority.com/smarttag-3-rumors-3686524/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Pixel owners can get half off new Google Fi service, but not for long",
-    "summary": "It's a 5G flash sale.",
-    "url": "https://www.androidauthority.com/google-fi-half-off-with-pixel-3686509/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Samsung may finally fix Voice Recorder’s biggest transcription limitation",
-    "summary": "Your Samsung phone could soon get much better at transcribing voice notes.",
-    "url": "https://www.androidauthority.com/samsung-voice-recorder-cloud-transcription-3686527/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "Google Pixel 11 Pro Fold appears at the FCC ahead of August launch",
-    "summary": "Pixel 11 Pro Fold's launch feels closer than ever.",
-    "url": "https://www.androidauthority.com/pixel-11-pro-fold-fcc-listing-3686494/",
-    "platform": "Android Authority"
-  },
-  {
-    "title": "This Game Boy Micro-style console instantly sold out — but you get another chance to buy tonight",
-    "summary": "AYANEO Pocket Micro 2 sales return tonight, and you absolutely do not want to miss out.",
-    "url": "https://www.androidauthority.com/pocket-micro-2-sales-3686368/",
-    "platform": "Android Authority"
+    "title": "A lightweight flagship alternative to the Apple iPhone 17 Pro Max - Sony Xperia 1 VIII Review",
+    "summary": "Strong, but not good enough? | Sony's flagship phone is significantly lighter and more compact than a Galaxy S26 Ultra or Xiaomi 17 Ultra, but is also said to be equipped with top-of-the-line cameras. It also features a 3.5-mm headphone jack and a microSD slot. Read the review to find out why the Xperia 1 VIII falls short of the “high-end” designation.",
+    "url": "https://www.notebookcheck.net/Why-this-lightweight-top-of-the-line-smartphone-is-better-than-its-specs-suggest-Sony-Xperia-1-VIII-Review.1340527.0.html",
+    "platform": "Notebook Check"
   },
   {
     "title": "Insta360 Luna Ultra review: Stellar pocket camera with a few caveats",
@@ -1212,22 +1182,52 @@
     "platform": "Notebook Check"
   },
   {
-    "title": "MSI Crosshair A16 HX E8WGK review: Ryzen 9 Zen 4 outperforming Ryzen 9 AI Zen 5",
-    "summary": "Uncommon Ryzen 9 8940HX processor. | The Crosshair A16 HX is laser-focused on optimizing CPU and GPU performance alongside a high quality IPS display while trimming away luxuries like RGB lights, long battery life, good speakers, G-Sync, and Advanced Optimus. Gamers on tighter budgets may find the Crosshair worthwhile.",
-    "url": "https://www.notebookcheck.net/MSI-Crosshair-A16-HX-E8WGK-review-Ryzen-9-Zen-4-outperforming-Ryzen-9-AI-Zen-5.1332012.0.html",
-    "platform": "Notebook Check"
+    "title": "Lenovo's Legion 7a gaming laptop now comes with an RTX 5070 12GB GPU option — but it costs $3,375 paired with a Ryzen AI 9 CPU, SKU was previously limited to RTX 5060",
+    "summary": "Lenovo has added the RTX 5070 12GB GPU to its Legion 7a gaming laptop, allowing you finally configure it with something better than an RTX 5060. It's very expensive at $3,375 but you're getting a genuinely premium machine for that price and an upgraded RTX 5070 that's not limited to just 8GB of VRAM.",
+    "url": "https://www.tomshardware.com/laptops/lenovos-legion-7a-gaming-laptop-now-comes-with-an-rtx-5070-12gb-gpu-option-but-it-costs-usd3-375-paired-with-a-ryzen-ai-9-cpu-sku-was-previously-limited-to-rtx-5060",
+    "platform": "Tom’s Hardware"
   },
   {
-    "title": "What does a $1,700 pair of headphones sound like? Hands-on with the Audeze MM-520 planar magnetic headphones",
-    "summary": "Audiophile unlocked. | I've tested quite a few headphones over the years, but I wanted to find out what a truly expensive pair feels and sounds like in comparison. Can you actually hear the difference without being a hardcore audiophile? I put the new Audeze MM-520, priced at $1,700, to the test.",
-    "url": "https://www.notebookcheck.net/What-does-a-1-700-pair-of-headphones-sound-like-Hands-on-with-the-Audeze-MM-520-planar-magnetic-headphones.1334193.0.html",
-    "platform": "Notebook Check"
+    "title": "Ireland’s data centers consumed nearly as much electricity as every home in the country combined in 2025 — server farms gulped 23% of national power despite years of grid restrictions",
+    "summary": "Ireland’s data centers consumed 23% of the country’s electricity in 2025, rising 10% in one year despite restrictions on new grid connections.",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions",
+    "platform": "Tom’s Hardware"
   },
   {
-    "title": "Titanium smartwatch review: Amazfit Cheetah 2 Pro performs well despite a minor design misstep",
-    "summary": "Subtle yet powerful. | The Amazfit Cheetah 2 Pro is a capable smartwatch with premium materials and a fairly compact yet very bright AMOLED display. It delivers a convincing performance in our test, but one design decision still bothers us.",
-    "url": "https://www.notebookcheck.net/Titanium-smartwatch-review-Amazfit-Cheetah-2-Pro-performs-well-despite-a-minor-design-misstep.1333810.0.html",
-    "platform": "Notebook Check"
+    "title": "Sega Dreamcast driver fixes appear in Linux 7.2-rc3 — fabled console remains in favor while iconic computing architectures like i486 fall by the wayside",
+    "summary": "A set of updates for Sega Dreamcast hardware has been merged into the Linux 7.2-rc3 kernel this weekend.",
+    "url": "https://www.tomshardware.com/software/linux/sega-dreamcast-driver-fixes-appear-in-linux-7-2-rc3-fabled-console-remains-in-favor-while-iconic-computing-architectures-like-i486-fall-by-the-wayside",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Grab a blazing-fast dual-interface M.2 SSD enclosure for just $59 on Amazon — Asus' tool-less ROG Strix Aiolos is 14% off right now, featuring transfer speeds up to 20 Gbps",
+    "summary": "Asus' fancy dual-interface M.2 enclosure is marked down to its lowest price ever on Amazon right now. Not only is it fast, but it also looks clean and has extra on-the-go convenience thanks to its metal hook and strap.",
+    "url": "https://www.tomshardware.com/pc-components/grab-a-blazing-fast-dual-interface-m-2-ssd-enclosure-for-just-usd59-on-amazon-asus-tool-less-rog-strix-aiolos-is-14-percent-off-right-now-featuring-transfer-speeds-up-to-20-gbps",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Sotheby’s video showcases working Apple-1 serial number 01-0033 — part of its upcoming History of Science & Technology sale",
+    "summary": "Sotheby’s is preparing a blockbuster History of Science & Technology sale packed with amazing artifacts and collectors’ items which includes a working Apple-1, serial number 01-0033.",
+    "url": "https://www.tomshardware.com/desktops/sothebys-video-showcases-working-apple-1-serial-number-01-0033-part-of-its-upcoming-history-of-science-and-technology-sale",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Windows 95 didn’t detect installers, it ‘guessed’ based on the file name, says veteran dev — it simply checked for words like setup, install, inst, or localized equivalents",
+    "summary": "The full match list ran to six terms: setup, install, inst, imposta, ayarla, and felrak.",
+    "url": "https://www.tomshardware.com/software/windows/windows-95-detected-installers-by-scanning-program-names-for-the-word-setup",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "FCC approves orbital space mirrors, first test satellites will launch this year — large spacecraft reflects sunlight to Earth’s surface for construction sites, search-and-rescue lighting, and more",
+    "summary": "A startup that aims to bring sunlight on Earth after dark just received approval from the FCC to launch its experimental satellite. Critics say that the project could adversely affect astronomy and the environment, but the regulator says that their complaints are outside of its jursidiction.",
+    "url": "https://www.tomshardware.com/tech-industry/fcc-approves-orbital-space-mirrors-first-test-satellites-will-launch-this-year-large-spacecraft-reflects-sunlight-to-earths-surface-for-construction-sites-search-and-rescue-lighting-and-more",
+    "platform": "Tom’s Hardware"
+  },
+  {
+    "title": "Cooler Master MWE Gold 750 V4 power supply review: Verified Gold efficiency with mainstream pricing",
+    "summary": "The fourth revision of Cooler Master’s renowned mainstream series, coming with verified Gold efficiency, a native 12V-2x6 connector, and GPU Shield current monitoring in a compact 140 mm chassis at a mainstream price.",
+    "url": "https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-gold-750-v4-power-supply-review",
+    "platform": "Tom’s Hardware"
   },
   {
     "title": "This 3D-printed electric motorbike folds into your luggage — creator warns it is 'super fast... way too fast'",
@@ -1302,172 +1302,136 @@
     "platform": "Tom’s Hardware"
   },
   {
-    "title": "Apple sues OpenAI over alleged theft of trade secrets — claims company mentored incoming employees on bringing confidential information",
-    "summary": "Apple sued OpenAI, including its own former employees, over the theft of trade secrets as both companies build up AI hardware businesses.",
-    "url": "https://www.tomshardware.com/tech-industry/big-tech/apple-sues-openai-over-alleged-theft-of-trade-secrets-claims-company-mentored-incoming-employees-on-bringing-confidential-information",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "SK hynix and TetraMem collaborate on experimental chip to bolster energy efficiency for edge AI devices — memristor-based in-memory SoC research leaves performance questions up in the air",
-    "summary": "SK hynix, TetraMem, and the University of Southern California built a memristor-based in-memory computing system-on-chip for AI edge devices, achieving promising energy efficiency, but failed to demonstrate its full potential.",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-hynix-and-tetramem-collaborate-on-experimental-chip-to-bolster-energy-efficiency-for-edge-ai-devices-memristor-based-in-memory-soc-research-leaves-performance-questions-up-in-the-air",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Anthropic says it can read Claude's 'thoughts,' as detailed in new research paper — models observed to have a global workspace, revealing more of what makes LLMs tick",
-    "summary": "Anthropic has discovered an internal \"J-space\" for its Claude AI that displays similarities to human internal processing. While the AI developer anthropomorphizes it as thought, it may yet prove useful as a method of improving LLM honesty, oversight, and guardrails.",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-it-can-read-claudes-thoughts-as-detailed-in-new-research-paper-models-observed-to-have-a-global-workspace-revealing-more-of-what-makes-llms-tick",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Intel's midrange Core Ultra 5 245K is down to its lowest price ever at just $179 on Amazon — save up to 42% on a solid gaming CPU with 14 cores and PCIe 5.0 support",
-    "summary": "Intel's forgotten 14-core SKU from last year has received a sizable discount on Amazon, making it one of the best value propositions in CPUs right now. It performs amicably in gaming and professional tasks thanks to its 6 P-cores and 8 E-cores that can clock up to 5.2 GHz.",
-    "url": "https://www.tomshardware.com/pc-components/intels-midrange-core-ultra-5-245k-is-down-to-its-lowest-price-ever-at-just-usd179-on-amazon-save-up-to-42-percent-on-a-solid-gaming-cpu-with-14-cores-and-pcie-5-0-support",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Steam sales reportedly topped $11 billion during H1 2026 due to shifting trends — staggering growth driven by influx of Chinese players and booming legacy catalogues",
-    "summary": "Steam made an estimated $11.1 billion in revenue in the first six months of 2026, according to estimates from research firm Alinea Analytics. That's more than it did in the entire pandemic-ridden year of 2020. In fact, even last year's holiday season made 8% less money than H1 2026, making this half Valve's best-ever.",
-    "url": "https://www.tomshardware.com/video-games/pc-gaming/steam-sales-reportedly-topped-usd11-billion-during-h1-2026-due-to-shifting-trends-staggering-growth-driven-by-influx-of-chinese-players-and-booming-legacy-catalogues",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Asus ROG Strix Scar 18 (2026) Review: Stunning Mini‑LED, serious muscle, and a few missed steps",
-    "summary": "The Asus ROG Strix Scar 18 pairs an 18-inch mini-LED display with cutting-edge components, but omissions like PCIe 5.0 storage and dual-channel RAM —plus slightly weaker performance than Razer’s Blade 18 —keep it from taking top honors.",
-    "url": "https://www.tomshardware.com/laptops/gaming-laptops/asus-rog-strix-scar-18-2026-review",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "Tencent is reportedly in talks to acquire Manus from Meta, following Beijing intervention — company expects to remain independent of Chinese tech giant",
-    "summary": "Tencent is in talks with Manus and other investors to raise the $2 billion needed to buy back the startup from Meta. Beijing ordered the two companies to unwind the deal six months after the surprise announcement of its purchase.",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tencent-is-reportedly-in-talks-to-acquire-manus-from-meta-following-beijing-intervention-company-expects-to-remain-independent-of-chinese-tech-giant",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "SK hynix raises a record $26.5 billion in historic U.S. IPO — South Korean memory giant to fund massive HBM manufacturing expansions",
-    "summary": "SK hynix raised $26.5 billion in a record-breaking Nasdaq IPO, as it plans to channel the windfall from surging AI demand and sold-out HBM supply to fund new fabs.",
-    "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions",
-    "platform": "Tom’s Hardware"
-  },
-  {
-    "title": "消息称三星电子计划将龙仁首座芯片工厂的投产时间提前至 2029 年",
-    "summary": "<p>IT之家 7 月 12 日消息，据韩联社报道，业内人士周日透露，三星电子正推进其龙仁芯片集群内首座半导体晶圆厂的建设，计划将投产时间提前至 2029 年，比原计划提前一到两年。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/ff981935-0ecd-4222-944f-5a5a1b43b922.jpg?x-bce-process=image/format,f_auto\" /></p><p>这一时间表提前，正值韩国政府加快推进龙仁国家产业园区建设之际。该园区被定位为韩国国家级战略项目，也将成为三星下一代半导体制造基地。</p><p>消息人士称，三星目前计划于 2029 年让龙仁产业园内规划建设的 6 座晶圆厂中的首座正式投产。该产业园位于首尔以南。</p><p>一位半导体行业人士表示：“首座工厂提前投产，将使三星能够更快应对全球人工智能（AI）芯片需求的快速增长。”</p><p>此外，三星上个月还宣布，根据其大",
-    "url": "https://www.ithome.com/0/975/705.htm",
+    "title": "《碧蓝航线》×《尼尔：自动人形》联动详情公开，日服 7 月 16 日上线",
+    "summary": "<p>IT之家 7 月 13 日消息，悠星（Yostar）昨日于 X 平台宣布，<strong>《碧蓝航线》与《尼尔：自动人形》（IT之家注：《尼尔：机械纪元》）的联动将在 7 月 16 日服务器维护结束后举行</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/335741fc-a2b5-4b20-86cd-691b9570ad23.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/1c1d87ab-e691-442f-acc6-0cf2b6e25643.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，本次联动将上线 2B、A2 两位角色，其中 2B 将作为 SSR 轻巡洋",
+    "url": "https://www.ithome.com/0/975/948.htm",
     "platform": "ITHome"
   },
   {
-    "title": "育碧为《刺客信条：黑旗记忆重置》国区玩家发放补偿礼物，含深红风暴船帆、1500 枚 Animus 密钥",
-    "summary": "<p>IT之家 7 月 12 日消息，育碧官方昨天向玩家致信，称《刺客信条：黑旗记忆重置》游戏的各种 Bug 已在全力抢修，补丁将在近期陆续上线。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/66014503-959f-48f2-b927-9d4c49a46d4b.jpg?x-bce-process=image/format,f_auto\" /></p><p>育碧还在信中表示，官方确实在游戏正式上线前给了一部分创作者提前体验的资格，本意是想让大家提前看到游戏的样子。但最终提前开玩、提前直播的人太多结果让无数花了真金白银支持游戏的玩家只能焦急等待，还得满世界躲剧透，育碧对此深表歉意。</p><p>为此，育碧决定向玩家发放一份限时奖励，<strong>所有购买过《刺客信条：黑旗记忆重置》的国区玩家</strong>，<strong>都可免费领取“深红风暴船帆”来装点你的寒鸦号</strong>，<strong>以及 1",
-    "url": "https://www.ithome.com/0/975/704.htm",
+    "title": "《智能体个人信息保护自律公约》发布，百度、腾讯、阿里、火山引擎等 31 家企业首批签署",
+    "summary": "<p>IT之家 7 月 13 日消息，由中国互联网协会网民权益和个人信息保护工作委员会主办的 2026（第二十五届）中国互联网大会网民权益和个人信息保护论坛于 7 月 9 日在京举办。</p><p>中国互联网协会移动互联网工作委员会和中国互联网协会网民权益和个人信息保护工作委员联合发布《智能体个人信息保护自律公约》，现场来自<strong>百度、腾讯、阿里、火山引擎</strong>等 31 家互联网企业签署公约。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/402592cf-816a-49a6-a05f-8c299c0752f7.jpg\" /></p><p>当前，智能体技术正加速融入互联网服务全场景，在提升服务效率的同时，也对个人信息保护提出了全新挑战。本次发布的《智能体个人信息保护自律公约》，<strong>围绕智能体个人信息处理建立完整自律规范，引导企业在推进技术创新的同时，严守个人信息保护底线</strong>。</p><p>",
+    "url": "https://www.ithome.com/0/975/944.htm",
     "platform": "ITHome"
   },
   {
-    "title": "别墅可用：华为靳玉志实测启境 GT7，首曝 ADS 5 能自定义收藏没划线的「野生车位」",
-    "summary": "<p>IT之家 7 月 12 日消息，启境 GT7 已于 7 月 9 日正式开启全国交付，启境汽车 CEO 刘嘉铭和华为智能汽车解决方案 BU CEO 靳玉志昨日直播实测了这款新车。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/911d0976-cf2f-4dac-ae83-48b09d0b194d.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，在直播中，靳玉志首曝了华为乾崑智驾 ADS 5 的一项新特性 —— <strong>没划线的「野生车位」也能自定义收藏</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/ea021813-8055-460a-b135-7ef",
-    "url": "https://www.ithome.com/0/975/703.htm",
+    "title": "蠕行越障 + 一体三联屏，华为余承东晒享界 G9 穿越泥坑烂路视频",
+    "summary": "<p>IT之家 7 月 13 日消息，今日，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东通过社交媒体发布了一段享界 G9 穿越一段复杂的泥坑烂路的视频，首次向外界展示了该车的内饰布局及部分核心功能配置。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/9cb63482-b6d8-4d45-afb7-e926d6df15a7.jpg\" /></p><p>视频显示，享界 G9 在座舱设计方面采用了全新一体式三联屏方案，并配备 AR-HUD 抬头显示系统。换挡机构采用电子怀挡设计，中控台下方设置五颗实体按键，便于驾驶员进行一键快捷操作。此外，电子内后视镜上方区域亦设有实体按键，同时该区域集成眼镜盒。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/0e896359-243f-4038-a3fe-21ee861406",
+    "url": "https://www.ithome.com/0/975/933.htm",
     "platform": "ITHome"
   },
   {
-    "title": "阶跃星辰端侧模型全家桶 Step Edge 登场，面向手机、汽车等终端场景",
-    "summary": "<p>IT之家 7 月 12 日消息，阶跃星辰今天宣布推出 Step Edge 端侧模型全家桶，包含 Step Edge 基础模型、Step Edge Audio、Step Edge GUI 和 Step Edge Gen 四款产品。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/c7da16d9-cdc4-4080-8c86-7f0e1e083bd0.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家了解到，这四款模型面向手机、汽车等终端场景，旨在让 Agent 不只停留在云端，而是能够真正进入终端，在本地更快响应、更好保护隐私，并通过端云协同完成更复杂的任务。</p><p>同时，Step Edge 具备三大核心亮点：</p><ul class=\" list-paddingleft-2\"><li><p><strong>超低本地延迟：</strong>支持低至 <",
-    "url": "https://www.ithome.com/0/975/681.htm",
+    "title": "人形机器人关节公司零差云控完成数亿元 C++ 轮融资，金额达数亿元",
+    "summary": "<p>IT之家 7 月 13 日消息，据《科创板日报》今天报道，人形机器人关节公司零差云控近日完成 C++ 轮融资，<strong>金额达数亿元</strong>。本轮融资由同创伟业领投，国泰君安创新投资跟投，老股东华控基金追加投资。</p><p>据悉，本轮资金将主要用于产能扩张和全球市场布局，源式资本担任独家财务顾问，并联合一苇资本共同规划后续融资策略。</p><p>IT之家查询互联网公开资料获悉，零差云控是一家位于深圳的机器人核心零部件制造企业，成立于 2016 年。其主要产品为高精度、高可靠性的机器人关节模组（eRob 系列）和编码器（eCoder 系列），广泛应用于工业自动化、协作机器人、手术机器人及人形机器人等领域。</p><blockquote class=\"ai-point\"><h3>延伸阅读</h3><p><span>零差云控此前已完成多轮融资。该公司在 2024 年 4 月宣布完成数亿元 C 轮融资，由中金资本领投，国泰君安创新投资、华控基金等跟投。</span></p><p><span>零差云控的机器人关节模组（eRob 系列）采用高精度编码器、无框力矩电机和驱动器",
+    "url": "https://www.ithome.com/0/975/925.htm",
     "platform": "ITHome"
   },
   {
-    "title": "鸿蒙智行全新一代问界 M9 双百万像素智慧投影大灯会“抠图”，官方发文详解能力边界",
-    "summary": "<p>IT之家 7 月 12 日消息，鸿蒙智行全新一代问界 M9 已于今年 5 月发布，<a href=\"https://www.ithome.com/0/956/061.htm\" target=\"_blank\">提供标准尺寸及 Ultimate 领世加长版两款车型</a>，定价 47.98 万元起。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/45bbde71-ea59-428d-a701-066e28472307.png?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p>该车行业首发了双百万像素全彩智慧投影大灯技术。IT之家注意到，赛力斯集团董事、副总裁康波今日发布《问界 M9 答网友问》，解答了该技术相关问题。</p><p>据介绍，双百万像素全彩智慧投影大灯的百万像素级 ADB 能精确到像素点，<strong>遮蔽对向车辆和行人，对方不眩目",
-    "url": "https://www.ithome.com/0/975/678.htm",
+    "title": "韩国法院：两名三星前员工 2027 年 4 月 30 日前不得入职 SK 海力士",
+    "summary": "<p>IT之家 7 月 13 日消息，据界面新闻报道，韩国水原地方法院近日就三星电子诉两名前 NAND 闪存设计员工跳槽至竞争对手 SK 海力士一案作出裁决，部分支持了三星提出的竞业禁止请求。根据法院裁定，这两名员工在 2027 年 4 月 30 日之前不得为 SK 海力士及其关联公司工作。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/100bb573-b63f-48b4-95a7-2622238a13cb.jpg?x-bce-process=image/format,f_auto\" /></p><p>本案源于三星电子对其核心人才流失的担忧。据了解，这两名员工在三星存储器部门任职约 10 至 11 年，深度参与 NAND 闪存设计工作，于今年 2 月跳槽到 SK 海力士。三星方面此前依据竞业禁止协议，要求法院对两人实施为期两年的就业限制。</p><p>IT之家注意到，法院在审理后认定，涉案的 NAND 闪存设计技术",
+    "url": "https://www.ithome.com/0/975/917.htm",
     "platform": "ITHome"
   },
   {
-    "title": "AI 将能查询实时空气、交通信息，韩国首尔将试点公共数据 MCP 服务",
-    "summary": "<p>IT之家 7 月 12 日消息，据韩媒 Etnews 报道，韩国首尔市今天宣布，将率先在公共数据服务领域试点 MCP（IT之家注：模型上下文协议）服务。未来，当用户向 AI 询问“现在明洞有多挤”“汉江空气质量如何”等问题时，得到的不再是互联网流传过时信息。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/28bdf12d-7924-4760-a08d-c7b79b3813fc.png?x-bce-process=image/format,f_auto\" /></p><p>据报道，MCP 是一种将 AI 与公共数据直接连接的技术。此前，<strong>AI 大模型主要依赖训练数据库或互联网搜索结果生成回答</strong>，<strong>因此会出现将错误信息当真的“幻觉”现象</strong>。</p><p>首尔市政府表示，AI 可以在接入 MCP 后直接查询政府公共数据，因此能够提供更准确、可靠的回答结果。例",
-    "url": "https://www.ithome.com/0/975/674.htm",
+    "title": "谷歌抢苹果首发？曝 Tensor G6 芯片将率先用上台积电 2nm 工艺",
+    "summary": "<p>IT之家 7 月 13 日消息，据中国台湾地区媒体《经济日报》今天报道，台积电 2nm 制程工艺已开始量产。出人意料的是，谷歌这次似乎抢到了沙发，其 8 月中旬推出的 Pixel 11 系列手机，预计将搭载台积电 2nm 打造的 Tensor G6 芯片，比苹果还早一个月。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/9618edbc-23f4-466e-b102-a2c89ba416b0.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家从原报道获悉，台积电过往推出最新制程，苹果都是首个采用并导入自家移动设备的客户。<strong>不过这种惯例今年被打破</strong>，<strong>谷歌将成为台积电 2nm 首发客户</strong>，引发关注。不过业界认为，随着旗舰手机导入 2nm 工艺成为主流，台积电将成最大赢家。</p><p>目前，谷歌已经发",
+    "url": "https://www.ithome.com/0/975/909.htm",
     "platform": "ITHome"
   },
   {
-    "title": "周星驰导演电影《功夫女足》首日票房超 2.5 亿，一举打破 7 项中国影史纪录",
-    "summary": "<p>IT之家 7 月 12 日消息，据灯塔专业版实时数据，截至 7 月 12 日 9 时 43 分，影片《功夫女足》票房突破 3 亿。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/5a4ae8c4-d66b-4101-a164-73496d70af1a.png\" /></p><p>值得一提的是，本片首日票房超 2.5 亿，贡献大盘票房 80.1％，带动大盘票房时隔 136 天再破 3 亿。另外，《功夫女足》首日排片场次超 23 万，观众人次超 579 万，<strong>一举打破 7 项中国影史纪录</strong>：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p>过去五年暑期档影片首映日人次纪录：579.0 万人次</p></li><li><p>过去三年暑期档影片首映日票房纪录：1.85 亿</p></li><li><p>过去三",
-    "url": "https://www.ithome.com/0/975/673.htm",
+    "title": "鑫谷昆仑山海 MU-850GD 电源新增白色版，899 元",
+    "summary": "<p>IT之家 7 月 13 日消息，鑫谷昆仑山海 MU-850GD 电源现已新增白色版本，新品主打 125mm 短盾架构、支持 ATX 3.1，具备 80 PLUS 金牌认证，<strong>售价 899 元</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/6ad6607e-4398-4472-bb08-c5b04d50b6ee.jpg\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/f26bbaa9-f802-4848-a141-4cd118466a71.jpg\" /></p><p>据介绍，这款电源采用双 MCU 微控制器架构，可为消费级用户带来更纯净电能。支持 HiMOS2 统一智慧生态，5 大重点指标实时可读。支持连接鑫谷生态水冷、机箱和 HiPHANT 幻智副屏，可实时阅览电源数据。</p",
+    "url": "https://www.ithome.com/0/975/902.htm",
     "platform": "ITHome"
   },
   {
-    "title": "一汽悦意 08 上市：纯电 / 增程双动力，起售价 9.99 万元",
-    "summary": "<p>IT之家 7 月 12 日消息，今日，一汽悦意品牌旗下全新车型悦意 08 正式上市，新车共推出 6 款配置，官方指导价区间为 9.99 万至 13.99 万元，并同步推出包含多重权益的上市礼遇方案。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/c58deb2e-21c4-4290-8c8b-2bd45cc6faf8.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://qimg.ithome.com/newfiles/2026/7/e49ec17a-1e67-4528-9328-df7a30e6a7c2.jpg?x-bce-process=image/format,f_auto\" /></p><p>作为一汽悦意 B+ 级序列的首款旗舰家用轿",
-    "url": "https://www.ithome.com/0/975/671.htm",
+    "title": "现代汽车工会启动为期三天的罢工，要求延长退休年龄并保障就业",
+    "summary": "<p>IT之家 7 月 13 日消息，据 BusinessKorea 报道，随着韩国现代汽车工会于当地时间 7 月 13 日启动为期三天的部分罢工，要求延长退休年龄并保障就业，现代汽车生产基地的劳资矛盾进一步升级。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/90798c0d-b95d-4c76-8657-3b0c73b460f1.png?x-bce-process=image/format,f_auto\" /></p><p>韩国金属工人工会现代汽车分会决定，于 7 月 13 日至 7 月 15 日期间，各班组每日停工两小时。</p><p>此次罢工安排在每个 8 小时总工时的最后两小时进行，因此三天累计将导致生产线停工 12 小时。由于多个班次将在下午时段同时参与罢工，预计届时生产受到的影响将达到峰值。</p><p>汽车制造属于连续生产流程，即使是短时间停工，也会对整个生产体系造成较大冲击。</p><p>作为参考，",
+    "url": "https://www.ithome.com/0/975/895.htm",
     "platform": "ITHome"
   },
   {
-    "title": "飞傲预热雪漫天 NATURE 头戴式耳机，7 月 15 日开售",
-    "summary": "<p>IT之家 7 月 12 日消息，飞傲官方今天在微博发文，预热雪漫天 NATURE 头戴式耳机。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/4ea107bc-03df-49c9-a3af-dc616faf4944.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家从飞傲官博了解到，<strong>这款耳机搭载 50mm 大尺寸动圈单元</strong>，搭配日本进口炭黑振膜。拥有 19μm PET 为刚性骨架、融合 30μm 柔软 TPU 层，可带来更佳的耐用度、更小的失真和更深邃的低音，号称“让耳朵重归声音的自然本真”。</p><p>外观方面，这款耳机采用木质面板，搭配皮革材质头梁。从宣传图可以看出，该机支持更换连接线材，头梁与发声单元则是采用金属件连接。</p><p>此外，<strong>这款耳机将在 7 月 15 日 10:00 发售</strong",
-    "url": "https://www.ithome.com/0/975/670.htm",
+    "title": "“人工骨”研发企业奥精医疗上演内部“逼宫”大戏，83 岁女董事长遭女儿女婿提议罢免",
+    "summary": "<p>IT之家 7 月 13 日消息，据科创板日报报道，奥精医疗上演实控人家族内部“逼宫”大戏。</p><p>报道称，股东崔菡与丈夫胡刚 7 月 5 日联合提议<strong>罢免 83 岁公司董事长黄晚兰的董事职务</strong>，并谋求增补胡刚重回董事会，而黄晚兰正是崔菡的母亲。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/cc5284ae-62ae-4f4c-bd75-9d44245a10d5.png?x-bce-process=image/format,f_auto\" /></p><p>7 月 11 日，奥精医疗发布关于股东临时提案不予提交股东会审议的公告，公司第三届董事会任期自 2025 年 11 月 26 日起至 2028 年 11 月 26 日止。目前，公司尚在任期内的现任第三届董事共计 9 名，任职资格均符合《公司法》《上海证券交易所科创板上市公司自律监管指引第 1 号 —— 规范运作》等法律、行",
+    "url": "https://www.ithome.com/0/975/893.htm",
     "platform": "ITHome"
   },
   {
-    "title": "特斯拉 2025 年电池回收量增长 20%，回收超 1.4 万吨材料可造 4.6 万块新电池",
-    "summary": "<p>IT之家 7 月 12 日消息，电动汽车反对者常见的一种误解是，电动车电池会对环境造成严重危害，其产生的废弃物远大于价值。然而，从特斯拉最新公布的电池回收数据来看，这家公司正在以前所未有的力度回收电池材料，并让大量电池资源获得“第二次生命”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/1c861d92-d9ef-48bf-b58d-d4afed98894e.jpg?x-bce-process=image/format,f_auto\" /></p><p>根据特斯拉发布的 《2025 年影响力报告（Impact Report）》，公司去年在电池回收方面取得了一项重要里程碑：电池回收量较 2024 年增长了 20%。</p><p>报告显示，特斯拉通过旗下超级工厂（Gigafactory）的自有回收设施，以及与第三方回收企业合作，全年共回收了超过 1.4 万公吨电池材料。</p><p>特斯拉表示，这些回收得到的材料",
-    "url": "https://www.ithome.com/0/975/668.htm",
+    "title": "美初创公司 Reflect Orbital 获 FCC 批准发射轨道反光卫星，意图“按需”照亮地球",
+    "summary": "<p>IT之家 7 月 13 日消息，美国加州初创公司 Reflect Orbital 日前获得了美国联邦通信委员会（FCC）的批准，可发射其首颗轨道反光卫星 Eärendil-1。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/d5df4d3f-1603-444c-9780-04e5c1398b30.png?x-bce-process=image/format,f_auto\" /></p><p>据IT之家了解，这家公司将自己定位为“阳光公司（The Sunlight Company）”，目标是让“清洁、充足的能源能够按需获取”。</p><p>据《SpaceNews》报道，Eärendil-1 是一颗低地球轨道卫星，配备了 4 块长约 18 米的薄膜反射镜，可将阳光反射到地球上的特定区域。</p><p>此次发射主要用于验证该卫星将白昼延长数分钟的能力。这项技术未来可应用于建筑工地夜间照明、搜救行动，以及提高太阳能发电站的发电效率等场景。</p><p>Re",
+    "url": "https://www.ithome.com/0/975/891.htm",
     "platform": "ITHome"
   },
   {
-    "title": "分析师：特斯拉 FSD 即将迎来属于自己的 iPhone 时刻",
-    "summary": "<p>IT之家 7 月 12 日消息，一位长期关注特斯拉的分析师认为，特斯拉 FSD（Full Self-Driving）系统正接近一个“拐点（inflection point）”，届时人们将逐渐意识到，它的价值远不止是一项驾驶辅助功能，就像当年的 iPhone 一样。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/32e83dd9-5ee3-4975-b95f-672edb03b8d6.jpg?x-bce-process=image/format,f_auto\" /></p><p>长期跟踪特斯拉的新街研究公司（New Street Research）分析师 Pierre Ferragu 表示，FSD 是证明“特斯拉不仅仅是一辆汽车”的重要依据。</p><p>他将特斯拉与苹果 iPhone 进行了类比。Ferragu 指出，iPhone 刚推出时，很多人都觉得它价格过高，仅仅作为一部手机并不值得花那么多钱。但后来，人",
-    "url": "https://www.ithome.com/0/975/667.htm",
+    "title": "酷态科神秘新品 7 月 16 日亮相，预计为车载无线充",
+    "summary": "<p>IT之家 7 月 13 日消息，酷态科官方今天在微博预热一款神秘新品，<strong>7 月 16 日亮相</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/d0308a97-ff75-4a63-b359-9fc543a456a2.jpg\" /></p><p>虽然官方并没有明说这款新品归属什么品类，但我们结合预热图片中的产品外观、形态不难看出，<strong>这款新品应该是一款车载无线充电器</strong>。</p><p>不过，酷态科官方目前还没有公布这款新品的规格、参数，IT之家将持续关注，第一时间带来最新消息。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\"></p>",
+    "url": "https://www.ithome.com/0/975/887.htm",
     "platform": "ITHome"
   },
   {
-    "title": "分析师：即使窃密指控未获证实，苹果诉讼仍可能重创 OpenAI 硬件计划",
-    "summary": "<p>IT之家 7 月 12 日消息，苹果前天在美国起诉 OpenAI，指控其挖角 400 名员工、窃取工程机和机密文件。一位分析师认为，这场诉讼将成为 OpenAI 绕过 iPhone、直接与消费者建立联系的一大障碍。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/e3e140f0-969c-4059-950c-dc72de7f76c0.jpg?x-bce-process=image/format,f_auto\" /></p><p>据科技媒体 Wccftech 昨天报道，PP Foresight 分析师 Paolo Pescatore 表示，两家公司的关系正在逐步恶化，即使苹果提出的指控最终无法证实，OpenAI 的硬件计划仍可能受到影响。</p><p>他对此解释道：“苹果眼睁睁看着 OpenAI 从合作伙伴变成竞争对手，而 OpenAI 则试图降低 iPhone 依赖，与消费者建立直接联系。即使诉状中的指控没有得",
-    "url": "https://www.ithome.com/0/975/666.htm",
+    "title": "归元平台首款方盒子车型，长城 H10 将于 7 月 18 日开启预售",
+    "summary": "<p>IT之家 7 月 13 日消息，据易车今天报道，<strong>长城 H10 汽车将在 7 月 18 日开启预售</strong>，这款车是归元平台首款方盒子车型，<strong>应用“方鼎美学”设计语言</strong>，搭载 Coffee Pilot 3 高阶智驾辅助系统。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/56a8082f-b390-4ae0-bc60-ecbb7f7c7236.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，这款汽车采用“方鼎美学”设计语言，从中国“方鼎”中汲取设计灵感；新车前脸配备矩形大灯组与半封闭式格栅，车顶集成激光雷达模组与行李架，融合新能源车型科技感和硬派 SUV 的力量感。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https:",
+    "url": "https://www.ithome.com/0/975/886.htm",
     "platform": "ITHome"
   },
   {
-    "title": "鸿蒙智行新款智界 R7 纯电车型申报：镂空车标、B 柱侧向摄像头，或改用双联屏",
-    "summary": "<p>IT之家 7 月 12 日消息，工信部发布第 409 批《道路机动车辆生产企业及产品公告》新产品公示，鸿蒙智行新款智界 R7 纯电版完成申报。</p><p style=\"text-align: center;\"><img alt=\"智界R7 左前视图\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/b7eb0f78-59f2-4251-bdc2-bc8a8317a360.jpg?x-bce-process=image/format,f_auto\" /></p><p>本次申报共有三款纯电动智界 R7，均为 5 座多用途乘用车，<strong>由奇瑞汽车股份有限公司生产</strong>。车辆长宽高为 4982×1981×1634/1650mm，轴距 2950mm，最高车速 200km/h，额定载客 5 人。</p><p style=\"text-align: center;\"><img alt=\"智界R7 尾部视图\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/978d1",
-    "url": "https://www.ithome.com/0/975/665.htm",
+    "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+    "summary": "<p>IT之家 7 月 13 日消息，努比亚手机官微今日宣布，AI 陪伴新物种 iMoochi 将于 7 月 17 日 10 点在中兴商城及各大电商平台正式上线。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/7fce1b0f-edef-4711-9c8e-5eb436366dd4.jpg\" /></p><p>据IT之家了解，iMoochi 是中兴通讯在 2026 年世界移动通信大会（MWC26）上推出的情感陪伴 AI 宠物机器人，以萌系设计和拟生命体交互为核心，瞄准都市独居人群的情感需求，成为当前 AI 硬件赛道中独特的存在。</p><p>据悉，iMoochi 拥有拟生命体交互体验，支持触感与反馈：通过头部轻碰、持续抚摸等动作触发摇头、摆尾、发声等多维反馈，毛茸外形搭配云朵触感增强温暖感。支持个性养成：随使用时间增长，iMoochi 会发展出独特“性格”和“生活节奏”，例如打哈欠、感知饥饿冷暖、主动玩耍等拟生命行为",
+    "url": "https://www.ithome.com/0/975/885.htm",
     "platform": "ITHome"
   },
   {
-    "title": "特斯拉 46 天拆除 Model S/X 产线，为 Optimus 人形机器人量产铺路",
-    "summary": "<p>IT之家 7 月 12 日消息，特斯拉近日发布了一段视频，展示了位于美国加州北部弗里蒙特工厂（Fremont Factory）原有 Model S 和 Model X 生产线的拆除过程。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/d04afb90-dc43-4b00-a0c4-05d3fae2bc1a.jpg\" /></p><p>整个拆除工程仅耗时 46 天，期间动用了大量重型机械，拆除了混凝土地基、机器人机械臂以及输送设备，为新的生产线腾出空间。</p><p style=\"text-align: center;\"> </p><p>IT之家注意到，特斯拉在发布视频时配文称：“一个时代的结束（End of an era）。”</p><p>这不仅意味着 Model S 和 Model X 生产时代正式落幕，也标志着特斯拉正全面转向下一项重大业务 ——Optimus 人形机器人。</p><p>停止生产 Model S 和 Model X 的决定，最早",
-    "url": "https://www.ithome.com/0/975/664.htm",
+    "title": "小米澎程道路测试历时两冬两夏，累计 626 天、428 万公里",
+    "summary": "<p>IT之家 7 月 13 日消息，小米澎程官方微博今日发文称，2024 年 10 月 12 日，小米澎程第一台测试车就已经正式上路。截至 6 月 30 日，累计道路测试 626 天，历经两冬两夏，投入测试车辆 566 台，累计实测里程达 428 万公里。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/ad70ffc0-c4b8-4216-9a46-a18fc7f9056d.jpg\" /></p><p>小米澎程称：“我们始终相信，只有长期坚持真实道路测试，才能理解用户真实场景，真正发现问题、解决问题，不断提升安全与质量上限。”</p><p>IT之家注意到，根据小米汽车官方此前的说法，SkyNomad 小米澎程与小米 SU7/YU7 系列，是平行并列的双系列。只是产品方向各有侧重，SU7/YU7 定位“驾驶者之车”，而小米澎程系列定位“智能可变大空间 SUV”，为用户提供更多的车内空间使用选择。大尺寸车身为小米澎程系",
+    "url": "https://www.ithome.com/0/975/883.htm",
     "platform": "ITHome"
   },
   {
-    "title": "努比亚倪飞谈 AI 智能体手机，称下半场会从“功能叠加”走向“原生智能体”",
-    "summary": "<p>IT之家 7 月 12 日消息，中兴通讯终端事业部总裁、努比亚技术有限公司总裁倪飞发布长文，谈及了 AI 智能体手机。他表示，<strong>AI 手机的下半场会从“功能叠加”走向“原生智能体”</strong>。不再是用户迁就手机的逻辑，而是手机主动理解人的需求。</p><p>倪飞提到，努比亚探索了智能体手机最核心的四把能力标尺，包括：要听得懂最自然的表达，不用刻意迁就话术，随时响应要能帮你把交代的事办完；要能记得住你的习惯与备忘，不用反复交代，有序沉淀；也更要把安全作为底层地基，所有能力都建立在完备的隐私防护之上。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/de92d848-2baa-4e2d-9a40-182d74b8ed3f.jpg?x-bce-process=image/format,f_auto\" /></p><p>据IT之家此前报道，倪飞此前发文表示，努比亚将推出全球首款 AI 智能体手机。该",
-    "url": "https://www.ithome.com/0/975/662.htm",
+    "title": "259 元，小米米家显示器挂灯 2 上线众筹页面",
+    "summary": "<p>IT之家 7 月 13 日消息，小米有品众筹页面今日上线了一款米家显示器挂灯 2 新品，<strong>众筹价 259 元</strong>，将于 7 月 15 日 10 点开启众筹（<a href=\"https://c.duomai.com/track.php?aid=4705&amp;dm_fid=16052&amp;euid=&amp;site_id=261624&amp;t=https%3a%2f%2fwww.xiaomiyoupin.com%2fdetail%3fgid%3d184163%26spmref%3dYouPin_A.share.share_pop_copy.4.82807016\" target=\"_blank\">点此参与</a>）。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/be99aecf-e495-49b6-bddf-7db866c67d4e.jpg\" /></p><p>米家显示器挂灯 2 采用<strong>新一代非",
+    "url": "https://www.ithome.com/0/975/882.htm",
     "platform": "ITHome"
   },
   {
-    "title": "特斯拉披露 Cybercab 更多细节：全新超高效动力总成、4680 电池、低压电气架构等",
-    "summary": "<p>IT之家 7 月 12 日消息，特斯拉日前发布了 《2025 年影响力报告（Impact Report）》，其中披露了大量有关即将推出的 Cybercab 自动驾驶出租车的新细节。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/ac5d1c58-eccd-4011-86b0-71768d94c14a.png?x-bce-process=image/format,f_auto\" /></p><p>这款专为 Robotaxi 打造的车型将重新定义共享出行，此次报告首次较为完整地介绍了 Cybercab 所采用的硬件配置以及全新的制造工艺。</p><p>根据特斯拉披露的信息，这款双座车型将依靠全新的动力系统、4680 电池以及革命性的制造工艺，实现极低成本和超高效率。</p><p>特斯拉表示，Cybercab 将基于全新的下一代平台打造。报告写道：“Cybercab 将采用我们的下一代平台，搭载预计可实现至少每千瓦时",
-    "url": "https://www.ithome.com/0/975/661.htm",
+    "title": "前 R 星制作人揭秘《GTA6》为何首发不上 PC：资源调配与优化复杂度是主因",
+    "summary": "<p>IT之家 7 月 13 日消息，前 Rockstar 制作人约翰 · 里奇奥（IT之家注：John Riccitiello）昨天出席 Kiwi Talkz 播客节目，谈到 R 星旗下作品为何总是首发上主机、过一两年后才上 PC。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/16597e55-69e9-461f-987d-7a428d34065c.jpg?x-bce-process=image/format,f_auto\" /></p><p>这名参与过《侠盗猎车手 V》《荒野大镖客：救赎》的制作人表示，R 星游戏首发不上 PC 的原因，主要与开发过程中可调配的资源有关。他解释称，如果要在开发主机版本的同时制作 PC 版本，就必须将部分主机团队成员分配到 PC 团队，“如果你在做这件事，那就意味着你无法去做其他事情”，他说道。</p><p>他的这番话表明，<strong>R 星更倾向于将开发资源集中在主机版本</",
+    "url": "https://www.ithome.com/0/975/881.htm",
     "platform": "ITHome"
   },
   {
-    "title": "佳能 EOS R8 II 相机规格曝光：3250 万像素全画幅传感器、取消机械快门",
-    "summary": "<p>IT之家 7 月 12 日消息，据 Canon Rumors 昨日爆料，佳能 EOS R8 Mark II 相机将于 9 月初发布，采用复古设计。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/3e173245-156d-42e6-a286-47da0de2bd0a.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，<strong>这款相机将搭载 3250 万像素全画幅 CMOS 传感器</strong>，具备五轴机身防抖，电子快门最高连拍速度可达 40fps，取消机械快门。<strong>拥有双 SD 卡插槽</strong>，支持 4K 视频录制（IT之家注：不支持 7K）。</p><p>不过，目前我们还无法得知这款相机的外观，<strong>真机谍照预计还要等一个月左右才能流出</strong>。</p><p>此外，EOS R8 Mark II 将与 ",
-    "url": "https://www.ithome.com/0/975/660.htm",
+    "title": "全球车企利润大缩水：特斯拉单车利润暴跌 40%",
+    "summary": "<p>IT之家 7 月 13 日消息，受美国汽车关税以及电动汽车需求放缓影响，2025 财年全球七大汽车制造商的单车利润普遍下滑，其中一向拥有最高盈利能力的特斯拉单车利润大跌 40%。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/7/5a808936-e658-4e06-8879-94df764bfee3.png?x-bce-process=image/format,f_auto\" /></p><p>日本经济新闻（Nikkei）根据各家公司披露的数据以及 QUICK FactSet 数据，对全球销量排名前五的汽车制造商，以及美国电动汽车巨头特斯拉和中国比亚迪共七家车企进行了统计分析。</p><p>由于日本车企与海外车企财年截止时间不同，海外车企采用截至 2026 年 3 月的最近四个季度净利润除以全球销量计算单车利润；而未公布季度利润的 Stellantis，则采用 2025 自然年的数据。</p><p>统计结果显示，",
+    "url": "https://www.ithome.com/0/975/880.htm",
     "platform": "ITHome"
   },
   {
-    "title": "猛士 X700 官图发布：采用“原创雄魂美学基因”设计，华为乾崑同步上车",
-    "summary": "<p>IT之家 7 月 12 日消息，猛士汽车官方今日发布了 X 系列首款新车 —— 猛士 X700 的官图，主打“原创雄魂美学基因”和“全场景智享体验”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/22654365-931d-4fb3-aac7-38d6a21cf021.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/4b54d8d3-f77a-4e88-a225-1b75dec64cd3.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=",
-    "url": "https://www.ithome.com/0/975/659.htm",
+    "title": "韩国央行：AI 驱动的半导体超级周期未结束，供应扩张受限将支撑长期增长",
+    "summary": "<p>IT之家 7 月 13 日消息，韩国央行表示，全球半导体市场目前仍处于供不应求状态，由人工智能推动的新一轮行业超级周期（Supercycle）预计还将持续一段时间，并否认了市场有关“芯片周期已经见顶”的担忧。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/ff981935-0ecd-4222-944f-5a5a1b43b922.jpg?x-bce-process=image/format,f_auto\" /></p><p>韩国银行（BOK，韩国央行）周一发布的一份报告指出：“随着人工智能基础设施投资快速增长，全球半导体需求大幅攀升，但供应扩张速度相对缓慢。”该报告提交给韩国国会议员朴成勋（Park Sung-hoon），并表示当前半导体景气周期尚未出现放缓迹象。</p><p>韩国央行认为，本轮半导体周期与以往最大的不同在于，<strong>其驱动力来自企业为迎接 AI 带来的产业生态变革而展开的竞争性投资，而非",
+    "url": "https://www.ithome.com/0/975/879.htm",
     "platform": "ITHome"
   },
   {
-    "title": "特斯拉正开发 Grok 语音控制 FSD 功能，未来可像与司机对话般指挥自动驾驶",
-    "summary": "<p>IT之家 7 月 12 日消息，与汽车交流的方式，即将变得更像与一位专属司机对话，而不再只是生硬地下达语音指令。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/148ae070-8f7f-401d-bab9-1a921ec85d3c.png?x-bce-process=image/format,f_auto\" /></p><p>随着特斯拉不断将人工智能引入车内，下一步的发展重点将是让 Grok AI 聊天机器人与车辆的自动驾驶系统深度结合，使 AI 不仅能聊天，还能真正影响车辆驾驶行为。</p><p>IT之家注意到，近日，科技记者兼特斯拉车主 @ChrissGPT 在 X 平台分享了自己对 FSD（Full Self-Driving）的使用体验。他表示：“如果我能像对司机说话一样，直接告诉 FSD 要驶入哪一个车道、哪一户人家的车道，那么 FSD 在住宅区的实用性至少能提升一倍。”</p><p>他还举例称，如果",
-    "url": "https://www.ithome.com/0/975/658.htm",
+    "title": "曝某厂子系骁龙 8 Elite Gen 6 Pro 工程机测试 1115 系高规格对称双扬，预计为 iQOO 16",
+    "summary": "<p>IT之家 7 月 13 日消息，博主 @数码闲聊站 今天在微博透露，某厂子系骁龙 8 Elite Gen 6 Pro 工程机正在测试 1115 系高规格对称双扬声器。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/15098004-77c3-4c32-ac7e-53defa3bb8f7.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，这款手机的 X 轴线性马达是 0916 系列，拥有独显芯片、3D 超声波指纹、IP68/IP69 防尘防水、USB 3.2 和 AR 膜等配置，主摄测试 OV50Q 传感器。</p><p>后续有用户在评论区询问：“能做四等边了吗”，博主回复道：“不一定嗷”；另一名用户则询问道：“电池给到 8500 了吗”，博主则回复称：“8500 左右”。</p><p style=\"text-align: center;\"><img clas",
+    "url": "https://www.ithome.com/0/975/878.htm",
     "platform": "ITHome"
   },
   {
-    "title": "机身短了，影石 Insta360 X6 全景相机外观曝光",
-    "summary": "<p>IT之家 7 月 12 日消息，德国媒体 WinFuture 前天公布了影石 Insta360 X6 全景相机的渲染图片，新机尺寸相比前代机型有所变化，预计将支持 8K 50fps 全景视频拍摄。</p><p style=\"text-align: center;\"><img src=\"https://qimg.ithome.com/newfiles/2026/7/bd9dc96f-b0b2-4594-9a3f-ed310dcb23c8.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，Insta360 X6 采用了更加紧凑的设计，长度相比以往产品明显变短。影石过去几代 X 系列产品机身普遍较长，而 X6 则更加接近传统运动相机。机身顶部带有两枚摄像头，正面还带有显示屏，可用于预览拍摄画面。</p><p style=\"text-align: center;\"><img src=\"https://qimg.ithome.com/newfiles/2026/7/f5aeb726-4e6d-4f0e-9cec-834a7b6fa8f0",
-    "url": "https://www.ithome.com/0/975/656.htm",
+    "title": "小米汽车：SU7 拿下 20 万以上轿车 6 月销量第一、20 万以上纯电轿车上半年销量冠军",
+    "summary": "<p>IT之家 7 月 13 日消息，小米汽车今日宣布，旗下首款车型小米 SU7 在 2026 年 6 月成功登顶 20 万元以上轿车市场（不分能源类型）销量冠军，同时斩获 2026 年上半年 20 万元以上纯电轿车市场累计销量冠军。该数据来源于易车销量榜 2026 年 6 月统计。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/73a6d3c1-e462-4d27-bd8c-62ff9b625920.jpg?x-bce-process=image/format,f_auto\" /></p><p>小米汽车官方微博在 7 月 1 日宣布：2026 年 6 月，<a href=\"https://www.ithome.com/0/970/845.htm\" target=\"_blank\">小米汽车交付量持续超过 30000 台</a>。小米汽车官方并未公布具体的交付数据，不过在乘联分会公布的 2026 年 6 月份全国乘用车",
+    "url": "https://www.ithome.com/0/975/877.htm",
     "platform": "ITHome"
+  },
+  {
+    "title": "你这图「保真」吗？AI 生图时代的信息防伪",
+    "summary": "人类记录信息的方式一直在变化，但我们对「真实性」的需求从未改变。<a href=\"https://sspai.com/post/112185\" target=\"_blank\">查看全文</a>",
+    "url": "https://sspai.com/post/112185",
+    "platform": "SSPai"
+  },
+  {
+    "title": "派早报：苹果起诉 OpenAI 窃取商业机密",
+    "summary": "<p>苹果起诉 OpenAI 窃取商业机密</p><p>变压器短缺掣肘数据中心扩张</p><p>世界杯带动小红书使用时长大幅提升</p><p>废弃 IBM 园区成网红景点</p><p>SpaceX 申请发射十万颗卫星</p><p>高技能人士正大规模「打零工」参与模型训练</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/112215\" target=\"_blank\">查看全文</a>",
+    "url": "https://sspai.com/post/112215",
+    "platform": "SSPai"
   },
   {
     "title": "6月音乐精选：不得不听的 17 张……没错 17 张专辑！",
@@ -1518,16 +1482,10 @@
     "platform": "SSPai"
   },
   {
-    "title": "角落新声｜在陌生的城市里，寻找属于自己的角落",
-    "summary": "角落的意义或许在于与世界保持恰当的距离，允许生活在身边流淌，也允许自己在这些声音之中，重新听见自己的声音。<a href=\"https://sspai.com/post/111983\" target=\"_blank\">查看全文</a>",
-    "url": "https://sspai.com/post/111983",
-    "platform": "SSPai"
-  },
-  {
-    "title": "派早报：GPT-5.6 即将开放使用、Nothing 发布 Phone (4b) 等",
-    "summary": "Notion 推出全新应用 Agents、Jolla Phone (2026) 手机正式发售等。<a href=\"https://sspai.com/post/112091\" target=\"_blank\">查看全文</a>",
-    "url": "https://sspai.com/post/112091",
-    "platform": "SSPai"
+    "title": "赛力斯发布2026年半年度业绩预告，利润短期承压主要系成本上涨所致",
+    "summary": "<p style=\"text-align: justify; margin-top: 0px; margin-bottom: 0px;\"><span>7月</span><span>12</span><span>日，赛力斯披露2026年半年度业绩预告，预计2026年半年度实现归属于母公司所有者的净利润</span><span>为</span><span>-18.00亿元至-15.00亿元</span><span>。</span></p><p style=\"margin-top: 0; margin-bottom: 0;\"><span style=\"font-family: 'HarmonyOS Sans SC'; font-size: 12pt;\">赛力斯在公告</span><span style=\"font-family: 'HarmonyOS Sans SC'; font-size: 12pt;\">中</span><span style=\"font-family: 'HarmonyOS Sans SC'; font-size: 12pt;\">表示，</span><span style",
+    "url": "https://www.leiphone.com/category/industrynews/6s3EMXq62OqnnGfl.html",
+    "platform": "Leiphone"
   },
   {
     "title": "小红书捐赠1000万元，支援广西、湖北等地救灾",
@@ -1641,12 +1599,6 @@
     "title": "腾势Z全球首发！比亚迪携旗下三大汽车品牌再次亮相英国古德伍德速度节",
     "summary": "<p style=\"text-align: left; margin-top: 0px; margin-bottom: 0px;\"><span>当地时间7月9日，2026年英国古德伍德速度节（Goodwood&nbsp;Festival&nbsp;of&nbsp;Speed）正式启幕。作为全球顶级汽车赛事与文化盛会，本届展会以“巅峰对决·传奇竞速”（ The Rivals - Epic Racing Duels）为核心主题，致敬赛车运动史上的经典竞技瞬间，诠释汽车工业的极限性能内核。</span></p><p style=\"text-align: justify; margin-top: 0; margin-bottom: 0;\"><br /><span style=\"font-family: 'Microsoft YaHei UI'; font-size: 12pt;\">作为古德伍德速度节的连续三年参展品牌，比亚迪再度登陆国际顶级赛场，集结比亚迪、腾势、仰望三大核心品牌强势参展，打造古德伍德速度节33年发展史上规模最大的品牌展台，展出总面积达2016平方米，以空前参展规格刷新盛会单项",
     "url": "https://www.leiphone.com/category/industrynews/qF65ugNmdMRj3KSG.html",
-    "platform": "Leiphone"
-  },
-  {
-    "title": "AFI穿戴系统加持 海尔W3妈妈款外骨骼重构女性长辈助行体验",
-    "summary": "<p>近期，海尔发布了W3妈妈款外骨骼，这款专为娇小身形中老年女性打造的新品，依托其创研的AFI穿戴系统，把轻量化、高适配的智能助行体验推向新高度，也为大众外骨骼行业树立了全新体验标准。</p><p>&nbsp;</p><p>长期以来，市面主流外骨骼多沿用标准化身形设计，忽略了中老年女性的身体特征。根据国民体质监测数据，国内60至79岁女性平均身高集中在154.6-156.3cm，常规机型腿杆偏长、围度宽松，穿戴后容易晃动拖沓，反而加重行走负担。针对这一真实痛点，海尔基于大量线下试穿，反馈打磨出W3妈妈款，机身仅1.65kg，重新收窄腰围、缩短腿杆尺寸，精准适配145-165cm女性长辈身形。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260710/6a505559cda21.png?imageView2/2/w/740\" />&nbsp;</p><p>优异的穿戴表现，底层来自其AFI穿戴系统的加持。它以AI智能算法为核心，内置多维高精传感器，",
-    "url": "https://www.leiphone.com/category/industrynews/8rWzX4SVLFyYtNlV.html",
     "platform": "Leiphone"
   }
 ]
